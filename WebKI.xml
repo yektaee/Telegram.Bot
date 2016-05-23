@@ -1,0 +1,1337 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="Address property">
+    <HelpKINode Title="InlineQueryResultVenue.Address Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultVenue_Address.htm" />
+    <HelpKINode Title="InputVenueMessageContent.Address Property " Url="html/P_Telegram_Bot_Types_InputMessageContents_InputVenueMessageContent_Address.htm" />
+    <HelpKINode Title="Venue.Address Property " Url="html/P_Telegram_Bot_Types_Venue_Address.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Administrator enumeration member" Url="html/T_Telegram_Bot_Types_Enums_ChatMemberStatus.htm" />
+  <HelpKINode Title="AnswerCallbackQuery method" Url="html/M_Telegram_Bot_Client_AnswerCallbackQuery.htm" />
+  <HelpKINode Title="AnswerInlineQuery method" Url="html/M_Telegram_Bot_Client_AnswerInlineQuery.htm" />
+  <HelpKINode Title="Api class">
+    <HelpKINode Title="Api Class" Url="html/T_Telegram_Bot_Api.htm" />
+    <HelpKINode Title="about Api class" Url="html/T_Telegram_Bot_Api.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Telegram_Bot_Api__ctor.htm" />
+    <HelpKINode Title="events" Url="html/Events_T_Telegram_Bot_Api.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Telegram_Bot_Api.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Telegram_Bot_Api.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Api.Api constructor" Url="html/M_Telegram_Bot_Api__ctor.htm" />
+  <HelpKINode Title="ApiRequestException class">
+    <HelpKINode Title="ApiRequestException Class" Url="html/T_Telegram_Bot_Exceptions_ApiRequestException.htm" />
+    <HelpKINode Title="about ApiRequestException class" Url="html/T_Telegram_Bot_Exceptions_ApiRequestException.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload_Telegram_Bot_Exceptions_ApiRequestException__ctor.htm" />
+    <HelpKINode Title="events" Url="html/Events_T_Telegram_Bot_Exceptions_ApiRequestException.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Telegram_Bot_Exceptions_ApiRequestException.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Telegram_Bot_Exceptions_ApiRequestException.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ApiRequestException property" Url="html/P_Telegram_Bot_Args_ReceiveErrorEventArgs_ApiRequestException.htm" />
+  <HelpKINode Title="ApiRequestException to ReceiveErrorEventArgs conversion" Url="html/M_Telegram_Bot_Args_ReceiveErrorEventArgs_op_Implicit.htm" />
+  <HelpKINode Title="ApiRequestException.ApiRequestException constructor" Url="html/Overload_Telegram_Bot_Exceptions_ApiRequestException__ctor.htm" />
+  <HelpKINode Title="ApiRequestException.ErrorCode property" Url="html/P_Telegram_Bot_Exceptions_ApiRequestException_ErrorCode.htm" />
+  <HelpKINode Title="ApiResponse(Of T) class">
+    <HelpKINode Title="ApiResponse(T) Class" Url="html/T_Telegram_Bot_Types_ApiResponse_1.htm" />
+    <HelpKINode Title="about ApiResponse(Of T) class" Url="html/T_Telegram_Bot_Types_ApiResponse_1.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Telegram_Bot_Types_ApiResponse_1__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Telegram_Bot_Types_ApiResponse_1.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Telegram_Bot_Types_ApiResponse_1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ApiResponse(Of T).ApiResponse constructor" Url="html/M_Telegram_Bot_Types_ApiResponse_1__ctor.htm" />
+  <HelpKINode Title="ApiResponse(Of T).Code property" Url="html/P_Telegram_Bot_Types_ApiResponse_1_Code.htm" />
+  <HelpKINode Title="ApiResponse(Of T).Message property" Url="html/P_Telegram_Bot_Types_ApiResponse_1_Message.htm" />
+  <HelpKINode Title="ApiResponse(Of T).Ok property" Url="html/P_Telegram_Bot_Types_ApiResponse_1_Ok.htm" />
+  <HelpKINode Title="ApiResponse(Of T).ResultObject property" Url="html/P_Telegram_Bot_Types_ApiResponse_1_ResultObject.htm" />
+  <HelpKINode Title="ApiResponse&lt;T&gt; class">
+    <HelpKINode Title="ApiResponse(T) Class" Url="html/T_Telegram_Bot_Types_ApiResponse_1.htm" />
+    <HelpKINode Title="about ApiResponse&lt;T&gt; class" Url="html/T_Telegram_Bot_Types_ApiResponse_1.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Telegram_Bot_Types_ApiResponse_1__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Telegram_Bot_Types_ApiResponse_1.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Telegram_Bot_Types_ApiResponse_1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ApiResponse&lt;T&gt;.ApiResponse constructor" Url="html/M_Telegram_Bot_Types_ApiResponse_1__ctor.htm" />
+  <HelpKINode Title="ApiResponse&lt;T&gt;.Code property" Url="html/P_Telegram_Bot_Types_ApiResponse_1_Code.htm" />
+  <HelpKINode Title="ApiResponse&lt;T&gt;.Message property" Url="html/P_Telegram_Bot_Types_ApiResponse_1_Message.htm" />
+  <HelpKINode Title="ApiResponse&lt;T&gt;.Ok property" Url="html/P_Telegram_Bot_Types_ApiResponse_1_Ok.htm" />
+  <HelpKINode Title="ApiResponse&lt;T&gt;.ResultObject property" Url="html/P_Telegram_Bot_Types_ApiResponse_1_ResultObject.htm" />
+  <HelpKINode Title="Article enumeration member" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultType.htm" />
+  <HelpKINode Title="Audio class">
+    <HelpKINode Title="Audio Class" Url="html/T_Telegram_Bot_Types_Audio.htm" />
+    <HelpKINode Title="about Audio class" Url="html/T_Telegram_Bot_Types_Audio.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Telegram_Bot_Types_Audio__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Telegram_Bot_Types_Audio.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Telegram_Bot_Types_Audio.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Audio enumeration member" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultType.htm" />
+  <HelpKINode Title="Audio property" Url="html/P_Telegram_Bot_Types_Message_Audio.htm" />
+  <HelpKINode Title="Audio.Audio constructor" Url="html/M_Telegram_Bot_Types_Audio__ctor.htm" />
+  <HelpKINode Title="Audio.Duration property" Url="html/P_Telegram_Bot_Types_Audio_Duration.htm" />
+  <HelpKINode Title="Audio.MimeType property" Url="html/P_Telegram_Bot_Types_Audio_MimeType.htm" />
+  <HelpKINode Title="Audio.Performer property" Url="html/P_Telegram_Bot_Types_Audio_Performer.htm" />
+  <HelpKINode Title="Audio.Title property" Url="html/P_Telegram_Bot_Types_Audio_Title.htm" />
+  <HelpKINode Title="AudioMessage enumeration member" Url="html/T_Telegram_Bot_Types_Enums_MessageType.htm" />
+  <HelpKINode Title="Bold enumeration member" Url="html/T_Telegram_Bot_Types_Enums_MessageEntityType.htm" />
+  <HelpKINode Title="BotCommand enumeration member" Url="html/T_Telegram_Bot_Types_Enums_MessageEntityType.htm" />
+  <HelpKINode Title="CachedAudio enumeration member" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultType.htm" />
+  <HelpKINode Title="CachedDocument enumeration member" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultType.htm" />
+  <HelpKINode Title="CachedGif enumeration member" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultType.htm" />
+  <HelpKINode Title="CachedMpeg4Gif enumeration member" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultType.htm" />
+  <HelpKINode Title="CachedPhoto enumeration member" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultType.htm" />
+  <HelpKINode Title="CachedSticker enumeration member" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultType.htm" />
+  <HelpKINode Title="CachedVideo enumeration member" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultType.htm" />
+  <HelpKINode Title="CachedVoice enumeration member" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultType.htm" />
+  <HelpKINode Title="CallbackData property" Url="html/P_Telegram_Bot_Types_InlineKeyboardButton_CallbackData.htm" />
+  <HelpKINode Title="CallbackQuery class">
+    <HelpKINode Title="CallbackQuery Class" Url="html/T_Telegram_Bot_Types_CallbackQuery.htm" />
+    <HelpKINode Title="about CallbackQuery class" Url="html/T_Telegram_Bot_Types_CallbackQuery.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Telegram_Bot_Types_CallbackQuery__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Telegram_Bot_Types_CallbackQuery.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Telegram_Bot_Types_CallbackQuery.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CallbackQuery property">
+    <HelpKINode Title="CallbackQueryEventArgs.CallbackQuery Property " Url="html/P_Telegram_Bot_Args_CallbackQueryEventArgs_CallbackQuery.htm" />
+    <HelpKINode Title="Update.CallbackQuery Property " Url="html/P_Telegram_Bot_Types_Update_CallbackQuery.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CallbackQuery.CallbackQuery constructor" Url="html/M_Telegram_Bot_Types_CallbackQuery__ctor.htm" />
+  <HelpKINode Title="CallbackQuery.Data property" Url="html/P_Telegram_Bot_Types_CallbackQuery_Data.htm" />
+  <HelpKINode Title="CallbackQuery.From property" Url="html/P_Telegram_Bot_Types_CallbackQuery_From.htm" />
+  <HelpKINode Title="CallbackQuery.Id property" Url="html/P_Telegram_Bot_Types_CallbackQuery_Id.htm" />
+  <HelpKINode Title="CallbackQuery.InlineMessageId property" Url="html/P_Telegram_Bot_Types_CallbackQuery_InlineMessageId.htm" />
+  <HelpKINode Title="CallbackQuery.Message property" Url="html/P_Telegram_Bot_Types_CallbackQuery_Message.htm" />
+  <HelpKINode Title="CallbackQueryEventArgs class">
+    <HelpKINode Title="CallbackQueryEventArgs Class" Url="html/T_Telegram_Bot_Args_CallbackQueryEventArgs.htm" />
+    <HelpKINode Title="about CallbackQueryEventArgs class" Url="html/T_Telegram_Bot_Args_CallbackQueryEventArgs.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Telegram_Bot_Args_CallbackQueryEventArgs.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Telegram_Bot_Args_CallbackQueryEventArgs.htm" />
+    <HelpKINode Title="type conversions" Url="html/Operators_T_Telegram_Bot_Args_CallbackQueryEventArgs.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CallbackQueryEventArgs.CallbackQuery property" Url="html/P_Telegram_Bot_Args_CallbackQueryEventArgs_CallbackQuery.htm" />
+  <HelpKINode Title="CallbackQueryReceived event" Url="html/E_Telegram_Bot_Client_CallbackQueryReceived.htm" />
+  <HelpKINode Title="CallbackQueryUpdate enumeration member" Url="html/T_Telegram_Bot_Types_Enums_UpdateType.htm" />
+  <HelpKINode Title="Caption property">
+    <HelpKINode Title="InlineQueryResultCached.Caption Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCached_Caption.htm" />
+    <HelpKINode Title="InlineQueryResultCachedAudio.Caption Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedAudio_Caption.htm" />
+    <HelpKINode Title="InlineQueryResultCachedSticker.Caption Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedSticker_Caption.htm" />
+    <HelpKINode Title="InlineQueryResultCachedVoice.Caption Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedVoice_Caption.htm" />
+    <HelpKINode Title="InlineQueryResultDocument.Caption Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultDocument_Caption.htm" />
+    <HelpKINode Title="InlineQueryResultGif.Caption Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultGif_Caption.htm" />
+    <HelpKINode Title="InlineQueryResultMpeg4Gif.Caption Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultMpeg4Gif_Caption.htm" />
+    <HelpKINode Title="InlineQueryResultPhoto.Caption Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultPhoto_Caption.htm" />
+    <HelpKINode Title="InlineQueryResultVideo.Caption Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultVideo_Caption.htm" />
+    <HelpKINode Title="Message.Caption Property " Url="html/P_Telegram_Bot_Types_Message_Caption.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Channel enumeration member" Url="html/T_Telegram_Bot_Types_Enums_ChatType.htm" />
+  <HelpKINode Title="ChannelChatCreated property" Url="html/P_Telegram_Bot_Types_Message_ChannelChatCreated.htm" />
+  <HelpKINode Title="Chat class">
+    <HelpKINode Title="Chat Class" Url="html/T_Telegram_Bot_Types_Chat.htm" />
+    <HelpKINode Title="about Chat class" Url="html/T_Telegram_Bot_Types_Chat.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Telegram_Bot_Types_Chat__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Telegram_Bot_Types_Chat.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Telegram_Bot_Types_Chat.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Chat property" Url="html/P_Telegram_Bot_Types_Message_Chat.htm" />
+  <HelpKINode Title="Chat.Chat constructor" Url="html/M_Telegram_Bot_Types_Chat__ctor.htm" />
+  <HelpKINode Title="Chat.FirstName property" Url="html/P_Telegram_Bot_Types_Chat_FirstName.htm" />
+  <HelpKINode Title="Chat.Id property" Url="html/P_Telegram_Bot_Types_Chat_Id.htm" />
+  <HelpKINode Title="Chat.LastName property" Url="html/P_Telegram_Bot_Types_Chat_LastName.htm" />
+  <HelpKINode Title="Chat.Title property" Url="html/P_Telegram_Bot_Types_Chat_Title.htm" />
+  <HelpKINode Title="Chat.Type property" Url="html/P_Telegram_Bot_Types_Chat_Type.htm" />
+  <HelpKINode Title="Chat.Username property" Url="html/P_Telegram_Bot_Types_Chat_Username.htm" />
+  <HelpKINode Title="ChatAction enumeration" Url="html/T_Telegram_Bot_Types_Enums_ChatAction.htm" />
+  <HelpKINode Title="ChatMember class">
+    <HelpKINode Title="ChatMember Class" Url="html/T_Telegram_Bot_Types_ChatMember.htm" />
+    <HelpKINode Title="about ChatMember class" Url="html/T_Telegram_Bot_Types_ChatMember.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Telegram_Bot_Types_ChatMember__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Telegram_Bot_Types_ChatMember.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Telegram_Bot_Types_ChatMember.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ChatMember.ChatMember constructor" Url="html/M_Telegram_Bot_Types_ChatMember__ctor.htm" />
+  <HelpKINode Title="ChatMember.Status property" Url="html/P_Telegram_Bot_Types_ChatMember_Status.htm" />
+  <HelpKINode Title="ChatMember.User property" Url="html/P_Telegram_Bot_Types_ChatMember_User.htm" />
+  <HelpKINode Title="ChatMemberStatus enumeration" Url="html/T_Telegram_Bot_Types_Enums_ChatMemberStatus.htm" />
+  <HelpKINode Title="ChatType enumeration" Url="html/T_Telegram_Bot_Types_Enums_ChatType.htm" />
+  <HelpKINode Title="ChosenInlineResult class">
+    <HelpKINode Title="ChosenInlineResult Class" Url="html/T_Telegram_Bot_Types_ChosenInlineResult.htm" />
+    <HelpKINode Title="about ChosenInlineResult class" Url="html/T_Telegram_Bot_Types_ChosenInlineResult.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Telegram_Bot_Types_ChosenInlineResult__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Telegram_Bot_Types_ChosenInlineResult.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Telegram_Bot_Types_ChosenInlineResult.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ChosenInlineResult property">
+    <HelpKINode Title="ChosenInlineResultEventArgs.ChosenInlineResult Property " Url="html/P_Telegram_Bot_Args_ChosenInlineResultEventArgs_ChosenInlineResult.htm" />
+    <HelpKINode Title="Update.ChosenInlineResult Property " Url="html/P_Telegram_Bot_Types_Update_ChosenInlineResult.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ChosenInlineResult.ChosenInlineResult constructor" Url="html/M_Telegram_Bot_Types_ChosenInlineResult__ctor.htm" />
+  <HelpKINode Title="ChosenInlineResult.From property" Url="html/P_Telegram_Bot_Types_ChosenInlineResult_From.htm" />
+  <HelpKINode Title="ChosenInlineResult.InlineMessageId property" Url="html/P_Telegram_Bot_Types_ChosenInlineResult_InlineMessageId.htm" />
+  <HelpKINode Title="ChosenInlineResult.Location property" Url="html/P_Telegram_Bot_Types_ChosenInlineResult_Location.htm" />
+  <HelpKINode Title="ChosenInlineResult.Query property" Url="html/P_Telegram_Bot_Types_ChosenInlineResult_Query.htm" />
+  <HelpKINode Title="ChosenInlineResult.ResultId property" Url="html/P_Telegram_Bot_Types_ChosenInlineResult_ResultId.htm" />
+  <HelpKINode Title="ChosenInlineResultEventArgs class">
+    <HelpKINode Title="ChosenInlineResultEventArgs Class" Url="html/T_Telegram_Bot_Args_ChosenInlineResultEventArgs.htm" />
+    <HelpKINode Title="about ChosenInlineResultEventArgs class" Url="html/T_Telegram_Bot_Args_ChosenInlineResultEventArgs.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Telegram_Bot_Args_ChosenInlineResultEventArgs.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Telegram_Bot_Args_ChosenInlineResultEventArgs.htm" />
+    <HelpKINode Title="type conversions" Url="html/Operators_T_Telegram_Bot_Args_ChosenInlineResultEventArgs.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ChosenInlineResultEventArgs.ChosenInlineResult property" Url="html/P_Telegram_Bot_Args_ChosenInlineResultEventArgs_ChosenInlineResult.htm" />
+  <HelpKINode Title="ChosenInlineResultReceived event" Url="html/E_Telegram_Bot_Client_ChosenInlineResultReceived.htm" />
+  <HelpKINode Title="ChosenInlineResultUpdate enumeration member" Url="html/T_Telegram_Bot_Types_Enums_UpdateType.htm" />
+  <HelpKINode Title="Client class">
+    <HelpKINode Title="Client Class" Url="html/T_Telegram_Bot_Client.htm" />
+    <HelpKINode Title="about Client class" Url="html/T_Telegram_Bot_Client.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Telegram_Bot_Client__ctor.htm" />
+    <HelpKINode Title="events" Url="html/Events_T_Telegram_Bot_Client.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Telegram_Bot_Client.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Telegram_Bot_Client.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Client.AnswerCallbackQuery method" Url="html/M_Telegram_Bot_Client_AnswerCallbackQuery.htm" />
+  <HelpKINode Title="Client.AnswerInlineQuery method" Url="html/M_Telegram_Bot_Client_AnswerInlineQuery.htm" />
+  <HelpKINode Title="Client.CallbackQueryReceived event" Url="html/E_Telegram_Bot_Client_CallbackQueryReceived.htm" />
+  <HelpKINode Title="Client.ChosenInlineResultReceived event" Url="html/E_Telegram_Bot_Client_ChosenInlineResultReceived.htm" />
+  <HelpKINode Title="Client.Client constructor" Url="html/M_Telegram_Bot_Client__ctor.htm" />
+  <HelpKINode Title="Client.EditInlineMessageCaption method" Url="html/M_Telegram_Bot_Client_EditInlineMessageCaption.htm" />
+  <HelpKINode Title="Client.EditInlineMessageReplyMarkup method" Url="html/M_Telegram_Bot_Client_EditInlineMessageReplyMarkup.htm" />
+  <HelpKINode Title="Client.EditInlineMessageText method" Url="html/M_Telegram_Bot_Client_EditInlineMessageText.htm" />
+  <HelpKINode Title="Client.EditMessageCaption method" Url="html/Overload_Telegram_Bot_Client_EditMessageCaption.htm" />
+  <HelpKINode Title="Client.EditMessageReplyMarkup method" Url="html/Overload_Telegram_Bot_Client_EditMessageReplyMarkup.htm" />
+  <HelpKINode Title="Client.EditMessageText method" Url="html/Overload_Telegram_Bot_Client_EditMessageText.htm" />
+  <HelpKINode Title="Client.ForwardMessage method" Url="html/Overload_Telegram_Bot_Client_ForwardMessage.htm" />
+  <HelpKINode Title="Client.GetChat method" Url="html/Overload_Telegram_Bot_Client_GetChat.htm" />
+  <HelpKINode Title="Client.GetChatAdministrators method" Url="html/Overload_Telegram_Bot_Client_GetChatAdministrators.htm" />
+  <HelpKINode Title="Client.GetChatMember method" Url="html/Overload_Telegram_Bot_Client_GetChatMember.htm" />
+  <HelpKINode Title="Client.GetChatMembersCount method" Url="html/Overload_Telegram_Bot_Client_GetChatMembersCount.htm" />
+  <HelpKINode Title="Client.GetFile method" Url="html/M_Telegram_Bot_Client_GetFile.htm" />
+  <HelpKINode Title="Client.GetMe method" Url="html/M_Telegram_Bot_Client_GetMe.htm" />
+  <HelpKINode Title="Client.GetUpdates method" Url="html/M_Telegram_Bot_Client_GetUpdates.htm" />
+  <HelpKINode Title="Client.GetUserProfilePhotos method" Url="html/M_Telegram_Bot_Client_GetUserProfilePhotos.htm" />
+  <HelpKINode Title="Client.InlineQueryReceived event" Url="html/E_Telegram_Bot_Client_InlineQueryReceived.htm" />
+  <HelpKINode Title="Client.IsReceiving property" Url="html/P_Telegram_Bot_Client_IsReceiving.htm" />
+  <HelpKINode Title="Client.KickChatMember method" Url="html/Overload_Telegram_Bot_Client_KickChatMember.htm" />
+  <HelpKINode Title="Client.LeaveChat method" Url="html/Overload_Telegram_Bot_Client_LeaveChat.htm" />
+  <HelpKINode Title="Client.MessageOffset property" Url="html/P_Telegram_Bot_Client_MessageOffset.htm" />
+  <HelpKINode Title="Client.MessageReceived event" Url="html/E_Telegram_Bot_Client_MessageReceived.htm" />
+  <HelpKINode Title="Client.OnReceiveError method" Url="html/M_Telegram_Bot_Client_OnReceiveError.htm" />
+  <HelpKINode Title="Client.OnUpdateReceived method" Url="html/M_Telegram_Bot_Client_OnUpdateReceived.htm" />
+  <HelpKINode Title="Client.PollingTimeout property" Url="html/P_Telegram_Bot_Client_PollingTimeout.htm" />
+  <HelpKINode Title="Client.ReceiveError event" Url="html/E_Telegram_Bot_Client_ReceiveError.htm" />
+  <HelpKINode Title="Client.SendAudio method" Url="html/Overload_Telegram_Bot_Client_SendAudio.htm" />
+  <HelpKINode Title="Client.SendChatAction method" Url="html/Overload_Telegram_Bot_Client_SendChatAction.htm" />
+  <HelpKINode Title="Client.SendContact method" Url="html/Overload_Telegram_Bot_Client_SendContact.htm" />
+  <HelpKINode Title="Client.SendDocument method" Url="html/Overload_Telegram_Bot_Client_SendDocument.htm" />
+  <HelpKINode Title="Client.SendLocation method" Url="html/Overload_Telegram_Bot_Client_SendLocation.htm" />
+  <HelpKINode Title="Client.SendPhoto method" Url="html/Overload_Telegram_Bot_Client_SendPhoto.htm" />
+  <HelpKINode Title="Client.SendSticker method" Url="html/Overload_Telegram_Bot_Client_SendSticker.htm" />
+  <HelpKINode Title="Client.SendTextMessage method" Url="html/Overload_Telegram_Bot_Client_SendTextMessage.htm" />
+  <HelpKINode Title="Client.SendVenue method" Url="html/Overload_Telegram_Bot_Client_SendVenue.htm" />
+  <HelpKINode Title="Client.SendVideo method" Url="html/Overload_Telegram_Bot_Client_SendVideo.htm" />
+  <HelpKINode Title="Client.SendVoice method" Url="html/Overload_Telegram_Bot_Client_SendVoice.htm" />
+  <HelpKINode Title="Client.SetWebhook method" Url="html/M_Telegram_Bot_Client_SetWebhook.htm" />
+  <HelpKINode Title="Client.StartReceiving method" Url="html/Overload_Telegram_Bot_Client_StartReceiving.htm" />
+  <HelpKINode Title="Client.StopReceiving method" Url="html/M_Telegram_Bot_Client_StopReceiving.htm" />
+  <HelpKINode Title="Client.TestApi method" Url="html/M_Telegram_Bot_Client_TestApi.htm" />
+  <HelpKINode Title="Client.UnbanChatMember method" Url="html/Overload_Telegram_Bot_Client_UnbanChatMember.htm" />
+  <HelpKINode Title="Client.UpdateReceived event" Url="html/E_Telegram_Bot_Client_UpdateReceived.htm" />
+  <HelpKINode Title="Client.UploadTimeout property" Url="html/P_Telegram_Bot_Client_UploadTimeout.htm" />
+  <HelpKINode Title="Code enumeration member" Url="html/T_Telegram_Bot_Types_Enums_MessageEntityType.htm" />
+  <HelpKINode Title="Code property" Url="html/P_Telegram_Bot_Types_ApiResponse_1_Code.htm" />
+  <HelpKINode Title="Contact class">
+    <HelpKINode Title="Contact Class" Url="html/T_Telegram_Bot_Types_Contact.htm" />
+    <HelpKINode Title="about Contact class" Url="html/T_Telegram_Bot_Types_Contact.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Telegram_Bot_Types_Contact__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Telegram_Bot_Types_Contact.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Telegram_Bot_Types_Contact.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Contact enumeration member" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultType.htm" />
+  <HelpKINode Title="Contact property" Url="html/P_Telegram_Bot_Types_Message_Contact.htm" />
+  <HelpKINode Title="Contact.Contact constructor" Url="html/M_Telegram_Bot_Types_Contact__ctor.htm" />
+  <HelpKINode Title="Contact.FirstName property" Url="html/P_Telegram_Bot_Types_Contact_FirstName.htm" />
+  <HelpKINode Title="Contact.LastName property" Url="html/P_Telegram_Bot_Types_Contact_LastName.htm" />
+  <HelpKINode Title="Contact.PhoneNumber property" Url="html/P_Telegram_Bot_Types_Contact_PhoneNumber.htm" />
+  <HelpKINode Title="Contact.UserId property" Url="html/P_Telegram_Bot_Types_Contact_UserId.htm" />
+  <HelpKINode Title="ContactMessage enumeration member" Url="html/T_Telegram_Bot_Types_Enums_MessageType.htm" />
+  <HelpKINode Title="Content property" Url="html/P_Telegram_Bot_Types_FileToSend_Content.htm" />
+  <HelpKINode Title="Creator enumeration member" Url="html/T_Telegram_Bot_Types_Enums_ChatMemberStatus.htm" />
+  <HelpKINode Title="Data property" Url="html/P_Telegram_Bot_Types_CallbackQuery_Data.htm" />
+  <HelpKINode Title="Date property" Url="html/P_Telegram_Bot_Types_Message_Date.htm" />
+  <HelpKINode Title="Default enumeration member" Url="html/T_Telegram_Bot_Types_Enums_ParseMode.htm" />
+  <HelpKINode Title="DeleteChatPhoto property" Url="html/P_Telegram_Bot_Types_Message_DeleteChatPhoto.htm" />
+  <HelpKINode Title="Description property">
+    <HelpKINode Title="InlineQueryResultArticle.Description Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultArticle_Description.htm" />
+    <HelpKINode Title="InlineQueryResultCachedDocument.Description Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedDocument_Description.htm" />
+    <HelpKINode Title="InlineQueryResultCachedPhoto.Description Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedPhoto_Description.htm" />
+    <HelpKINode Title="InlineQueryResultCachedVideo.Description Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedVideo_Description.htm" />
+    <HelpKINode Title="InlineQueryResultDocument.Description Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultDocument_Description.htm" />
+    <HelpKINode Title="InlineQueryResultPhoto.Description Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultPhoto_Description.htm" />
+    <HelpKINode Title="InlineQueryResultVideo.Description Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultVideo_Description.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DisableWebPagePreview property" Url="html/P_Telegram_Bot_Types_InputMessageContents_InputTextMessageContent_DisableWebPagePreview.htm" />
+  <HelpKINode Title="Document class">
+    <HelpKINode Title="Document Class" Url="html/T_Telegram_Bot_Types_Document.htm" />
+    <HelpKINode Title="about Document class" Url="html/T_Telegram_Bot_Types_Document.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Telegram_Bot_Types_Document__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Telegram_Bot_Types_Document.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Telegram_Bot_Types_Document.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Document enumeration member" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultType.htm" />
+  <HelpKINode Title="Document property" Url="html/P_Telegram_Bot_Types_Message_Document.htm" />
+  <HelpKINode Title="Document.Document constructor" Url="html/M_Telegram_Bot_Types_Document__ctor.htm" />
+  <HelpKINode Title="Document.FileName property" Url="html/P_Telegram_Bot_Types_Document_FileName.htm" />
+  <HelpKINode Title="Document.MimeType property" Url="html/P_Telegram_Bot_Types_Document_MimeType.htm" />
+  <HelpKINode Title="Document.Thumb property" Url="html/P_Telegram_Bot_Types_Document_Thumb.htm" />
+  <HelpKINode Title="DocumentMessage enumeration member" Url="html/T_Telegram_Bot_Types_Enums_MessageType.htm" />
+  <HelpKINode Title="Duration property">
+    <HelpKINode Title="Audio.Duration Property " Url="html/P_Telegram_Bot_Types_Audio_Duration.htm" />
+    <HelpKINode Title="InlineQueryResultAudio.Duration Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultAudio_Duration.htm" />
+    <HelpKINode Title="InlineQueryResultVideo.Duration Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultVideo_Duration.htm" />
+    <HelpKINode Title="InlineQueryResultVoice.Duration Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultVoice_Duration.htm" />
+    <HelpKINode Title="Video.Duration Property " Url="html/P_Telegram_Bot_Types_Video_Duration.htm" />
+    <HelpKINode Title="Voice.Duration Property " Url="html/P_Telegram_Bot_Types_Voice_Duration.htm" />
+  </HelpKINode>
+  <HelpKINode Title="EditDate property" Url="html/P_Telegram_Bot_Types_Message_EditDate.htm" />
+  <HelpKINode Title="EditedMessage enumeration member" Url="html/T_Telegram_Bot_Types_Enums_UpdateType.htm" />
+  <HelpKINode Title="EditedMessage property" Url="html/P_Telegram_Bot_Types_Update_EditedMessage.htm" />
+  <HelpKINode Title="EditInlineMessageCaption method" Url="html/M_Telegram_Bot_Client_EditInlineMessageCaption.htm" />
+  <HelpKINode Title="EditInlineMessageReplyMarkup method" Url="html/M_Telegram_Bot_Client_EditInlineMessageReplyMarkup.htm" />
+  <HelpKINode Title="EditInlineMessageText method" Url="html/M_Telegram_Bot_Client_EditInlineMessageText.htm" />
+  <HelpKINode Title="EditMessageCaption method" Url="html/Overload_Telegram_Bot_Client_EditMessageCaption.htm" />
+  <HelpKINode Title="EditMessageReplyMarkup method" Url="html/Overload_Telegram_Bot_Client_EditMessageReplyMarkup.htm" />
+  <HelpKINode Title="EditMessageText method" Url="html/Overload_Telegram_Bot_Client_EditMessageText.htm" />
+  <HelpKINode Title="Email enumeration member" Url="html/T_Telegram_Bot_Types_Enums_MessageEntityType.htm" />
+  <HelpKINode Title="Emoji property" Url="html/P_Telegram_Bot_Types_Sticker_Emoji.htm" />
+  <HelpKINode Title="Entities property" Url="html/P_Telegram_Bot_Types_Message_Entities.htm" />
+  <HelpKINode Title="EntityValues property" Url="html/P_Telegram_Bot_Types_Message_EntityValues.htm" />
+  <HelpKINode Title="ErrorCode property" Url="html/P_Telegram_Bot_Exceptions_ApiRequestException_ErrorCode.htm" />
+  <HelpKINode Title="Extensions class">
+    <HelpKINode Title="Extensions Class" Url="html/T_Telegram_Bot_Helpers_Extensions.htm" />
+    <HelpKINode Title="about Extensions class" Url="html/T_Telegram_Bot_Helpers_Extensions.htm" />
+  </HelpKINode>
+  <HelpKINode Title="File class">
+    <HelpKINode Title="File Class" Url="html/T_Telegram_Bot_Types_File.htm" />
+    <HelpKINode Title="about File class" Url="html/T_Telegram_Bot_Types_File.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Telegram_Bot_Types_File__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Telegram_Bot_Types_File.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Telegram_Bot_Types_File.htm" />
+  </HelpKINode>
+  <HelpKINode Title="File.File constructor" Url="html/M_Telegram_Bot_Types_File__ctor.htm" />
+  <HelpKINode Title="File.FileId property" Url="html/P_Telegram_Bot_Types_File_FileId.htm" />
+  <HelpKINode Title="File.FilePath property" Url="html/P_Telegram_Bot_Types_File_FilePath.htm" />
+  <HelpKINode Title="File.FileSize property" Url="html/P_Telegram_Bot_Types_File_FileSize.htm" />
+  <HelpKINode Title="File.FileStream property" Url="html/P_Telegram_Bot_Types_File_FileStream.htm" />
+  <HelpKINode Title="FileId property">
+    <HelpKINode Title="File.FileId Property " Url="html/P_Telegram_Bot_Types_File_FileId.htm" />
+    <HelpKINode Title="InlineQueryResultAudio.FileId Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultAudio_FileId.htm" />
+    <HelpKINode Title="InlineQueryResultCachedAudio.FileId Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedAudio_FileId.htm" />
+    <HelpKINode Title="InlineQueryResultCachedDocument.FileId Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedDocument_FileId.htm" />
+    <HelpKINode Title="InlineQueryResultCachedGif.FileId Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedGif_FileId.htm" />
+    <HelpKINode Title="InlineQueryResultCachedMpeg4Gif.FileId Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedMpeg4Gif_FileId.htm" />
+    <HelpKINode Title="InlineQueryResultCachedPhoto.FileId Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedPhoto_FileId.htm" />
+    <HelpKINode Title="InlineQueryResultCachedSticker.FileId Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedSticker_FileId.htm" />
+    <HelpKINode Title="InlineQueryResultCachedVideo.FileId Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedVideo_FileId.htm" />
+    <HelpKINode Title="InlineQueryResultCachedVoice.FileId Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedVoice_FileId.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Filename property" Url="html/P_Telegram_Bot_Types_FileToSend_Filename.htm" />
+  <HelpKINode Title="FileName property" Url="html/P_Telegram_Bot_Types_Document_FileName.htm" />
+  <HelpKINode Title="FilePath property" Url="html/P_Telegram_Bot_Types_File_FilePath.htm" />
+  <HelpKINode Title="FileSize property" Url="html/P_Telegram_Bot_Types_File_FileSize.htm" />
+  <HelpKINode Title="FileStream property" Url="html/P_Telegram_Bot_Types_File_FileStream.htm" />
+  <HelpKINode Title="FileToSend structure">
+    <HelpKINode Title="FileToSend Structure" Url="html/T_Telegram_Bot_Types_FileToSend.htm" />
+    <HelpKINode Title="about FileToSend structure" Url="html/T_Telegram_Bot_Types_FileToSend.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Telegram_Bot_Types_FileToSend__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Telegram_Bot_Types_FileToSend.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Telegram_Bot_Types_FileToSend.htm" />
+  </HelpKINode>
+  <HelpKINode Title="FileToSend.Content property" Url="html/P_Telegram_Bot_Types_FileToSend_Content.htm" />
+  <HelpKINode Title="FileToSend.Filename property" Url="html/P_Telegram_Bot_Types_FileToSend_Filename.htm" />
+  <HelpKINode Title="FileToSend.FileToSend constructor" Url="html/M_Telegram_Bot_Types_FileToSend__ctor.htm" />
+  <HelpKINode Title="FindLocation enumeration member" Url="html/T_Telegram_Bot_Types_Enums_ChatAction.htm" />
+  <HelpKINode Title="FirstName property">
+    <HelpKINode Title="Chat.FirstName Property " Url="html/P_Telegram_Bot_Types_Chat_FirstName.htm" />
+    <HelpKINode Title="Contact.FirstName Property " Url="html/P_Telegram_Bot_Types_Contact_FirstName.htm" />
+    <HelpKINode Title="InlineQueryResultContact.FirstName Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultContact_FirstName.htm" />
+    <HelpKINode Title="InputContactMessageContent.FirstName Property " Url="html/P_Telegram_Bot_Types_InputMessageContents_InputContactMessageContent_FirstName.htm" />
+    <HelpKINode Title="User.FirstName Property " Url="html/P_Telegram_Bot_Types_User_FirstName.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Force property" Url="html/P_Telegram_Bot_Types_ReplyMarkups_ForceReply_Force.htm" />
+  <HelpKINode Title="ForceReply class">
+    <HelpKINode Title="ForceReply Class" Url="html/T_Telegram_Bot_Types_ReplyMarkups_ForceReply.htm" />
+    <HelpKINode Title="about ForceReply class" Url="html/T_Telegram_Bot_Types_ReplyMarkups_ForceReply.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Telegram_Bot_Types_ReplyMarkups_ForceReply__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Telegram_Bot_Types_ReplyMarkups_ForceReply.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Telegram_Bot_Types_ReplyMarkups_ForceReply.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ForceReply.Force property" Url="html/P_Telegram_Bot_Types_ReplyMarkups_ForceReply_Force.htm" />
+  <HelpKINode Title="ForceReply.ForceReply constructor" Url="html/M_Telegram_Bot_Types_ReplyMarkups_ForceReply__ctor.htm" />
+  <HelpKINode Title="ForwardDate property" Url="html/P_Telegram_Bot_Types_Message_ForwardDate.htm" />
+  <HelpKINode Title="ForwardFrom property" Url="html/P_Telegram_Bot_Types_Message_ForwardFrom.htm" />
+  <HelpKINode Title="ForwardFromChat property" Url="html/P_Telegram_Bot_Types_Message_ForwardFromChat.htm" />
+  <HelpKINode Title="ForwardMessage method" Url="html/Overload_Telegram_Bot_Client_ForwardMessage.htm" />
+  <HelpKINode Title="FoursquareId property">
+    <HelpKINode Title="InlineQueryResultVenue.FoursquareId Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultVenue_FoursquareId.htm" />
+    <HelpKINode Title="InputVenueMessageContent.FoursquareId Property " Url="html/P_Telegram_Bot_Types_InputMessageContents_InputVenueMessageContent_FoursquareId.htm" />
+    <HelpKINode Title="Venue.FoursquareId Property " Url="html/P_Telegram_Bot_Types_Venue_FoursquareId.htm" />
+  </HelpKINode>
+  <HelpKINode Title="From property">
+    <HelpKINode Title="CallbackQuery.From Property " Url="html/P_Telegram_Bot_Types_CallbackQuery_From.htm" />
+    <HelpKINode Title="ChosenInlineResult.From Property " Url="html/P_Telegram_Bot_Types_ChosenInlineResult_From.htm" />
+    <HelpKINode Title="InlineQuery.From Property " Url="html/P_Telegram_Bot_Types_InlineQuery_From.htm" />
+    <HelpKINode Title="Message.From Property " Url="html/P_Telegram_Bot_Types_Message_From.htm" />
+  </HelpKINode>
+  <HelpKINode Title="FromString method" Url="html/M_Telegram_Bot_Types_Update_FromString.htm" />
+  <HelpKINode Title="GetChat method" Url="html/Overload_Telegram_Bot_Client_GetChat.htm" />
+  <HelpKINode Title="GetChatAdministrators method" Url="html/Overload_Telegram_Bot_Client_GetChatAdministrators.htm" />
+  <HelpKINode Title="GetChatMember method" Url="html/Overload_Telegram_Bot_Client_GetChatMember.htm" />
+  <HelpKINode Title="GetChatMembersCount method" Url="html/Overload_Telegram_Bot_Client_GetChatMembersCount.htm" />
+  <HelpKINode Title="GetFile method" Url="html/M_Telegram_Bot_Client_GetFile.htm" />
+  <HelpKINode Title="GetMe method" Url="html/M_Telegram_Bot_Client_GetMe.htm" />
+  <HelpKINode Title="GetUpdates method" Url="html/M_Telegram_Bot_Client_GetUpdates.htm" />
+  <HelpKINode Title="GetUserProfilePhotos method" Url="html/M_Telegram_Bot_Client_GetUserProfilePhotos.htm" />
+  <HelpKINode Title="Gif enumeration member" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultType.htm" />
+  <HelpKINode Title="Group enumeration member" Url="html/T_Telegram_Bot_Types_Enums_ChatType.htm" />
+  <HelpKINode Title="GroupChatCreated property" Url="html/P_Telegram_Bot_Types_Message_GroupChatCreated.htm" />
+  <HelpKINode Title="Hashtag enumeration member" Url="html/T_Telegram_Bot_Types_Enums_MessageEntityType.htm" />
+  <HelpKINode Title="Height property">
+    <HelpKINode Title="InlineQueryResultGif.Height Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultGif_Height.htm" />
+    <HelpKINode Title="InlineQueryResultMpeg4Gif.Height Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultMpeg4Gif_Height.htm" />
+    <HelpKINode Title="InlineQueryResultPhoto.Height Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultPhoto_Height.htm" />
+    <HelpKINode Title="InlineQueryResultVideo.Height Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultVideo_Height.htm" />
+    <HelpKINode Title="PhotoSize.Height Property " Url="html/P_Telegram_Bot_Types_PhotoSize_Height.htm" />
+    <HelpKINode Title="Sticker.Height Property " Url="html/P_Telegram_Bot_Types_Sticker_Height.htm" />
+    <HelpKINode Title="Video.Height Property " Url="html/P_Telegram_Bot_Types_Video_Height.htm" />
+  </HelpKINode>
+  <HelpKINode Title="HideKeyboard property" Url="html/P_Telegram_Bot_Types_ReplyMarkups_ReplyKeyboardHide_HideKeyboard.htm" />
+  <HelpKINode Title="HideUrl property" Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultArticle_HideUrl.htm" />
+  <HelpKINode Title="Html enumeration member" Url="html/T_Telegram_Bot_Types_Enums_ParseMode.htm" />
+  <HelpKINode Title="Id property">
+    <HelpKINode Title="CallbackQuery.Id Property " Url="html/P_Telegram_Bot_Types_CallbackQuery_Id.htm" />
+    <HelpKINode Title="Chat.Id Property " Url="html/P_Telegram_Bot_Types_Chat_Id.htm" />
+    <HelpKINode Title="InlineQuery.Id Property " Url="html/P_Telegram_Bot_Types_InlineQuery_Id.htm" />
+    <HelpKINode Title="InlineQueryResult.Id Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResult_Id.htm" />
+    <HelpKINode Title="Update.Id Property " Url="html/P_Telegram_Bot_Types_Update_Id.htm" />
+    <HelpKINode Title="User.Id Property " Url="html/P_Telegram_Bot_Types_User_Id.htm" />
+  </HelpKINode>
+  <HelpKINode Title="InlineKeyboard property" Url="html/P_Telegram_Bot_Types_ReplyMarkups_InlineKeyboardMarkup_InlineKeyboard.htm" />
+  <HelpKINode Title="InlineKeyboardButton class">
+    <HelpKINode Title="InlineKeyboardButton Class" Url="html/T_Telegram_Bot_Types_InlineKeyboardButton.htm" />
+    <HelpKINode Title="about InlineKeyboardButton class" Url="html/T_Telegram_Bot_Types_InlineKeyboardButton.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload_Telegram_Bot_Types_InlineKeyboardButton__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Telegram_Bot_Types_InlineKeyboardButton.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Telegram_Bot_Types_InlineKeyboardButton.htm" />
+    <HelpKINode Title="type conversions" Url="html/Operators_T_Telegram_Bot_Types_InlineKeyboardButton.htm" />
+  </HelpKINode>
+  <HelpKINode Title="InlineKeyboardButton to KeyboardButton conversion" Url="html/M_Telegram_Bot_Types_KeyboardButton_op_Implicit_1.htm" />
+  <HelpKINode Title="InlineKeyboardButton.CallbackData property" Url="html/P_Telegram_Bot_Types_InlineKeyboardButton_CallbackData.htm" />
+  <HelpKINode Title="InlineKeyboardButton.InlineKeyboardButton constructor" Url="html/Overload_Telegram_Bot_Types_InlineKeyboardButton__ctor.htm" />
+  <HelpKINode Title="InlineKeyboardButton.SwitchInlineQuery property" Url="html/P_Telegram_Bot_Types_InlineKeyboardButton_SwitchInlineQuery.htm" />
+  <HelpKINode Title="InlineKeyboardButton.Text property" Url="html/P_Telegram_Bot_Types_InlineKeyboardButton_Text.htm" />
+  <HelpKINode Title="InlineKeyboardButton.Url property" Url="html/P_Telegram_Bot_Types_InlineKeyboardButton_Url.htm" />
+  <HelpKINode Title="InlineKeyboardMarkup class">
+    <HelpKINode Title="InlineKeyboardMarkup Class" Url="html/T_Telegram_Bot_Types_ReplyMarkups_InlineKeyboardMarkup.htm" />
+    <HelpKINode Title="about InlineKeyboardMarkup class" Url="html/T_Telegram_Bot_Types_ReplyMarkups_InlineKeyboardMarkup.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload_Telegram_Bot_Types_ReplyMarkups_InlineKeyboardMarkup__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Telegram_Bot_Types_ReplyMarkups_InlineKeyboardMarkup.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Telegram_Bot_Types_ReplyMarkups_InlineKeyboardMarkup.htm" />
+  </HelpKINode>
+  <HelpKINode Title="InlineKeyboardMarkup.InlineKeyboard property" Url="html/P_Telegram_Bot_Types_ReplyMarkups_InlineKeyboardMarkup_InlineKeyboard.htm" />
+  <HelpKINode Title="InlineKeyboardMarkup.InlineKeyboardMarkup constructor" Url="html/Overload_Telegram_Bot_Types_ReplyMarkups_InlineKeyboardMarkup__ctor.htm" />
+  <HelpKINode Title="InlineMessageId property">
+    <HelpKINode Title="CallbackQuery.InlineMessageId Property " Url="html/P_Telegram_Bot_Types_CallbackQuery_InlineMessageId.htm" />
+    <HelpKINode Title="ChosenInlineResult.InlineMessageId Property " Url="html/P_Telegram_Bot_Types_ChosenInlineResult_InlineMessageId.htm" />
+  </HelpKINode>
+  <HelpKINode Title="InlineQuery class">
+    <HelpKINode Title="InlineQuery Class" Url="html/T_Telegram_Bot_Types_InlineQuery.htm" />
+    <HelpKINode Title="about InlineQuery class" Url="html/T_Telegram_Bot_Types_InlineQuery.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Telegram_Bot_Types_InlineQuery__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Telegram_Bot_Types_InlineQuery.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Telegram_Bot_Types_InlineQuery.htm" />
+  </HelpKINode>
+  <HelpKINode Title="InlineQuery property">
+    <HelpKINode Title="InlineQueryEventArgs.InlineQuery Property " Url="html/P_Telegram_Bot_Args_InlineQueryEventArgs_InlineQuery.htm" />
+    <HelpKINode Title="Update.InlineQuery Property " Url="html/P_Telegram_Bot_Types_Update_InlineQuery.htm" />
+  </HelpKINode>
+  <HelpKINode Title="InlineQuery.From property" Url="html/P_Telegram_Bot_Types_InlineQuery_From.htm" />
+  <HelpKINode Title="InlineQuery.Id property" Url="html/P_Telegram_Bot_Types_InlineQuery_Id.htm" />
+  <HelpKINode Title="InlineQuery.InlineQuery constructor" Url="html/M_Telegram_Bot_Types_InlineQuery__ctor.htm" />
+  <HelpKINode Title="InlineQuery.Location property" Url="html/P_Telegram_Bot_Types_InlineQuery_Location.htm" />
+  <HelpKINode Title="InlineQuery.Offset property" Url="html/P_Telegram_Bot_Types_InlineQuery_Offset.htm" />
+  <HelpKINode Title="InlineQuery.Query property" Url="html/P_Telegram_Bot_Types_InlineQuery_Query.htm" />
+  <HelpKINode Title="InlineQueryEventArgs class">
+    <HelpKINode Title="InlineQueryEventArgs Class" Url="html/T_Telegram_Bot_Args_InlineQueryEventArgs.htm" />
+    <HelpKINode Title="about InlineQueryEventArgs class" Url="html/T_Telegram_Bot_Args_InlineQueryEventArgs.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Telegram_Bot_Args_InlineQueryEventArgs.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Telegram_Bot_Args_InlineQueryEventArgs.htm" />
+    <HelpKINode Title="type conversions" Url="html/Operators_T_Telegram_Bot_Args_InlineQueryEventArgs.htm" />
+  </HelpKINode>
+  <HelpKINode Title="InlineQueryEventArgs.InlineQuery property" Url="html/P_Telegram_Bot_Args_InlineQueryEventArgs_InlineQuery.htm" />
+  <HelpKINode Title="InlineQueryReceived event" Url="html/E_Telegram_Bot_Client_InlineQueryReceived.htm" />
+  <HelpKINode Title="InlineQueryResult class">
+    <HelpKINode Title="InlineQueryResult Class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResult.htm" />
+    <HelpKINode Title="about InlineQueryResult class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResult.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Telegram_Bot_Types_InlineQueryResults_InlineQueryResult__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResult.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResult.htm" />
+  </HelpKINode>
+  <HelpKINode Title="InlineQueryResult.Id property" Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResult_Id.htm" />
+  <HelpKINode Title="InlineQueryResult.InlineQueryResult constructor" Url="html/M_Telegram_Bot_Types_InlineQueryResults_InlineQueryResult__ctor.htm" />
+  <HelpKINode Title="InlineQueryResult.InputMessageContent property" Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResult_InputMessageContent.htm" />
+  <HelpKINode Title="InlineQueryResult.ReplyMarkup property" Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResult_ReplyMarkup.htm" />
+  <HelpKINode Title="InlineQueryResult.Title property" Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResult_Title.htm" />
+  <HelpKINode Title="InlineQueryResult.Type property" Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResult_Type.htm" />
+  <HelpKINode Title="InlineQueryResultArticle class">
+    <HelpKINode Title="InlineQueryResultArticle Class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultArticle.htm" />
+    <HelpKINode Title="about InlineQueryResultArticle class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultArticle.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultArticle__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultArticle.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultArticle.htm" />
+  </HelpKINode>
+  <HelpKINode Title="InlineQueryResultArticle.Description property" Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultArticle_Description.htm" />
+  <HelpKINode Title="InlineQueryResultArticle.HideUrl property" Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultArticle_HideUrl.htm" />
+  <HelpKINode Title="InlineQueryResultArticle.InlineQueryResultArticle constructor" Url="html/M_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultArticle__ctor.htm" />
+  <HelpKINode Title="InlineQueryResultArticle.Url property" Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultArticle_Url.htm" />
+  <HelpKINode Title="InlineQueryResultAudio class">
+    <HelpKINode Title="InlineQueryResultAudio Class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultAudio.htm" />
+    <HelpKINode Title="about InlineQueryResultAudio class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultAudio.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultAudio__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultAudio.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultAudio.htm" />
+  </HelpKINode>
+  <HelpKINode Title="InlineQueryResultAudio.Duration property" Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultAudio_Duration.htm" />
+  <HelpKINode Title="InlineQueryResultAudio.FileId property" Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultAudio_FileId.htm" />
+  <HelpKINode Title="InlineQueryResultAudio.InlineQueryResultAudio constructor" Url="html/M_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultAudio__ctor.htm" />
+  <HelpKINode Title="InlineQueryResultAudio.Performer property" Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultAudio_Performer.htm" />
+  <HelpKINode Title="InlineQueryResultAudio.ThumbHeight property" Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultAudio_ThumbHeight.htm" />
+  <HelpKINode Title="InlineQueryResultAudio.ThumbUrl property" Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultAudio_ThumbUrl.htm" />
+  <HelpKINode Title="InlineQueryResultAudio.ThumbWidth property" Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultAudio_ThumbWidth.htm" />
+  <HelpKINode Title="InlineQueryResultAudio.Url property" Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultAudio_Url.htm" />
+  <HelpKINode Title="InlineQueryResultCached class">
+    <HelpKINode Title="InlineQueryResultCached Class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCached.htm" />
+    <HelpKINode Title="about InlineQueryResultCached class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCached.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCached__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCached.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCached.htm" />
+  </HelpKINode>
+  <HelpKINode Title="InlineQueryResultCached.Caption property" Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCached_Caption.htm" />
+  <HelpKINode Title="InlineQueryResultCached.InlineQueryResultCached constructor" Url="html/M_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCached__ctor.htm" />
+  <HelpKINode Title="InlineQueryResultCachedAudio class">
+    <HelpKINode Title="InlineQueryResultCachedAudio Class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedAudio.htm" />
+    <HelpKINode Title="about InlineQueryResultCachedAudio class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedAudio.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedAudio__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedAudio.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedAudio.htm" />
+  </HelpKINode>
+  <HelpKINode Title="InlineQueryResultCachedAudio.Caption property" Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedAudio_Caption.htm" />
+  <HelpKINode Title="InlineQueryResultCachedAudio.FileId property" Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedAudio_FileId.htm" />
+  <HelpKINode Title="InlineQueryResultCachedAudio.InlineQueryResultCachedAudio constructor" Url="html/M_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedAudio__ctor.htm" />
+  <HelpKINode Title="InlineQueryResultCachedAudio.Title property" Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedAudio_Title.htm" />
+  <HelpKINode Title="InlineQueryResultCachedDocument class">
+    <HelpKINode Title="InlineQueryResultCachedDocument Class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedDocument.htm" />
+    <HelpKINode Title="about InlineQueryResultCachedDocument class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedDocument.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedDocument__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedDocument.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedDocument.htm" />
+  </HelpKINode>
+  <HelpKINode Title="InlineQueryResultCachedDocument.Description property" Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedDocument_Description.htm" />
+  <HelpKINode Title="InlineQueryResultCachedDocument.FileId property" Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedDocument_FileId.htm" />
+  <HelpKINode Title="InlineQueryResultCachedDocument.InlineQueryResultCachedDocument constructor" Url="html/M_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedDocument__ctor.htm" />
+  <HelpKINode Title="InlineQueryResultCachedGif class">
+    <HelpKINode Title="InlineQueryResultCachedGif Class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedGif.htm" />
+    <HelpKINode Title="about InlineQueryResultCachedGif class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedGif.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedGif__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedGif.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedGif.htm" />
+  </HelpKINode>
+  <HelpKINode Title="InlineQueryResultCachedGif.FileId property" Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedGif_FileId.htm" />
+  <HelpKINode Title="InlineQueryResultCachedGif.InlineQueryResultCachedGif constructor" Url="html/M_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedGif__ctor.htm" />
+  <HelpKINode Title="InlineQueryResultCachedMpeg4Gif class">
+    <HelpKINode Title="InlineQueryResultCachedMpeg4Gif Class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedMpeg4Gif.htm" />
+    <HelpKINode Title="about InlineQueryResultCachedMpeg4Gif class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedMpeg4Gif.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedMpeg4Gif__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedMpeg4Gif.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedMpeg4Gif.htm" />
+  </HelpKINode>
+  <HelpKINode Title="InlineQueryResultCachedMpeg4Gif.FileId property" Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedMpeg4Gif_FileId.htm" />
+  <HelpKINode Title="InlineQueryResultCachedMpeg4Gif.InlineQueryResultCachedMpeg4Gif constructor" Url="html/M_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedMpeg4Gif__ctor.htm" />
+  <HelpKINode Title="InlineQueryResultCachedPhoto class">
+    <HelpKINode Title="InlineQueryResultCachedPhoto Class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedPhoto.htm" />
+    <HelpKINode Title="about InlineQueryResultCachedPhoto class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedPhoto.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedPhoto__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedPhoto.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedPhoto.htm" />
+  </HelpKINode>
+  <HelpKINode Title="InlineQueryResultCachedPhoto.Description property" Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedPhoto_Description.htm" />
+  <HelpKINode Title="InlineQueryResultCachedPhoto.FileId property" Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedPhoto_FileId.htm" />
+  <HelpKINode Title="InlineQueryResultCachedPhoto.InlineQueryResultCachedPhoto constructor" Url="html/M_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedPhoto__ctor.htm" />
+  <HelpKINode Title="InlineQueryResultCachedSticker class">
+    <HelpKINode Title="InlineQueryResultCachedSticker Class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedSticker.htm" />
+    <HelpKINode Title="about InlineQueryResultCachedSticker class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedSticker.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedSticker__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedSticker.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedSticker.htm" />
+  </HelpKINode>
+  <HelpKINode Title="InlineQueryResultCachedSticker.Caption property" Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedSticker_Caption.htm" />
+  <HelpKINode Title="InlineQueryResultCachedSticker.FileId property" Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedSticker_FileId.htm" />
+  <HelpKINode Title="InlineQueryResultCachedSticker.InlineQueryResultCachedSticker constructor" Url="html/M_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedSticker__ctor.htm" />
+  <HelpKINode Title="InlineQueryResultCachedSticker.Title property" Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedSticker_Title.htm" />
+  <HelpKINode Title="InlineQueryResultCachedVideo class">
+    <HelpKINode Title="InlineQueryResultCachedVideo Class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedVideo.htm" />
+    <HelpKINode Title="about InlineQueryResultCachedVideo class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedVideo.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedVideo__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedVideo.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedVideo.htm" />
+  </HelpKINode>
+  <HelpKINode Title="InlineQueryResultCachedVideo.Description property" Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedVideo_Description.htm" />
+  <HelpKINode Title="InlineQueryResultCachedVideo.FileId property" Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedVideo_FileId.htm" />
+  <HelpKINode Title="InlineQueryResultCachedVideo.InlineQueryResultCachedVideo constructor" Url="html/M_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedVideo__ctor.htm" />
+  <HelpKINode Title="InlineQueryResultCachedVoice class">
+    <HelpKINode Title="InlineQueryResultCachedVoice Class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedVoice.htm" />
+    <HelpKINode Title="about InlineQueryResultCachedVoice class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedVoice.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedVoice__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedVoice.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedVoice.htm" />
+  </HelpKINode>
+  <HelpKINode Title="InlineQueryResultCachedVoice.Caption property" Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedVoice_Caption.htm" />
+  <HelpKINode Title="InlineQueryResultCachedVoice.FileId property" Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedVoice_FileId.htm" />
+  <HelpKINode Title="InlineQueryResultCachedVoice.InlineQueryResultCachedVoice constructor" Url="html/M_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedVoice__ctor.htm" />
+  <HelpKINode Title="InlineQueryResultContact class">
+    <HelpKINode Title="InlineQueryResultContact Class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultContact.htm" />
+    <HelpKINode Title="about InlineQueryResultContact class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultContact.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultContact__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultContact.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultContact.htm" />
+  </HelpKINode>
+  <HelpKINode Title="InlineQueryResultContact.FirstName property" Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultContact_FirstName.htm" />
+  <HelpKINode Title="InlineQueryResultContact.InlineQueryResultContact constructor" Url="html/M_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultContact__ctor.htm" />
+  <HelpKINode Title="InlineQueryResultContact.LastName property" Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultContact_LastName.htm" />
+  <HelpKINode Title="InlineQueryResultContact.PhoneNumber property" Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultContact_PhoneNumber.htm" />
+  <HelpKINode Title="InlineQueryResultContact.Title property" Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultContact_Title.htm" />
+  <HelpKINode Title="InlineQueryResultDocument class">
+    <HelpKINode Title="InlineQueryResultDocument Class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultDocument.htm" />
+    <HelpKINode Title="about InlineQueryResultDocument class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultDocument.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultDocument__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultDocument.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultDocument.htm" />
+  </HelpKINode>
+  <HelpKINode Title="InlineQueryResultDocument.Caption property" Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultDocument_Caption.htm" />
+  <HelpKINode Title="InlineQueryResultDocument.Description property" Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultDocument_Description.htm" />
+  <HelpKINode Title="InlineQueryResultDocument.InlineQueryResultDocument constructor" Url="html/M_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultDocument__ctor.htm" />
+  <HelpKINode Title="InlineQueryResultDocument.MimeType property" Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultDocument_MimeType.htm" />
+  <HelpKINode Title="InlineQueryResultDocument.Url property" Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultDocument_Url.htm" />
+  <HelpKINode Title="InlineQueryResultGif class">
+    <HelpKINode Title="InlineQueryResultGif Class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultGif.htm" />
+    <HelpKINode Title="about InlineQueryResultGif class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultGif.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultGif__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultGif.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultGif.htm" />
+  </HelpKINode>
+  <HelpKINode Title="InlineQueryResultGif.Caption property" Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultGif_Caption.htm" />
+  <HelpKINode Title="InlineQueryResultGif.Height property" Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultGif_Height.htm" />
+  <HelpKINode Title="InlineQueryResultGif.InlineQueryResultGif constructor" Url="html/M_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultGif__ctor.htm" />
+  <HelpKINode Title="InlineQueryResultGif.ThumbHeight property" Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultGif_ThumbHeight.htm" />
+  <HelpKINode Title="InlineQueryResultGif.ThumbUrl property" Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultGif_ThumbUrl.htm" />
+  <HelpKINode Title="InlineQueryResultGif.ThumbWidth property" Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultGif_ThumbWidth.htm" />
+  <HelpKINode Title="InlineQueryResultGif.Url property" Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultGif_Url.htm" />
+  <HelpKINode Title="InlineQueryResultGif.Width property" Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultGif_Width.htm" />
+  <HelpKINode Title="InlineQueryResultLocation class">
+    <HelpKINode Title="InlineQueryResultLocation Class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultLocation.htm" />
+    <HelpKINode Title="about InlineQueryResultLocation class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultLocation.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultLocation__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultLocation.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultLocation.htm" />
+  </HelpKINode>
+  <HelpKINode Title="InlineQueryResultLocation.InlineQueryResultLocation constructor" Url="html/M_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultLocation__ctor.htm" />
+  <HelpKINode Title="InlineQueryResultLocation.Latitude property" Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultLocation_Latitude.htm" />
+  <HelpKINode Title="InlineQueryResultLocation.Longitude property" Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultLocation_Longitude.htm" />
+  <HelpKINode Title="InlineQueryResultMpeg4Gif class">
+    <HelpKINode Title="InlineQueryResultMpeg4Gif Class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultMpeg4Gif.htm" />
+    <HelpKINode Title="about InlineQueryResultMpeg4Gif class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultMpeg4Gif.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultMpeg4Gif__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultMpeg4Gif.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultMpeg4Gif.htm" />
+  </HelpKINode>
+  <HelpKINode Title="InlineQueryResultMpeg4Gif.Caption property" Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultMpeg4Gif_Caption.htm" />
+  <HelpKINode Title="InlineQueryResultMpeg4Gif.Height property" Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultMpeg4Gif_Height.htm" />
+  <HelpKINode Title="InlineQueryResultMpeg4Gif.InlineQueryResultMpeg4Gif constructor" Url="html/M_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultMpeg4Gif__ctor.htm" />
+  <HelpKINode Title="InlineQueryResultMpeg4Gif.ThumbHeight property" Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultMpeg4Gif_ThumbHeight.htm" />
+  <HelpKINode Title="InlineQueryResultMpeg4Gif.ThumbWidth property" Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultMpeg4Gif_ThumbWidth.htm" />
+  <HelpKINode Title="InlineQueryResultMpeg4Gif.Url property" Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultMpeg4Gif_Url.htm" />
+  <HelpKINode Title="InlineQueryResultMpeg4Gif.Width property" Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultMpeg4Gif_Width.htm" />
+  <HelpKINode Title="InlineQueryResultNew class">
+    <HelpKINode Title="InlineQueryResultNew Class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultNew.htm" />
+    <HelpKINode Title="about InlineQueryResultNew class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultNew.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultNew__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultNew.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultNew.htm" />
+  </HelpKINode>
+  <HelpKINode Title="InlineQueryResultNew.InlineQueryResultNew constructor" Url="html/M_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultNew__ctor.htm" />
+  <HelpKINode Title="InlineQueryResultNew.ThumbHeight property" Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultNew_ThumbHeight.htm" />
+  <HelpKINode Title="InlineQueryResultNew.ThumbUrl property" Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultNew_ThumbUrl.htm" />
+  <HelpKINode Title="InlineQueryResultNew.ThumbWidth property" Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultNew_ThumbWidth.htm" />
+  <HelpKINode Title="InlineQueryResultPhoto class">
+    <HelpKINode Title="InlineQueryResultPhoto Class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultPhoto.htm" />
+    <HelpKINode Title="about InlineQueryResultPhoto class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultPhoto.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultPhoto__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultPhoto.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultPhoto.htm" />
+  </HelpKINode>
+  <HelpKINode Title="InlineQueryResultPhoto.Caption property" Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultPhoto_Caption.htm" />
+  <HelpKINode Title="InlineQueryResultPhoto.Description property" Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultPhoto_Description.htm" />
+  <HelpKINode Title="InlineQueryResultPhoto.Height property" Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultPhoto_Height.htm" />
+  <HelpKINode Title="InlineQueryResultPhoto.InlineQueryResultPhoto constructor" Url="html/M_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultPhoto__ctor.htm" />
+  <HelpKINode Title="InlineQueryResultPhoto.ThumbHeight property" Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultPhoto_ThumbHeight.htm" />
+  <HelpKINode Title="InlineQueryResultPhoto.ThumbWidth property" Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultPhoto_ThumbWidth.htm" />
+  <HelpKINode Title="InlineQueryResultPhoto.Url property" Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultPhoto_Url.htm" />
+  <HelpKINode Title="InlineQueryResultPhoto.Width property" Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultPhoto_Width.htm" />
+  <HelpKINode Title="InlineQueryResultType enumeration" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultType.htm" />
+  <HelpKINode Title="InlineQueryResultVenue class">
+    <HelpKINode Title="InlineQueryResultVenue Class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultVenue.htm" />
+    <HelpKINode Title="about InlineQueryResultVenue class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultVenue.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultVenue__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultVenue.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultVenue.htm" />
+  </HelpKINode>
+  <HelpKINode Title="InlineQueryResultVenue.Address property" Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultVenue_Address.htm" />
+  <HelpKINode Title="InlineQueryResultVenue.FoursquareId property" Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultVenue_FoursquareId.htm" />
+  <HelpKINode Title="InlineQueryResultVenue.InlineQueryResultVenue constructor" Url="html/M_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultVenue__ctor.htm" />
+  <HelpKINode Title="InlineQueryResultVenue.Latitude property" Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultVenue_Latitude.htm" />
+  <HelpKINode Title="InlineQueryResultVenue.Longitude property" Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultVenue_Longitude.htm" />
+  <HelpKINode Title="InlineQueryResultVideo class">
+    <HelpKINode Title="InlineQueryResultVideo Class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultVideo.htm" />
+    <HelpKINode Title="about InlineQueryResultVideo class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultVideo.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultVideo__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultVideo.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultVideo.htm" />
+  </HelpKINode>
+  <HelpKINode Title="InlineQueryResultVideo.Caption property" Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultVideo_Caption.htm" />
+  <HelpKINode Title="InlineQueryResultVideo.Description property" Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultVideo_Description.htm" />
+  <HelpKINode Title="InlineQueryResultVideo.Duration property" Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultVideo_Duration.htm" />
+  <HelpKINode Title="InlineQueryResultVideo.Height property" Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultVideo_Height.htm" />
+  <HelpKINode Title="InlineQueryResultVideo.InlineQueryResultVideo constructor" Url="html/M_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultVideo__ctor.htm" />
+  <HelpKINode Title="InlineQueryResultVideo.MimeType property" Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultVideo_MimeType.htm" />
+  <HelpKINode Title="InlineQueryResultVideo.Url property" Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultVideo_Url.htm" />
+  <HelpKINode Title="InlineQueryResultVideo.Width property" Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultVideo_Width.htm" />
+  <HelpKINode Title="InlineQueryResultVoice class">
+    <HelpKINode Title="InlineQueryResultVoice Class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultVoice.htm" />
+    <HelpKINode Title="about InlineQueryResultVoice class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultVoice.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultVoice__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultVoice.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultVoice.htm" />
+  </HelpKINode>
+  <HelpKINode Title="InlineQueryResultVoice.Duration property" Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultVoice_Duration.htm" />
+  <HelpKINode Title="InlineQueryResultVoice.InlineQueryResultVoice constructor" Url="html/M_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultVoice__ctor.htm" />
+  <HelpKINode Title="InlineQueryResultVoice.ThumbHeight property" Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultVoice_ThumbHeight.htm" />
+  <HelpKINode Title="InlineQueryResultVoice.ThumbUrl property" Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultVoice_ThumbUrl.htm" />
+  <HelpKINode Title="InlineQueryResultVoice.ThumbWidth property" Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultVoice_ThumbWidth.htm" />
+  <HelpKINode Title="InlineQueryResultVoice.Url property" Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultVoice_Url.htm" />
+  <HelpKINode Title="InlineQueryUpdate enumeration member" Url="html/T_Telegram_Bot_Types_Enums_UpdateType.htm" />
+  <HelpKINode Title="InputContactMessageContent class">
+    <HelpKINode Title="InputContactMessageContent Class" Url="html/T_Telegram_Bot_Types_InputMessageContents_InputContactMessageContent.htm" />
+    <HelpKINode Title="about InputContactMessageContent class" Url="html/T_Telegram_Bot_Types_InputMessageContents_InputContactMessageContent.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Telegram_Bot_Types_InputMessageContents_InputContactMessageContent__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Telegram_Bot_Types_InputMessageContents_InputContactMessageContent.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Telegram_Bot_Types_InputMessageContents_InputContactMessageContent.htm" />
+  </HelpKINode>
+  <HelpKINode Title="InputContactMessageContent.FirstName property" Url="html/P_Telegram_Bot_Types_InputMessageContents_InputContactMessageContent_FirstName.htm" />
+  <HelpKINode Title="InputContactMessageContent.InputContactMessageContent constructor" Url="html/M_Telegram_Bot_Types_InputMessageContents_InputContactMessageContent__ctor.htm" />
+  <HelpKINode Title="InputContactMessageContent.LastName property" Url="html/P_Telegram_Bot_Types_InputMessageContents_InputContactMessageContent_LastName.htm" />
+  <HelpKINode Title="InputContactMessageContent.PhoneNumber property" Url="html/P_Telegram_Bot_Types_InputMessageContents_InputContactMessageContent_PhoneNumber.htm" />
+  <HelpKINode Title="InputLocationMessageContent class">
+    <HelpKINode Title="InputLocationMessageContent Class" Url="html/T_Telegram_Bot_Types_InputMessageContents_InputLocationMessageContent.htm" />
+    <HelpKINode Title="about InputLocationMessageContent class" Url="html/T_Telegram_Bot_Types_InputMessageContents_InputLocationMessageContent.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Telegram_Bot_Types_InputMessageContents_InputLocationMessageContent__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Telegram_Bot_Types_InputMessageContents_InputLocationMessageContent.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Telegram_Bot_Types_InputMessageContents_InputLocationMessageContent.htm" />
+  </HelpKINode>
+  <HelpKINode Title="InputLocationMessageContent.InputLocationMessageContent constructor" Url="html/M_Telegram_Bot_Types_InputMessageContents_InputLocationMessageContent__ctor.htm" />
+  <HelpKINode Title="InputLocationMessageContent.Latitude property" Url="html/P_Telegram_Bot_Types_InputMessageContents_InputLocationMessageContent_Latitude.htm" />
+  <HelpKINode Title="InputLocationMessageContent.Longitude property" Url="html/P_Telegram_Bot_Types_InputMessageContents_InputLocationMessageContent_Longitude.htm" />
+  <HelpKINode Title="InputMessageContent class">
+    <HelpKINode Title="InputMessageContent Class" Url="html/T_Telegram_Bot_Types_InputMessageContents_InputMessageContent.htm" />
+    <HelpKINode Title="about InputMessageContent class" Url="html/T_Telegram_Bot_Types_InputMessageContents_InputMessageContent.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Telegram_Bot_Types_InputMessageContents_InputMessageContent__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Telegram_Bot_Types_InputMessageContents_InputMessageContent.htm" />
+  </HelpKINode>
+  <HelpKINode Title="InputMessageContent property" Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResult_InputMessageContent.htm" />
+  <HelpKINode Title="InputMessageContent.InputMessageContent constructor" Url="html/M_Telegram_Bot_Types_InputMessageContents_InputMessageContent__ctor.htm" />
+  <HelpKINode Title="InputTextMessageContent class">
+    <HelpKINode Title="InputTextMessageContent Class" Url="html/T_Telegram_Bot_Types_InputMessageContents_InputTextMessageContent.htm" />
+    <HelpKINode Title="about InputTextMessageContent class" Url="html/T_Telegram_Bot_Types_InputMessageContents_InputTextMessageContent.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Telegram_Bot_Types_InputMessageContents_InputTextMessageContent__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Telegram_Bot_Types_InputMessageContents_InputTextMessageContent.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Telegram_Bot_Types_InputMessageContents_InputTextMessageContent.htm" />
+  </HelpKINode>
+  <HelpKINode Title="InputTextMessageContent.DisableWebPagePreview property" Url="html/P_Telegram_Bot_Types_InputMessageContents_InputTextMessageContent_DisableWebPagePreview.htm" />
+  <HelpKINode Title="InputTextMessageContent.InputTextMessageContent constructor" Url="html/M_Telegram_Bot_Types_InputMessageContents_InputTextMessageContent__ctor.htm" />
+  <HelpKINode Title="InputTextMessageContent.MessageText property" Url="html/P_Telegram_Bot_Types_InputMessageContents_InputTextMessageContent_MessageText.htm" />
+  <HelpKINode Title="InputTextMessageContent.ParseMode property" Url="html/P_Telegram_Bot_Types_InputMessageContents_InputTextMessageContent_ParseMode.htm" />
+  <HelpKINode Title="InputVenueMessageContent class">
+    <HelpKINode Title="InputVenueMessageContent Class" Url="html/T_Telegram_Bot_Types_InputMessageContents_InputVenueMessageContent.htm" />
+    <HelpKINode Title="about InputVenueMessageContent class" Url="html/T_Telegram_Bot_Types_InputMessageContents_InputVenueMessageContent.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Telegram_Bot_Types_InputMessageContents_InputVenueMessageContent__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Telegram_Bot_Types_InputMessageContents_InputVenueMessageContent.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Telegram_Bot_Types_InputMessageContents_InputVenueMessageContent.htm" />
+  </HelpKINode>
+  <HelpKINode Title="InputVenueMessageContent.Address property" Url="html/P_Telegram_Bot_Types_InputMessageContents_InputVenueMessageContent_Address.htm" />
+  <HelpKINode Title="InputVenueMessageContent.FoursquareId property" Url="html/P_Telegram_Bot_Types_InputMessageContents_InputVenueMessageContent_FoursquareId.htm" />
+  <HelpKINode Title="InputVenueMessageContent.InputVenueMessageContent constructor" Url="html/M_Telegram_Bot_Types_InputMessageContents_InputVenueMessageContent__ctor.htm" />
+  <HelpKINode Title="InputVenueMessageContent.Latitude property" Url="html/P_Telegram_Bot_Types_InputMessageContents_InputVenueMessageContent_Latitude.htm" />
+  <HelpKINode Title="InputVenueMessageContent.Longitude property" Url="html/P_Telegram_Bot_Types_InputMessageContents_InputVenueMessageContent_Longitude.htm" />
+  <HelpKINode Title="InputVenueMessageContent.Name property" Url="html/P_Telegram_Bot_Types_InputMessageContents_InputVenueMessageContent_Name.htm" />
+  <HelpKINode Title="IReplyMarkup interface">
+    <HelpKINode Title="IReplyMarkup Interface" Url="html/T_Telegram_Bot_Types_ReplyMarkups_IReplyMarkup.htm" />
+    <HelpKINode Title="about IReplyMarkup interface" Url="html/T_Telegram_Bot_Types_ReplyMarkups_IReplyMarkup.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IsReceiving property" Url="html/P_Telegram_Bot_Client_IsReceiving.htm" />
+  <HelpKINode Title="Italic enumeration member" Url="html/T_Telegram_Bot_Types_Enums_MessageEntityType.htm" />
+  <HelpKINode Title="Keyboard property" Url="html/P_Telegram_Bot_Types_ReplyMarkups_ReplyKeyboardMarkup_Keyboard.htm" />
+  <HelpKINode Title="KeyboardButton class">
+    <HelpKINode Title="KeyboardButton Class" Url="html/T_Telegram_Bot_Types_KeyboardButton.htm" />
+    <HelpKINode Title="about KeyboardButton class" Url="html/T_Telegram_Bot_Types_KeyboardButton.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload_Telegram_Bot_Types_KeyboardButton__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Telegram_Bot_Types_KeyboardButton.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Telegram_Bot_Types_KeyboardButton.htm" />
+    <HelpKINode Title="type conversions" Url="html/Operators_T_Telegram_Bot_Types_KeyboardButton.htm" />
+  </HelpKINode>
+  <HelpKINode Title="KeyboardButton to InlineKeyboardButton conversion" Url="html/M_Telegram_Bot_Types_InlineKeyboardButton_op_Implicit_1.htm" />
+  <HelpKINode Title="KeyboardButton.KeyboardButton constructor" Url="html/Overload_Telegram_Bot_Types_KeyboardButton__ctor.htm" />
+  <HelpKINode Title="KeyboardButton.RequestContact property" Url="html/P_Telegram_Bot_Types_KeyboardButton_RequestContact.htm" />
+  <HelpKINode Title="KeyboardButton.RequestLocation property" Url="html/P_Telegram_Bot_Types_KeyboardButton_RequestLocation.htm" />
+  <HelpKINode Title="KeyboardButton.Text property" Url="html/P_Telegram_Bot_Types_KeyboardButton_Text.htm" />
+  <HelpKINode Title="KickChatMember method" Url="html/Overload_Telegram_Bot_Client_KickChatMember.htm" />
+  <HelpKINode Title="Kicked enumeration member" Url="html/T_Telegram_Bot_Types_Enums_ChatMemberStatus.htm" />
+  <HelpKINode Title="LastName property">
+    <HelpKINode Title="Chat.LastName Property " Url="html/P_Telegram_Bot_Types_Chat_LastName.htm" />
+    <HelpKINode Title="Contact.LastName Property " Url="html/P_Telegram_Bot_Types_Contact_LastName.htm" />
+    <HelpKINode Title="InlineQueryResultContact.LastName Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultContact_LastName.htm" />
+    <HelpKINode Title="InputContactMessageContent.LastName Property " Url="html/P_Telegram_Bot_Types_InputMessageContents_InputContactMessageContent_LastName.htm" />
+    <HelpKINode Title="User.LastName Property " Url="html/P_Telegram_Bot_Types_User_LastName.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Latitude property">
+    <HelpKINode Title="InlineQueryResultLocation.Latitude Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultLocation_Latitude.htm" />
+    <HelpKINode Title="InlineQueryResultVenue.Latitude Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultVenue_Latitude.htm" />
+    <HelpKINode Title="InputLocationMessageContent.Latitude Property " Url="html/P_Telegram_Bot_Types_InputMessageContents_InputLocationMessageContent_Latitude.htm" />
+    <HelpKINode Title="InputVenueMessageContent.Latitude Property " Url="html/P_Telegram_Bot_Types_InputMessageContents_InputVenueMessageContent_Latitude.htm" />
+    <HelpKINode Title="Location.Latitude Property " Url="html/P_Telegram_Bot_Types_Location_Latitude.htm" />
+  </HelpKINode>
+  <HelpKINode Title="LeaveChat method" Url="html/Overload_Telegram_Bot_Client_LeaveChat.htm" />
+  <HelpKINode Title="Left enumeration member" Url="html/T_Telegram_Bot_Types_Enums_ChatMemberStatus.htm" />
+  <HelpKINode Title="LeftChatMember property" Url="html/P_Telegram_Bot_Types_Message_LeftChatMember.htm" />
+  <HelpKINode Title="Length property" Url="html/P_Telegram_Bot_Types_MessageEntity_Length.htm" />
+  <HelpKINode Title="Location class">
+    <HelpKINode Title="Location Class" Url="html/T_Telegram_Bot_Types_Location.htm" />
+    <HelpKINode Title="about Location class" Url="html/T_Telegram_Bot_Types_Location.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Telegram_Bot_Types_Location__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Telegram_Bot_Types_Location.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Telegram_Bot_Types_Location.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Location enumeration member" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultType.htm" />
+  <HelpKINode Title="Location property">
+    <HelpKINode Title="ChosenInlineResult.Location Property " Url="html/P_Telegram_Bot_Types_ChosenInlineResult_Location.htm" />
+    <HelpKINode Title="InlineQuery.Location Property " Url="html/P_Telegram_Bot_Types_InlineQuery_Location.htm" />
+    <HelpKINode Title="Message.Location Property " Url="html/P_Telegram_Bot_Types_Message_Location.htm" />
+    <HelpKINode Title="Venue.Location Property " Url="html/P_Telegram_Bot_Types_Venue_Location.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Location.Latitude property" Url="html/P_Telegram_Bot_Types_Location_Latitude.htm" />
+  <HelpKINode Title="Location.Location constructor" Url="html/M_Telegram_Bot_Types_Location__ctor.htm" />
+  <HelpKINode Title="Location.Longitude property" Url="html/P_Telegram_Bot_Types_Location_Longitude.htm" />
+  <HelpKINode Title="LocationMessage enumeration member" Url="html/T_Telegram_Bot_Types_Enums_MessageType.htm" />
+  <HelpKINode Title="Longitude property">
+    <HelpKINode Title="InlineQueryResultLocation.Longitude Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultLocation_Longitude.htm" />
+    <HelpKINode Title="InlineQueryResultVenue.Longitude Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultVenue_Longitude.htm" />
+    <HelpKINode Title="InputLocationMessageContent.Longitude Property " Url="html/P_Telegram_Bot_Types_InputMessageContents_InputLocationMessageContent_Longitude.htm" />
+    <HelpKINode Title="InputVenueMessageContent.Longitude Property " Url="html/P_Telegram_Bot_Types_InputMessageContents_InputVenueMessageContent_Longitude.htm" />
+    <HelpKINode Title="Location.Longitude Property " Url="html/P_Telegram_Bot_Types_Location_Longitude.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Markdown enumeration member" Url="html/T_Telegram_Bot_Types_Enums_ParseMode.htm" />
+  <HelpKINode Title="Member enumeration member" Url="html/T_Telegram_Bot_Types_Enums_ChatMemberStatus.htm" />
+  <HelpKINode Title="Mention enumeration member" Url="html/T_Telegram_Bot_Types_Enums_MessageEntityType.htm" />
+  <HelpKINode Title="Message class">
+    <HelpKINode Title="Message Class" Url="html/T_Telegram_Bot_Types_Message.htm" />
+    <HelpKINode Title="about Message class" Url="html/T_Telegram_Bot_Types_Message.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Telegram_Bot_Types_Message__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Telegram_Bot_Types_Message.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Telegram_Bot_Types_Message.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Message property">
+    <HelpKINode Title="ApiResponse(T).Message Property " Url="html/P_Telegram_Bot_Types_ApiResponse_1_Message.htm" />
+    <HelpKINode Title="CallbackQuery.Message Property " Url="html/P_Telegram_Bot_Types_CallbackQuery_Message.htm" />
+    <HelpKINode Title="MessageEventArgs.Message Property " Url="html/P_Telegram_Bot_Args_MessageEventArgs_Message.htm" />
+    <HelpKINode Title="Update.Message Property " Url="html/P_Telegram_Bot_Types_Update_Message.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Message.Audio property" Url="html/P_Telegram_Bot_Types_Message_Audio.htm" />
+  <HelpKINode Title="Message.Caption property" Url="html/P_Telegram_Bot_Types_Message_Caption.htm" />
+  <HelpKINode Title="Message.ChannelChatCreated property" Url="html/P_Telegram_Bot_Types_Message_ChannelChatCreated.htm" />
+  <HelpKINode Title="Message.Chat property" Url="html/P_Telegram_Bot_Types_Message_Chat.htm" />
+  <HelpKINode Title="Message.Contact property" Url="html/P_Telegram_Bot_Types_Message_Contact.htm" />
+  <HelpKINode Title="Message.Date property" Url="html/P_Telegram_Bot_Types_Message_Date.htm" />
+  <HelpKINode Title="Message.DeleteChatPhoto property" Url="html/P_Telegram_Bot_Types_Message_DeleteChatPhoto.htm" />
+  <HelpKINode Title="Message.Document property" Url="html/P_Telegram_Bot_Types_Message_Document.htm" />
+  <HelpKINode Title="Message.EditDate property" Url="html/P_Telegram_Bot_Types_Message_EditDate.htm" />
+  <HelpKINode Title="Message.Entities property" Url="html/P_Telegram_Bot_Types_Message_Entities.htm" />
+  <HelpKINode Title="Message.EntityValues property" Url="html/P_Telegram_Bot_Types_Message_EntityValues.htm" />
+  <HelpKINode Title="Message.ForwardDate property" Url="html/P_Telegram_Bot_Types_Message_ForwardDate.htm" />
+  <HelpKINode Title="Message.ForwardFrom property" Url="html/P_Telegram_Bot_Types_Message_ForwardFrom.htm" />
+  <HelpKINode Title="Message.ForwardFromChat property" Url="html/P_Telegram_Bot_Types_Message_ForwardFromChat.htm" />
+  <HelpKINode Title="Message.From property" Url="html/P_Telegram_Bot_Types_Message_From.htm" />
+  <HelpKINode Title="Message.GroupChatCreated property" Url="html/P_Telegram_Bot_Types_Message_GroupChatCreated.htm" />
+  <HelpKINode Title="Message.LeftChatMember property" Url="html/P_Telegram_Bot_Types_Message_LeftChatMember.htm" />
+  <HelpKINode Title="Message.Location property" Url="html/P_Telegram_Bot_Types_Message_Location.htm" />
+  <HelpKINode Title="Message.Message constructor" Url="html/M_Telegram_Bot_Types_Message__ctor.htm" />
+  <HelpKINode Title="Message.MessageId property" Url="html/P_Telegram_Bot_Types_Message_MessageId.htm" />
+  <HelpKINode Title="Message.MigrateFromChatId property" Url="html/P_Telegram_Bot_Types_Message_MigrateFromChatId.htm" />
+  <HelpKINode Title="Message.MigrateToChatId property" Url="html/P_Telegram_Bot_Types_Message_MigrateToChatId.htm" />
+  <HelpKINode Title="Message.NewChatMember property" Url="html/P_Telegram_Bot_Types_Message_NewChatMember.htm" />
+  <HelpKINode Title="Message.NewChatPhoto property" Url="html/P_Telegram_Bot_Types_Message_NewChatPhoto.htm" />
+  <HelpKINode Title="Message.NewChatTitle property" Url="html/P_Telegram_Bot_Types_Message_NewChatTitle.htm" />
+  <HelpKINode Title="Message.Photo property" Url="html/P_Telegram_Bot_Types_Message_Photo.htm" />
+  <HelpKINode Title="Message.PinnedMessage property" Url="html/P_Telegram_Bot_Types_Message_PinnedMessage.htm" />
+  <HelpKINode Title="Message.ReplyToMessage property" Url="html/P_Telegram_Bot_Types_Message_ReplyToMessage.htm" />
+  <HelpKINode Title="Message.Sticker property" Url="html/P_Telegram_Bot_Types_Message_Sticker.htm" />
+  <HelpKINode Title="Message.SupergroupChatCreated property" Url="html/P_Telegram_Bot_Types_Message_SupergroupChatCreated.htm" />
+  <HelpKINode Title="Message.Text property" Url="html/P_Telegram_Bot_Types_Message_Text.htm" />
+  <HelpKINode Title="Message.Type property" Url="html/P_Telegram_Bot_Types_Message_Type.htm" />
+  <HelpKINode Title="Message.Venue property" Url="html/P_Telegram_Bot_Types_Message_Venue.htm" />
+  <HelpKINode Title="Message.Video property" Url="html/P_Telegram_Bot_Types_Message_Video.htm" />
+  <HelpKINode Title="Message.Voice property" Url="html/P_Telegram_Bot_Types_Message_Voice.htm" />
+  <HelpKINode Title="MessageEntity class">
+    <HelpKINode Title="MessageEntity Class" Url="html/T_Telegram_Bot_Types_MessageEntity.htm" />
+    <HelpKINode Title="about MessageEntity class" Url="html/T_Telegram_Bot_Types_MessageEntity.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Telegram_Bot_Types_MessageEntity__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Telegram_Bot_Types_MessageEntity.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Telegram_Bot_Types_MessageEntity.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MessageEntity.Length property" Url="html/P_Telegram_Bot_Types_MessageEntity_Length.htm" />
+  <HelpKINode Title="MessageEntity.MessageEntity constructor" Url="html/M_Telegram_Bot_Types_MessageEntity__ctor.htm" />
+  <HelpKINode Title="MessageEntity.Offset property" Url="html/P_Telegram_Bot_Types_MessageEntity_Offset.htm" />
+  <HelpKINode Title="MessageEntity.Type property" Url="html/P_Telegram_Bot_Types_MessageEntity_Type.htm" />
+  <HelpKINode Title="MessageEntity.Url property" Url="html/P_Telegram_Bot_Types_MessageEntity_Url.htm" />
+  <HelpKINode Title="MessageEntity.User property" Url="html/P_Telegram_Bot_Types_MessageEntity_User.htm" />
+  <HelpKINode Title="MessageEntityType enumeration" Url="html/T_Telegram_Bot_Types_Enums_MessageEntityType.htm" />
+  <HelpKINode Title="MessageEventArgs class">
+    <HelpKINode Title="MessageEventArgs Class" Url="html/T_Telegram_Bot_Args_MessageEventArgs.htm" />
+    <HelpKINode Title="about MessageEventArgs class" Url="html/T_Telegram_Bot_Args_MessageEventArgs.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Telegram_Bot_Args_MessageEventArgs.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Telegram_Bot_Args_MessageEventArgs.htm" />
+    <HelpKINode Title="type conversions" Url="html/Operators_T_Telegram_Bot_Args_MessageEventArgs.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MessageEventArgs.Message property" Url="html/P_Telegram_Bot_Args_MessageEventArgs_Message.htm" />
+  <HelpKINode Title="MessageId property" Url="html/P_Telegram_Bot_Types_Message_MessageId.htm" />
+  <HelpKINode Title="MessageOffset property" Url="html/P_Telegram_Bot_Client_MessageOffset.htm" />
+  <HelpKINode Title="MessageReceived event" Url="html/E_Telegram_Bot_Client_MessageReceived.htm" />
+  <HelpKINode Title="MessageText property" Url="html/P_Telegram_Bot_Types_InputMessageContents_InputTextMessageContent_MessageText.htm" />
+  <HelpKINode Title="MessageType enumeration" Url="html/T_Telegram_Bot_Types_Enums_MessageType.htm" />
+  <HelpKINode Title="MessageUpdate enumeration member" Url="html/T_Telegram_Bot_Types_Enums_UpdateType.htm" />
+  <HelpKINode Title="MigrateFromChatId property" Url="html/P_Telegram_Bot_Types_Message_MigrateFromChatId.htm" />
+  <HelpKINode Title="MigrateToChatId property" Url="html/P_Telegram_Bot_Types_Message_MigrateToChatId.htm" />
+  <HelpKINode Title="MimeType property">
+    <HelpKINode Title="Audio.MimeType Property " Url="html/P_Telegram_Bot_Types_Audio_MimeType.htm" />
+    <HelpKINode Title="Document.MimeType Property " Url="html/P_Telegram_Bot_Types_Document_MimeType.htm" />
+    <HelpKINode Title="InlineQueryResultDocument.MimeType Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultDocument_MimeType.htm" />
+    <HelpKINode Title="InlineQueryResultVideo.MimeType Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultVideo_MimeType.htm" />
+    <HelpKINode Title="Video.MimeType Property " Url="html/P_Telegram_Bot_Types_Video_MimeType.htm" />
+    <HelpKINode Title="Voice.MimeType Property " Url="html/P_Telegram_Bot_Types_Voice_MimeType.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Mpeg4Gif enumeration member" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultType.htm" />
+  <HelpKINode Title="Name property" Url="html/P_Telegram_Bot_Types_InputMessageContents_InputVenueMessageContent_Name.htm" />
+  <HelpKINode Title="NewChatMember property" Url="html/P_Telegram_Bot_Types_Message_NewChatMember.htm" />
+  <HelpKINode Title="NewChatPhoto property" Url="html/P_Telegram_Bot_Types_Message_NewChatPhoto.htm" />
+  <HelpKINode Title="NewChatTitle property" Url="html/P_Telegram_Bot_Types_Message_NewChatTitle.htm" />
+  <HelpKINode Title="Offset property">
+    <HelpKINode Title="InlineQuery.Offset Property " Url="html/P_Telegram_Bot_Types_InlineQuery_Offset.htm" />
+    <HelpKINode Title="MessageEntity.Offset Property " Url="html/P_Telegram_Bot_Types_MessageEntity_Offset.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Ok property" Url="html/P_Telegram_Bot_Types_ApiResponse_1_Ok.htm" />
+  <HelpKINode Title="OneTimeKeyboard property" Url="html/P_Telegram_Bot_Types_ReplyMarkups_ReplyKeyboardMarkup_OneTimeKeyboard.htm" />
+  <HelpKINode Title="OnReceiveError method" Url="html/M_Telegram_Bot_Client_OnReceiveError.htm" />
+  <HelpKINode Title="OnUpdateReceived method" Url="html/M_Telegram_Bot_Client_OnUpdateReceived.htm" />
+  <HelpKINode Title="ParseMode enumeration" Url="html/T_Telegram_Bot_Types_Enums_ParseMode.htm" />
+  <HelpKINode Title="ParseMode property" Url="html/P_Telegram_Bot_Types_InputMessageContents_InputTextMessageContent_ParseMode.htm" />
+  <HelpKINode Title="Performer property">
+    <HelpKINode Title="Audio.Performer Property " Url="html/P_Telegram_Bot_Types_Audio_Performer.htm" />
+    <HelpKINode Title="InlineQueryResultAudio.Performer Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultAudio_Performer.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PhoneNumber property">
+    <HelpKINode Title="Contact.PhoneNumber Property " Url="html/P_Telegram_Bot_Types_Contact_PhoneNumber.htm" />
+    <HelpKINode Title="InlineQueryResultContact.PhoneNumber Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultContact_PhoneNumber.htm" />
+    <HelpKINode Title="InputContactMessageContent.PhoneNumber Property " Url="html/P_Telegram_Bot_Types_InputMessageContents_InputContactMessageContent_PhoneNumber.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Photo enumeration member" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultType.htm" />
+  <HelpKINode Title="Photo property" Url="html/P_Telegram_Bot_Types_Message_Photo.htm" />
+  <HelpKINode Title="PhotoMessage enumeration member" Url="html/T_Telegram_Bot_Types_Enums_MessageType.htm" />
+  <HelpKINode Title="Photos property" Url="html/P_Telegram_Bot_Types_UserProfilePhotos_Photos.htm" />
+  <HelpKINode Title="PhotoSize class">
+    <HelpKINode Title="PhotoSize Class" Url="html/T_Telegram_Bot_Types_PhotoSize.htm" />
+    <HelpKINode Title="about PhotoSize class" Url="html/T_Telegram_Bot_Types_PhotoSize.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Telegram_Bot_Types_PhotoSize__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Telegram_Bot_Types_PhotoSize.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Telegram_Bot_Types_PhotoSize.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PhotoSize.Height property" Url="html/P_Telegram_Bot_Types_PhotoSize_Height.htm" />
+  <HelpKINode Title="PhotoSize.PhotoSize constructor" Url="html/M_Telegram_Bot_Types_PhotoSize__ctor.htm" />
+  <HelpKINode Title="PhotoSize.Width property" Url="html/P_Telegram_Bot_Types_PhotoSize_Width.htm" />
+  <HelpKINode Title="PinnedMessage property" Url="html/P_Telegram_Bot_Types_Message_PinnedMessage.htm" />
+  <HelpKINode Title="PollingTimeout property" Url="html/P_Telegram_Bot_Client_PollingTimeout.htm" />
+  <HelpKINode Title="Pre enumeration member" Url="html/T_Telegram_Bot_Types_Enums_MessageEntityType.htm" />
+  <HelpKINode Title="Private enumeration member" Url="html/T_Telegram_Bot_Types_Enums_ChatType.htm" />
+  <HelpKINode Title="Query property">
+    <HelpKINode Title="ChosenInlineResult.Query Property " Url="html/P_Telegram_Bot_Types_ChosenInlineResult_Query.htm" />
+    <HelpKINode Title="InlineQuery.Query Property " Url="html/P_Telegram_Bot_Types_InlineQuery_Query.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ReceiveError event" Url="html/E_Telegram_Bot_Client_ReceiveError.htm" />
+  <HelpKINode Title="ReceiveErrorEventArgs class">
+    <HelpKINode Title="ReceiveErrorEventArgs Class" Url="html/T_Telegram_Bot_Args_ReceiveErrorEventArgs.htm" />
+    <HelpKINode Title="about ReceiveErrorEventArgs class" Url="html/T_Telegram_Bot_Args_ReceiveErrorEventArgs.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Telegram_Bot_Args_ReceiveErrorEventArgs.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Telegram_Bot_Args_ReceiveErrorEventArgs.htm" />
+    <HelpKINode Title="type conversions" Url="html/Operators_T_Telegram_Bot_Args_ReceiveErrorEventArgs.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ReceiveErrorEventArgs.ApiRequestException property" Url="html/P_Telegram_Bot_Args_ReceiveErrorEventArgs_ApiRequestException.htm" />
+  <HelpKINode Title="RecordAudio enumeration member" Url="html/T_Telegram_Bot_Types_Enums_ChatAction.htm" />
+  <HelpKINode Title="RecordVideo enumeration member" Url="html/T_Telegram_Bot_Types_Enums_ChatAction.htm" />
+  <HelpKINode Title="ReplyKeyboardHide class">
+    <HelpKINode Title="ReplyKeyboardHide Class" Url="html/T_Telegram_Bot_Types_ReplyMarkups_ReplyKeyboardHide.htm" />
+    <HelpKINode Title="about ReplyKeyboardHide class" Url="html/T_Telegram_Bot_Types_ReplyMarkups_ReplyKeyboardHide.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Telegram_Bot_Types_ReplyMarkups_ReplyKeyboardHide__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Telegram_Bot_Types_ReplyMarkups_ReplyKeyboardHide.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Telegram_Bot_Types_ReplyMarkups_ReplyKeyboardHide.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ReplyKeyboardHide.HideKeyboard property" Url="html/P_Telegram_Bot_Types_ReplyMarkups_ReplyKeyboardHide_HideKeyboard.htm" />
+  <HelpKINode Title="ReplyKeyboardHide.ReplyKeyboardHide constructor" Url="html/M_Telegram_Bot_Types_ReplyMarkups_ReplyKeyboardHide__ctor.htm" />
+  <HelpKINode Title="ReplyKeyboardMarkup class">
+    <HelpKINode Title="ReplyKeyboardMarkup Class" Url="html/T_Telegram_Bot_Types_ReplyMarkups_ReplyKeyboardMarkup.htm" />
+    <HelpKINode Title="about ReplyKeyboardMarkup class" Url="html/T_Telegram_Bot_Types_ReplyMarkups_ReplyKeyboardMarkup.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload_Telegram_Bot_Types_ReplyMarkups_ReplyKeyboardMarkup__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Telegram_Bot_Types_ReplyMarkups_ReplyKeyboardMarkup.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Telegram_Bot_Types_ReplyMarkups_ReplyKeyboardMarkup.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ReplyKeyboardMarkup.Keyboard property" Url="html/P_Telegram_Bot_Types_ReplyMarkups_ReplyKeyboardMarkup_Keyboard.htm" />
+  <HelpKINode Title="ReplyKeyboardMarkup.OneTimeKeyboard property" Url="html/P_Telegram_Bot_Types_ReplyMarkups_ReplyKeyboardMarkup_OneTimeKeyboard.htm" />
+  <HelpKINode Title="ReplyKeyboardMarkup.ReplyKeyboardMarkup constructor" Url="html/Overload_Telegram_Bot_Types_ReplyMarkups_ReplyKeyboardMarkup__ctor.htm" />
+  <HelpKINode Title="ReplyKeyboardMarkup.ResizeKeyboard property" Url="html/P_Telegram_Bot_Types_ReplyMarkups_ReplyKeyboardMarkup_ResizeKeyboard.htm" />
+  <HelpKINode Title="ReplyMarkup class">
+    <HelpKINode Title="ReplyMarkup Class" Url="html/T_Telegram_Bot_Types_ReplyMarkups_ReplyMarkup.htm" />
+    <HelpKINode Title="about ReplyMarkup class" Url="html/T_Telegram_Bot_Types_ReplyMarkups_ReplyMarkup.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Telegram_Bot_Types_ReplyMarkups_ReplyMarkup__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Telegram_Bot_Types_ReplyMarkups_ReplyMarkup.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Telegram_Bot_Types_ReplyMarkups_ReplyMarkup.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ReplyMarkup property" Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResult_ReplyMarkup.htm" />
+  <HelpKINode Title="ReplyMarkup.ReplyMarkup constructor" Url="html/M_Telegram_Bot_Types_ReplyMarkups_ReplyMarkup__ctor.htm" />
+  <HelpKINode Title="ReplyMarkup.Selective property" Url="html/P_Telegram_Bot_Types_ReplyMarkups_ReplyMarkup_Selective.htm" />
+  <HelpKINode Title="ReplyToMessage property" Url="html/P_Telegram_Bot_Types_Message_ReplyToMessage.htm" />
+  <HelpKINode Title="RequestContact property" Url="html/P_Telegram_Bot_Types_KeyboardButton_RequestContact.htm" />
+  <HelpKINode Title="RequestLocation property" Url="html/P_Telegram_Bot_Types_KeyboardButton_RequestLocation.htm" />
+  <HelpKINode Title="ResizeKeyboard property" Url="html/P_Telegram_Bot_Types_ReplyMarkups_ReplyKeyboardMarkup_ResizeKeyboard.htm" />
+  <HelpKINode Title="ResultId property" Url="html/P_Telegram_Bot_Types_ChosenInlineResult_ResultId.htm" />
+  <HelpKINode Title="ResultObject property" Url="html/P_Telegram_Bot_Types_ApiResponse_1_ResultObject.htm" />
+  <HelpKINode Title="Selective property" Url="html/P_Telegram_Bot_Types_ReplyMarkups_ReplyMarkup_Selective.htm" />
+  <HelpKINode Title="SendAudio method" Url="html/Overload_Telegram_Bot_Client_SendAudio.htm" />
+  <HelpKINode Title="SendChatAction method" Url="html/Overload_Telegram_Bot_Client_SendChatAction.htm" />
+  <HelpKINode Title="SendContact method" Url="html/Overload_Telegram_Bot_Client_SendContact.htm" />
+  <HelpKINode Title="SendDocument method" Url="html/Overload_Telegram_Bot_Client_SendDocument.htm" />
+  <HelpKINode Title="SendLocation method" Url="html/Overload_Telegram_Bot_Client_SendLocation.htm" />
+  <HelpKINode Title="SendPhoto method" Url="html/Overload_Telegram_Bot_Client_SendPhoto.htm" />
+  <HelpKINode Title="SendSticker method" Url="html/Overload_Telegram_Bot_Client_SendSticker.htm" />
+  <HelpKINode Title="SendTextMessage method" Url="html/Overload_Telegram_Bot_Client_SendTextMessage.htm" />
+  <HelpKINode Title="SendVenue method" Url="html/Overload_Telegram_Bot_Client_SendVenue.htm" />
+  <HelpKINode Title="SendVideo method" Url="html/Overload_Telegram_Bot_Client_SendVideo.htm" />
+  <HelpKINode Title="SendVoice method" Url="html/Overload_Telegram_Bot_Client_SendVoice.htm" />
+  <HelpKINode Title="ServiceMessage enumeration member" Url="html/T_Telegram_Bot_Types_Enums_MessageType.htm" />
+  <HelpKINode Title="SetWebhook method" Url="html/M_Telegram_Bot_Client_SetWebhook.htm" />
+  <HelpKINode Title="StartReceiving method" Url="html/Overload_Telegram_Bot_Client_StartReceiving.htm" />
+  <HelpKINode Title="Status property" Url="html/P_Telegram_Bot_Types_ChatMember_Status.htm" />
+  <HelpKINode Title="Sticker class">
+    <HelpKINode Title="Sticker Class" Url="html/T_Telegram_Bot_Types_Sticker.htm" />
+    <HelpKINode Title="about Sticker class" Url="html/T_Telegram_Bot_Types_Sticker.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Telegram_Bot_Types_Sticker__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Telegram_Bot_Types_Sticker.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Telegram_Bot_Types_Sticker.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Sticker property" Url="html/P_Telegram_Bot_Types_Message_Sticker.htm" />
+  <HelpKINode Title="Sticker.Emoji property" Url="html/P_Telegram_Bot_Types_Sticker_Emoji.htm" />
+  <HelpKINode Title="Sticker.Height property" Url="html/P_Telegram_Bot_Types_Sticker_Height.htm" />
+  <HelpKINode Title="Sticker.Sticker constructor" Url="html/M_Telegram_Bot_Types_Sticker__ctor.htm" />
+  <HelpKINode Title="Sticker.Thumb property" Url="html/P_Telegram_Bot_Types_Sticker_Thumb.htm" />
+  <HelpKINode Title="Sticker.Width property" Url="html/P_Telegram_Bot_Types_Sticker_Width.htm" />
+  <HelpKINode Title="StickerMessage enumeration member" Url="html/T_Telegram_Bot_Types_Enums_MessageType.htm" />
+  <HelpKINode Title="StopReceiving method" Url="html/M_Telegram_Bot_Client_StopReceiving.htm" />
+  <HelpKINode Title="String to InlineKeyboardButton conversion" Url="html/M_Telegram_Bot_Types_InlineKeyboardButton_op_Implicit.htm" />
+  <HelpKINode Title="String to KeyboardButton conversion" Url="html/M_Telegram_Bot_Types_KeyboardButton_op_Implicit.htm" />
+  <HelpKINode Title="Supergroup enumeration member" Url="html/T_Telegram_Bot_Types_Enums_ChatType.htm" />
+  <HelpKINode Title="SupergroupChatCreated property" Url="html/P_Telegram_Bot_Types_Message_SupergroupChatCreated.htm" />
+  <HelpKINode Title="SwitchInlineQuery property" Url="html/P_Telegram_Bot_Types_InlineKeyboardButton_SwitchInlineQuery.htm" />
+  <HelpKINode Title="Telegram.Bot namespace" Url="html/N_Telegram_Bot.htm" />
+  <HelpKINode Title="Telegram.Bot.Api class" Url="html/T_Telegram_Bot_Api.htm" />
+  <HelpKINode Title="Telegram.Bot.Args namespace" Url="html/N_Telegram_Bot_Args.htm" />
+  <HelpKINode Title="Telegram.Bot.Args.CallbackQueryEventArgs class" Url="html/T_Telegram_Bot_Args_CallbackQueryEventArgs.htm" />
+  <HelpKINode Title="Telegram.Bot.Args.ChosenInlineResultEventArgs class" Url="html/T_Telegram_Bot_Args_ChosenInlineResultEventArgs.htm" />
+  <HelpKINode Title="Telegram.Bot.Args.InlineQueryEventArgs class" Url="html/T_Telegram_Bot_Args_InlineQueryEventArgs.htm" />
+  <HelpKINode Title="Telegram.Bot.Args.MessageEventArgs class" Url="html/T_Telegram_Bot_Args_MessageEventArgs.htm" />
+  <HelpKINode Title="Telegram.Bot.Args.ReceiveErrorEventArgs class" Url="html/T_Telegram_Bot_Args_ReceiveErrorEventArgs.htm" />
+  <HelpKINode Title="Telegram.Bot.Args.UpdateEventArgs class" Url="html/T_Telegram_Bot_Args_UpdateEventArgs.htm" />
+  <HelpKINode Title="Telegram.Bot.Client class" Url="html/T_Telegram_Bot_Client.htm" />
+  <HelpKINode Title="Telegram.Bot.Exceptions namespace" Url="html/N_Telegram_Bot_Exceptions.htm" />
+  <HelpKINode Title="Telegram.Bot.Exceptions.ApiRequestException class" Url="html/T_Telegram_Bot_Exceptions_ApiRequestException.htm" />
+  <HelpKINode Title="Telegram.Bot.Helpers namespace" Url="html/N_Telegram_Bot_Helpers.htm" />
+  <HelpKINode Title="Telegram.Bot.Helpers.Extensions class" Url="html/T_Telegram_Bot_Helpers_Extensions.htm" />
+  <HelpKINode Title="Telegram.Bot.Types namespace" Url="html/N_Telegram_Bot_Types.htm" />
+  <HelpKINode Title="Telegram.Bot.Types.ApiResponse(Of T) class" Url="html/T_Telegram_Bot_Types_ApiResponse_1.htm" />
+  <HelpKINode Title="Telegram.Bot.Types.ApiResponse&lt;T&gt; class" Url="html/T_Telegram_Bot_Types_ApiResponse_1.htm" />
+  <HelpKINode Title="Telegram.Bot.Types.Audio class" Url="html/T_Telegram_Bot_Types_Audio.htm" />
+  <HelpKINode Title="Telegram.Bot.Types.CallbackQuery class" Url="html/T_Telegram_Bot_Types_CallbackQuery.htm" />
+  <HelpKINode Title="Telegram.Bot.Types.Chat class" Url="html/T_Telegram_Bot_Types_Chat.htm" />
+  <HelpKINode Title="Telegram.Bot.Types.ChatMember class" Url="html/T_Telegram_Bot_Types_ChatMember.htm" />
+  <HelpKINode Title="Telegram.Bot.Types.ChosenInlineResult class" Url="html/T_Telegram_Bot_Types_ChosenInlineResult.htm" />
+  <HelpKINode Title="Telegram.Bot.Types.Contact class" Url="html/T_Telegram_Bot_Types_Contact.htm" />
+  <HelpKINode Title="Telegram.Bot.Types.Document class" Url="html/T_Telegram_Bot_Types_Document.htm" />
+  <HelpKINode Title="Telegram.Bot.Types.Enums namespace" Url="html/N_Telegram_Bot_Types_Enums.htm" />
+  <HelpKINode Title="Telegram.Bot.Types.Enums.ChatAction enumeration" Url="html/T_Telegram_Bot_Types_Enums_ChatAction.htm" />
+  <HelpKINode Title="Telegram.Bot.Types.Enums.ChatMemberStatus enumeration" Url="html/T_Telegram_Bot_Types_Enums_ChatMemberStatus.htm" />
+  <HelpKINode Title="Telegram.Bot.Types.Enums.ChatType enumeration" Url="html/T_Telegram_Bot_Types_Enums_ChatType.htm" />
+  <HelpKINode Title="Telegram.Bot.Types.Enums.MessageEntityType enumeration" Url="html/T_Telegram_Bot_Types_Enums_MessageEntityType.htm" />
+  <HelpKINode Title="Telegram.Bot.Types.Enums.MessageType enumeration" Url="html/T_Telegram_Bot_Types_Enums_MessageType.htm" />
+  <HelpKINode Title="Telegram.Bot.Types.Enums.ParseMode enumeration" Url="html/T_Telegram_Bot_Types_Enums_ParseMode.htm" />
+  <HelpKINode Title="Telegram.Bot.Types.Enums.UpdateType enumeration" Url="html/T_Telegram_Bot_Types_Enums_UpdateType.htm" />
+  <HelpKINode Title="Telegram.Bot.Types.File class" Url="html/T_Telegram_Bot_Types_File.htm" />
+  <HelpKINode Title="Telegram.Bot.Types.FileToSend structure" Url="html/T_Telegram_Bot_Types_FileToSend.htm" />
+  <HelpKINode Title="Telegram.Bot.Types.InlineKeyboardButton class" Url="html/T_Telegram_Bot_Types_InlineKeyboardButton.htm" />
+  <HelpKINode Title="Telegram.Bot.Types.InlineQuery class" Url="html/T_Telegram_Bot_Types_InlineQuery.htm" />
+  <HelpKINode Title="Telegram.Bot.Types.InlineQueryResults namespace" Url="html/N_Telegram_Bot_Types_InlineQueryResults.htm" />
+  <HelpKINode Title="Telegram.Bot.Types.InlineQueryResults.InlineQueryResult class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResult.htm" />
+  <HelpKINode Title="Telegram.Bot.Types.InlineQueryResults.InlineQueryResultArticle class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultArticle.htm" />
+  <HelpKINode Title="Telegram.Bot.Types.InlineQueryResults.InlineQueryResultAudio class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultAudio.htm" />
+  <HelpKINode Title="Telegram.Bot.Types.InlineQueryResults.InlineQueryResultCached class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCached.htm" />
+  <HelpKINode Title="Telegram.Bot.Types.InlineQueryResults.InlineQueryResultCachedAudio class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedAudio.htm" />
+  <HelpKINode Title="Telegram.Bot.Types.InlineQueryResults.InlineQueryResultCachedDocument class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedDocument.htm" />
+  <HelpKINode Title="Telegram.Bot.Types.InlineQueryResults.InlineQueryResultCachedGif class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedGif.htm" />
+  <HelpKINode Title="Telegram.Bot.Types.InlineQueryResults.InlineQueryResultCachedMpeg4Gif class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedMpeg4Gif.htm" />
+  <HelpKINode Title="Telegram.Bot.Types.InlineQueryResults.InlineQueryResultCachedPhoto class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedPhoto.htm" />
+  <HelpKINode Title="Telegram.Bot.Types.InlineQueryResults.InlineQueryResultCachedSticker class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedSticker.htm" />
+  <HelpKINode Title="Telegram.Bot.Types.InlineQueryResults.InlineQueryResultCachedVideo class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedVideo.htm" />
+  <HelpKINode Title="Telegram.Bot.Types.InlineQueryResults.InlineQueryResultCachedVoice class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedVoice.htm" />
+  <HelpKINode Title="Telegram.Bot.Types.InlineQueryResults.InlineQueryResultContact class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultContact.htm" />
+  <HelpKINode Title="Telegram.Bot.Types.InlineQueryResults.InlineQueryResultDocument class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultDocument.htm" />
+  <HelpKINode Title="Telegram.Bot.Types.InlineQueryResults.InlineQueryResultGif class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultGif.htm" />
+  <HelpKINode Title="Telegram.Bot.Types.InlineQueryResults.InlineQueryResultLocation class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultLocation.htm" />
+  <HelpKINode Title="Telegram.Bot.Types.InlineQueryResults.InlineQueryResultMpeg4Gif class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultMpeg4Gif.htm" />
+  <HelpKINode Title="Telegram.Bot.Types.InlineQueryResults.InlineQueryResultNew class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultNew.htm" />
+  <HelpKINode Title="Telegram.Bot.Types.InlineQueryResults.InlineQueryResultPhoto class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultPhoto.htm" />
+  <HelpKINode Title="Telegram.Bot.Types.InlineQueryResults.InlineQueryResultType enumeration" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultType.htm" />
+  <HelpKINode Title="Telegram.Bot.Types.InlineQueryResults.InlineQueryResultVenue class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultVenue.htm" />
+  <HelpKINode Title="Telegram.Bot.Types.InlineQueryResults.InlineQueryResultVideo class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultVideo.htm" />
+  <HelpKINode Title="Telegram.Bot.Types.InlineQueryResults.InlineQueryResultVoice class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultVoice.htm" />
+  <HelpKINode Title="Telegram.Bot.Types.InputMessageContents namespace" Url="html/N_Telegram_Bot_Types_InputMessageContents.htm" />
+  <HelpKINode Title="Telegram.Bot.Types.InputMessageContents.InputContactMessageContent class" Url="html/T_Telegram_Bot_Types_InputMessageContents_InputContactMessageContent.htm" />
+  <HelpKINode Title="Telegram.Bot.Types.InputMessageContents.InputLocationMessageContent class" Url="html/T_Telegram_Bot_Types_InputMessageContents_InputLocationMessageContent.htm" />
+  <HelpKINode Title="Telegram.Bot.Types.InputMessageContents.InputMessageContent class" Url="html/T_Telegram_Bot_Types_InputMessageContents_InputMessageContent.htm" />
+  <HelpKINode Title="Telegram.Bot.Types.InputMessageContents.InputTextMessageContent class" Url="html/T_Telegram_Bot_Types_InputMessageContents_InputTextMessageContent.htm" />
+  <HelpKINode Title="Telegram.Bot.Types.InputMessageContents.InputVenueMessageContent class" Url="html/T_Telegram_Bot_Types_InputMessageContents_InputVenueMessageContent.htm" />
+  <HelpKINode Title="Telegram.Bot.Types.KeyboardButton class" Url="html/T_Telegram_Bot_Types_KeyboardButton.htm" />
+  <HelpKINode Title="Telegram.Bot.Types.Location class" Url="html/T_Telegram_Bot_Types_Location.htm" />
+  <HelpKINode Title="Telegram.Bot.Types.Message class" Url="html/T_Telegram_Bot_Types_Message.htm" />
+  <HelpKINode Title="Telegram.Bot.Types.MessageEntity class" Url="html/T_Telegram_Bot_Types_MessageEntity.htm" />
+  <HelpKINode Title="Telegram.Bot.Types.PhotoSize class" Url="html/T_Telegram_Bot_Types_PhotoSize.htm" />
+  <HelpKINode Title="Telegram.Bot.Types.ReplyMarkups namespace" Url="html/N_Telegram_Bot_Types_ReplyMarkups.htm" />
+  <HelpKINode Title="Telegram.Bot.Types.ReplyMarkups.ForceReply class" Url="html/T_Telegram_Bot_Types_ReplyMarkups_ForceReply.htm" />
+  <HelpKINode Title="Telegram.Bot.Types.ReplyMarkups.InlineKeyboardMarkup class" Url="html/T_Telegram_Bot_Types_ReplyMarkups_InlineKeyboardMarkup.htm" />
+  <HelpKINode Title="Telegram.Bot.Types.ReplyMarkups.IReplyMarkup interface" Url="html/T_Telegram_Bot_Types_ReplyMarkups_IReplyMarkup.htm" />
+  <HelpKINode Title="Telegram.Bot.Types.ReplyMarkups.ReplyKeyboardHide class" Url="html/T_Telegram_Bot_Types_ReplyMarkups_ReplyKeyboardHide.htm" />
+  <HelpKINode Title="Telegram.Bot.Types.ReplyMarkups.ReplyKeyboardMarkup class" Url="html/T_Telegram_Bot_Types_ReplyMarkups_ReplyKeyboardMarkup.htm" />
+  <HelpKINode Title="Telegram.Bot.Types.ReplyMarkups.ReplyMarkup class" Url="html/T_Telegram_Bot_Types_ReplyMarkups_ReplyMarkup.htm" />
+  <HelpKINode Title="Telegram.Bot.Types.Sticker class" Url="html/T_Telegram_Bot_Types_Sticker.htm" />
+  <HelpKINode Title="Telegram.Bot.Types.Update class" Url="html/T_Telegram_Bot_Types_Update.htm" />
+  <HelpKINode Title="Telegram.Bot.Types.User class" Url="html/T_Telegram_Bot_Types_User.htm" />
+  <HelpKINode Title="Telegram.Bot.Types.UserProfilePhotos class" Url="html/T_Telegram_Bot_Types_UserProfilePhotos.htm" />
+  <HelpKINode Title="Telegram.Bot.Types.Venue class" Url="html/T_Telegram_Bot_Types_Venue.htm" />
+  <HelpKINode Title="Telegram.Bot.Types.Video class" Url="html/T_Telegram_Bot_Types_Video.htm" />
+  <HelpKINode Title="Telegram.Bot.Types.Voice class" Url="html/T_Telegram_Bot_Types_Voice.htm" />
+  <HelpKINode Title="TestApi method" Url="html/M_Telegram_Bot_Client_TestApi.htm" />
+  <HelpKINode Title="Text property">
+    <HelpKINode Title="InlineKeyboardButton.Text Property " Url="html/P_Telegram_Bot_Types_InlineKeyboardButton_Text.htm" />
+    <HelpKINode Title="KeyboardButton.Text Property " Url="html/P_Telegram_Bot_Types_KeyboardButton_Text.htm" />
+    <HelpKINode Title="Message.Text Property " Url="html/P_Telegram_Bot_Types_Message_Text.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TextLink enumeration member" Url="html/T_Telegram_Bot_Types_Enums_MessageEntityType.htm" />
+  <HelpKINode Title="TextMention enumeration member" Url="html/T_Telegram_Bot_Types_Enums_MessageEntityType.htm" />
+  <HelpKINode Title="TextMessage enumeration member" Url="html/T_Telegram_Bot_Types_Enums_MessageType.htm" />
+  <HelpKINode Title="Thumb property">
+    <HelpKINode Title="Document.Thumb Property " Url="html/P_Telegram_Bot_Types_Document_Thumb.htm" />
+    <HelpKINode Title="Sticker.Thumb Property " Url="html/P_Telegram_Bot_Types_Sticker_Thumb.htm" />
+    <HelpKINode Title="Video.Thumb Property " Url="html/P_Telegram_Bot_Types_Video_Thumb.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ThumbHeight property">
+    <HelpKINode Title="InlineQueryResultAudio.ThumbHeight Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultAudio_ThumbHeight.htm" />
+    <HelpKINode Title="InlineQueryResultGif.ThumbHeight Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultGif_ThumbHeight.htm" />
+    <HelpKINode Title="InlineQueryResultMpeg4Gif.ThumbHeight Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultMpeg4Gif_ThumbHeight.htm" />
+    <HelpKINode Title="InlineQueryResultNew.ThumbHeight Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultNew_ThumbHeight.htm" />
+    <HelpKINode Title="InlineQueryResultPhoto.ThumbHeight Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultPhoto_ThumbHeight.htm" />
+    <HelpKINode Title="InlineQueryResultVoice.ThumbHeight Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultVoice_ThumbHeight.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ThumbUrl property">
+    <HelpKINode Title="InlineQueryResultAudio.ThumbUrl Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultAudio_ThumbUrl.htm" />
+    <HelpKINode Title="InlineQueryResultGif.ThumbUrl Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultGif_ThumbUrl.htm" />
+    <HelpKINode Title="InlineQueryResultNew.ThumbUrl Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultNew_ThumbUrl.htm" />
+    <HelpKINode Title="InlineQueryResultVoice.ThumbUrl Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultVoice_ThumbUrl.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ThumbWidth property">
+    <HelpKINode Title="InlineQueryResultAudio.ThumbWidth Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultAudio_ThumbWidth.htm" />
+    <HelpKINode Title="InlineQueryResultGif.ThumbWidth Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultGif_ThumbWidth.htm" />
+    <HelpKINode Title="InlineQueryResultMpeg4Gif.ThumbWidth Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultMpeg4Gif_ThumbWidth.htm" />
+    <HelpKINode Title="InlineQueryResultNew.ThumbWidth Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultNew_ThumbWidth.htm" />
+    <HelpKINode Title="InlineQueryResultPhoto.ThumbWidth Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultPhoto_ThumbWidth.htm" />
+    <HelpKINode Title="InlineQueryResultVoice.ThumbWidth Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultVoice_ThumbWidth.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Title property">
+    <HelpKINode Title="Audio.Title Property " Url="html/P_Telegram_Bot_Types_Audio_Title.htm" />
+    <HelpKINode Title="Chat.Title Property " Url="html/P_Telegram_Bot_Types_Chat_Title.htm" />
+    <HelpKINode Title="InlineQueryResult.Title Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResult_Title.htm" />
+    <HelpKINode Title="InlineQueryResultCachedAudio.Title Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedAudio_Title.htm" />
+    <HelpKINode Title="InlineQueryResultCachedSticker.Title Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedSticker_Title.htm" />
+    <HelpKINode Title="InlineQueryResultContact.Title Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultContact_Title.htm" />
+    <HelpKINode Title="Venue.Title Property " Url="html/P_Telegram_Bot_Types_Venue_Title.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TotalCount property" Url="html/P_Telegram_Bot_Types_UserProfilePhotos_TotalCount.htm" />
+  <HelpKINode Title="Type property">
+    <HelpKINode Title="Chat.Type Property " Url="html/P_Telegram_Bot_Types_Chat_Type.htm" />
+    <HelpKINode Title="InlineQueryResult.Type Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResult_Type.htm" />
+    <HelpKINode Title="Message.Type Property " Url="html/P_Telegram_Bot_Types_Message_Type.htm" />
+    <HelpKINode Title="MessageEntity.Type Property " Url="html/P_Telegram_Bot_Types_MessageEntity_Type.htm" />
+    <HelpKINode Title="Update.Type Property " Url="html/P_Telegram_Bot_Types_Update_Type.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Typing enumeration member" Url="html/T_Telegram_Bot_Types_Enums_ChatAction.htm" />
+  <HelpKINode Title="UnbanChatMember method" Url="html/Overload_Telegram_Bot_Client_UnbanChatMember.htm" />
+  <HelpKINode Title="Unknown enumeration member" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultType.htm" />
+  <HelpKINode Title="UnknownMessage enumeration member" Url="html/T_Telegram_Bot_Types_Enums_MessageType.htm" />
+  <HelpKINode Title="UnkownUpdate enumeration member" Url="html/T_Telegram_Bot_Types_Enums_UpdateType.htm" />
+  <HelpKINode Title="Update class">
+    <HelpKINode Title="Update Class" Url="html/T_Telegram_Bot_Types_Update.htm" />
+    <HelpKINode Title="about Update class" Url="html/T_Telegram_Bot_Types_Update.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Telegram_Bot_Types_Update__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Telegram_Bot_Types_Update.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Telegram_Bot_Types_Update.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Update property" Url="html/P_Telegram_Bot_Args_UpdateEventArgs_Update.htm" />
+  <HelpKINode Title="Update.CallbackQuery property" Url="html/P_Telegram_Bot_Types_Update_CallbackQuery.htm" />
+  <HelpKINode Title="Update.ChosenInlineResult property" Url="html/P_Telegram_Bot_Types_Update_ChosenInlineResult.htm" />
+  <HelpKINode Title="Update.EditedMessage property" Url="html/P_Telegram_Bot_Types_Update_EditedMessage.htm" />
+  <HelpKINode Title="Update.FromString method" Url="html/M_Telegram_Bot_Types_Update_FromString.htm" />
+  <HelpKINode Title="Update.Id property" Url="html/P_Telegram_Bot_Types_Update_Id.htm" />
+  <HelpKINode Title="Update.InlineQuery property" Url="html/P_Telegram_Bot_Types_Update_InlineQuery.htm" />
+  <HelpKINode Title="Update.Message property" Url="html/P_Telegram_Bot_Types_Update_Message.htm" />
+  <HelpKINode Title="Update.Type property" Url="html/P_Telegram_Bot_Types_Update_Type.htm" />
+  <HelpKINode Title="Update.Update constructor" Url="html/M_Telegram_Bot_Types_Update__ctor.htm" />
+  <HelpKINode Title="UpdateEventArgs class">
+    <HelpKINode Title="UpdateEventArgs Class" Url="html/T_Telegram_Bot_Args_UpdateEventArgs.htm" />
+    <HelpKINode Title="about UpdateEventArgs class" Url="html/T_Telegram_Bot_Args_UpdateEventArgs.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Telegram_Bot_Args_UpdateEventArgs.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Telegram_Bot_Args_UpdateEventArgs.htm" />
+  </HelpKINode>
+  <HelpKINode Title="UpdateEventArgs to CallbackQueryEventArgs conversion" Url="html/M_Telegram_Bot_Args_CallbackQueryEventArgs_op_Implicit.htm" />
+  <HelpKINode Title="UpdateEventArgs to ChosenInlineResultEventArgs conversion" Url="html/M_Telegram_Bot_Args_ChosenInlineResultEventArgs_op_Implicit.htm" />
+  <HelpKINode Title="UpdateEventArgs to InlineQueryEventArgs conversion" Url="html/M_Telegram_Bot_Args_InlineQueryEventArgs_op_Implicit.htm" />
+  <HelpKINode Title="UpdateEventArgs to MessageEventArgs conversion" Url="html/M_Telegram_Bot_Args_MessageEventArgs_op_Implicit.htm" />
+  <HelpKINode Title="UpdateEventArgs.Update property" Url="html/P_Telegram_Bot_Args_UpdateEventArgs_Update.htm" />
+  <HelpKINode Title="UpdateReceived event" Url="html/E_Telegram_Bot_Client_UpdateReceived.htm" />
+  <HelpKINode Title="UpdateType enumeration" Url="html/T_Telegram_Bot_Types_Enums_UpdateType.htm" />
+  <HelpKINode Title="UploadAudio enumeration member" Url="html/T_Telegram_Bot_Types_Enums_ChatAction.htm" />
+  <HelpKINode Title="UploadDocument enumeration member" Url="html/T_Telegram_Bot_Types_Enums_ChatAction.htm" />
+  <HelpKINode Title="UploadPhoto enumeration member" Url="html/T_Telegram_Bot_Types_Enums_ChatAction.htm" />
+  <HelpKINode Title="UploadTimeout property" Url="html/P_Telegram_Bot_Client_UploadTimeout.htm" />
+  <HelpKINode Title="UploadVideo enumeration member" Url="html/T_Telegram_Bot_Types_Enums_ChatAction.htm" />
+  <HelpKINode Title="Url enumeration member" Url="html/T_Telegram_Bot_Types_Enums_MessageEntityType.htm" />
+  <HelpKINode Title="Url property">
+    <HelpKINode Title="InlineKeyboardButton.Url Property " Url="html/P_Telegram_Bot_Types_InlineKeyboardButton_Url.htm" />
+    <HelpKINode Title="InlineQueryResultArticle.Url Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultArticle_Url.htm" />
+    <HelpKINode Title="InlineQueryResultAudio.Url Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultAudio_Url.htm" />
+    <HelpKINode Title="InlineQueryResultDocument.Url Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultDocument_Url.htm" />
+    <HelpKINode Title="InlineQueryResultGif.Url Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultGif_Url.htm" />
+    <HelpKINode Title="InlineQueryResultMpeg4Gif.Url Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultMpeg4Gif_Url.htm" />
+    <HelpKINode Title="InlineQueryResultPhoto.Url Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultPhoto_Url.htm" />
+    <HelpKINode Title="InlineQueryResultVideo.Url Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultVideo_Url.htm" />
+    <HelpKINode Title="InlineQueryResultVoice.Url Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultVoice_Url.htm" />
+    <HelpKINode Title="MessageEntity.Url Property " Url="html/P_Telegram_Bot_Types_MessageEntity_Url.htm" />
+  </HelpKINode>
+  <HelpKINode Title="User class">
+    <HelpKINode Title="User Class" Url="html/T_Telegram_Bot_Types_User.htm" />
+    <HelpKINode Title="about User class" Url="html/T_Telegram_Bot_Types_User.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Telegram_Bot_Types_User__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Telegram_Bot_Types_User.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Telegram_Bot_Types_User.htm" />
+  </HelpKINode>
+  <HelpKINode Title="User property">
+    <HelpKINode Title="ChatMember.User Property " Url="html/P_Telegram_Bot_Types_ChatMember_User.htm" />
+    <HelpKINode Title="MessageEntity.User Property " Url="html/P_Telegram_Bot_Types_MessageEntity_User.htm" />
+  </HelpKINode>
+  <HelpKINode Title="User.FirstName property" Url="html/P_Telegram_Bot_Types_User_FirstName.htm" />
+  <HelpKINode Title="User.Id property" Url="html/P_Telegram_Bot_Types_User_Id.htm" />
+  <HelpKINode Title="User.LastName property" Url="html/P_Telegram_Bot_Types_User_LastName.htm" />
+  <HelpKINode Title="User.User constructor" Url="html/M_Telegram_Bot_Types_User__ctor.htm" />
+  <HelpKINode Title="User.Username property" Url="html/P_Telegram_Bot_Types_User_Username.htm" />
+  <HelpKINode Title="UserId property" Url="html/P_Telegram_Bot_Types_Contact_UserId.htm" />
+  <HelpKINode Title="Username property">
+    <HelpKINode Title="Chat.Username Property " Url="html/P_Telegram_Bot_Types_Chat_Username.htm" />
+    <HelpKINode Title="User.Username Property " Url="html/P_Telegram_Bot_Types_User_Username.htm" />
+  </HelpKINode>
+  <HelpKINode Title="UserProfilePhotos class">
+    <HelpKINode Title="UserProfilePhotos Class" Url="html/T_Telegram_Bot_Types_UserProfilePhotos.htm" />
+    <HelpKINode Title="about UserProfilePhotos class" Url="html/T_Telegram_Bot_Types_UserProfilePhotos.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Telegram_Bot_Types_UserProfilePhotos__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Telegram_Bot_Types_UserProfilePhotos.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Telegram_Bot_Types_UserProfilePhotos.htm" />
+  </HelpKINode>
+  <HelpKINode Title="UserProfilePhotos.Photos property" Url="html/P_Telegram_Bot_Types_UserProfilePhotos_Photos.htm" />
+  <HelpKINode Title="UserProfilePhotos.TotalCount property" Url="html/P_Telegram_Bot_Types_UserProfilePhotos_TotalCount.htm" />
+  <HelpKINode Title="UserProfilePhotos.UserProfilePhotos constructor" Url="html/M_Telegram_Bot_Types_UserProfilePhotos__ctor.htm" />
+  <HelpKINode Title="Venue class">
+    <HelpKINode Title="Venue Class" Url="html/T_Telegram_Bot_Types_Venue.htm" />
+    <HelpKINode Title="about Venue class" Url="html/T_Telegram_Bot_Types_Venue.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Telegram_Bot_Types_Venue__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Telegram_Bot_Types_Venue.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Telegram_Bot_Types_Venue.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Venue enumeration member" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultType.htm" />
+  <HelpKINode Title="Venue property" Url="html/P_Telegram_Bot_Types_Message_Venue.htm" />
+  <HelpKINode Title="Venue.Address property" Url="html/P_Telegram_Bot_Types_Venue_Address.htm" />
+  <HelpKINode Title="Venue.FoursquareId property" Url="html/P_Telegram_Bot_Types_Venue_FoursquareId.htm" />
+  <HelpKINode Title="Venue.Location property" Url="html/P_Telegram_Bot_Types_Venue_Location.htm" />
+  <HelpKINode Title="Venue.Title property" Url="html/P_Telegram_Bot_Types_Venue_Title.htm" />
+  <HelpKINode Title="Venue.Venue constructor" Url="html/M_Telegram_Bot_Types_Venue__ctor.htm" />
+  <HelpKINode Title="VenueMessage enumeration member" Url="html/T_Telegram_Bot_Types_Enums_MessageType.htm" />
+  <HelpKINode Title="Video class">
+    <HelpKINode Title="Video Class" Url="html/T_Telegram_Bot_Types_Video.htm" />
+    <HelpKINode Title="about Video class" Url="html/T_Telegram_Bot_Types_Video.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Telegram_Bot_Types_Video__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Telegram_Bot_Types_Video.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Telegram_Bot_Types_Video.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Video enumeration member" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultType.htm" />
+  <HelpKINode Title="Video property" Url="html/P_Telegram_Bot_Types_Message_Video.htm" />
+  <HelpKINode Title="Video.Duration property" Url="html/P_Telegram_Bot_Types_Video_Duration.htm" />
+  <HelpKINode Title="Video.Height property" Url="html/P_Telegram_Bot_Types_Video_Height.htm" />
+  <HelpKINode Title="Video.MimeType property" Url="html/P_Telegram_Bot_Types_Video_MimeType.htm" />
+  <HelpKINode Title="Video.Thumb property" Url="html/P_Telegram_Bot_Types_Video_Thumb.htm" />
+  <HelpKINode Title="Video.Video constructor" Url="html/M_Telegram_Bot_Types_Video__ctor.htm" />
+  <HelpKINode Title="Video.Width property" Url="html/P_Telegram_Bot_Types_Video_Width.htm" />
+  <HelpKINode Title="VideoMessage enumeration member" Url="html/T_Telegram_Bot_Types_Enums_MessageType.htm" />
+  <HelpKINode Title="Voice class">
+    <HelpKINode Title="Voice Class" Url="html/T_Telegram_Bot_Types_Voice.htm" />
+    <HelpKINode Title="about Voice class" Url="html/T_Telegram_Bot_Types_Voice.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Telegram_Bot_Types_Voice__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Telegram_Bot_Types_Voice.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Telegram_Bot_Types_Voice.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Voice enumeration member" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultType.htm" />
+  <HelpKINode Title="Voice property" Url="html/P_Telegram_Bot_Types_Message_Voice.htm" />
+  <HelpKINode Title="Voice.Duration property" Url="html/P_Telegram_Bot_Types_Voice_Duration.htm" />
+  <HelpKINode Title="Voice.MimeType property" Url="html/P_Telegram_Bot_Types_Voice_MimeType.htm" />
+  <HelpKINode Title="Voice.Voice constructor" Url="html/M_Telegram_Bot_Types_Voice__ctor.htm" />
+  <HelpKINode Title="VoiceMessage enumeration member" Url="html/T_Telegram_Bot_Types_Enums_MessageType.htm" />
+  <HelpKINode Title="Width property">
+    <HelpKINode Title="InlineQueryResultGif.Width Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultGif_Width.htm" />
+    <HelpKINode Title="InlineQueryResultMpeg4Gif.Width Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultMpeg4Gif_Width.htm" />
+    <HelpKINode Title="InlineQueryResultPhoto.Width Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultPhoto_Width.htm" />
+    <HelpKINode Title="InlineQueryResultVideo.Width Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultVideo_Width.htm" />
+    <HelpKINode Title="PhotoSize.Width Property " Url="html/P_Telegram_Bot_Types_PhotoSize_Width.htm" />
+    <HelpKINode Title="Sticker.Width Property " Url="html/P_Telegram_Bot_Types_Sticker_Width.htm" />
+    <HelpKINode Title="Video.Width Property " Url="html/P_Telegram_Bot_Types_Video_Width.htm" />
+  </HelpKINode>
+</HelpKI>
