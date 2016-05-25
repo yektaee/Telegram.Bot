@@ -5,19 +5,19 @@
             </div></td></tr><tr data="class; public"><td><img src="../icons/pubclass.gif" alt="Public class" title="Public class" /></td><td><a href="T_Telegram_Bot_Types_Audio.htm">Audio</a></td><td><div class="summary">
             This object represents an audio file to be treated as music by the Telegram clients.
             </div></td></tr><tr data="class; public"><td><img src="../icons/pubclass.gif" alt="Public class" title="Public class" /></td><td><a href="T_Telegram_Bot_Types_CallbackQuery.htm">CallbackQuery</a></td><td><div class="summary">
-            This object represents an incoming callback query from a callback button in an inline keyboard. If the button that originated the query was attached to a message sent by the bot, the field message will be presented. If the button was attached to a message sent via the bot (in inline mode), the field inline_message_id will be presented.
+            This object represents an incoming callback query from a <a href="T_Telegram_Bot_Types_InlineKeyboardButton.htm">InlineKeyboardButton</a>. If the button that originated the query was attached to a <a href="P_Telegram_Bot_Types_CallbackQuery_Message.htm">Message</a> sent by the bot, the field message will be presented. If the button was attached to a message sent via the bot (in inline mode), the field <a href="P_Telegram_Bot_Types_CallbackQuery_InlineMessageId.htm">InlineMessageId</a> will be presented.
             </div></td></tr><tr data="class; public"><td><img src="../icons/pubclass.gif" alt="Public class" title="Public class" /></td><td><a href="T_Telegram_Bot_Types_Chat.htm">Chat</a></td><td><div class="summary">
             This object represents a chat.
             </div></td></tr><tr data="class; public"><td><img src="../icons/pubclass.gif" alt="Public class" title="Public class" /></td><td><a href="T_Telegram_Bot_Types_ChatMember.htm">ChatMember</a></td><td><div class="summary">
             This object contains information about one member of the chat.
             </div></td></tr><tr data="class; public"><td><img src="../icons/pubclass.gif" alt="Public class" title="Public class" /></td><td><a href="T_Telegram_Bot_Types_ChosenInlineResult.htm">ChosenInlineResult</a></td><td><div class="summary">
-            This object represents a result of an inline query that was chosen by the user and sent to their chat partner.
+            This object represents a result of an <a href="T_Telegram_Bot_Types_InlineQuery.htm">InlineQuery</a> that was chosen by the <a href="T_Telegram_Bot_Types_User.htm">User</a> and sent to their chat partner.
             </div></td></tr><tr data="class; public"><td><img src="../icons/pubclass.gif" alt="Public class" title="Public class" /></td><td><a href="T_Telegram_Bot_Types_Contact.htm">Contact</a></td><td><div class="summary">
             This object represents a phone contact.
             </div></td></tr><tr data="class; public"><td><img src="../icons/pubclass.gif" alt="Public class" title="Public class" /></td><td><a href="T_Telegram_Bot_Types_Document.htm">Document</a></td><td><div class="summary">
-            This object represents a general file (as opposed to photos and audio files).
+            This object represents a general file (as opposed to <a href="T_Telegram_Bot_Types_PhotoSize.htm">PhotoSize</a> and <a href="T_Telegram_Bot_Types_Audio.htm">Audio</a> files).
             </div></td></tr><tr data="class; public"><td><img src="../icons/pubclass.gif" alt="Public class" title="Public class" /></td><td><a href="T_Telegram_Bot_Types_File.htm">File</a></td><td><div class="summary">
-            This object represents a file ready to be downloaded. The file can be downloaded via the link https://api.telegram.org/file/bot{token}/{file_path}. It is guaranteed that the link will be valid for at least 1 hour. When the link expires, a new one can be requested by calling getFile.
+            This object represents a file ready to be downloaded. The file can be downloaded via <a href="M_Telegram_Bot_TelegramBotClient_GetFileAsync.htm">GetFileAsync(String, Stream)</a>. It is guaranteed that the link will be valid for at least 1 hour. When the link expires, a new one can be requested by calling <a href="M_Telegram_Bot_TelegramBotClient_GetFileAsync.htm">GetFileAsync(String, Stream)</a>.
             </div></td></tr><tr data="class; public"><td><img src="../icons/pubclass.gif" alt="Public class" title="Public class" /></td><td><a href="T_Telegram_Bot_Types_InlineKeyboardButton.htm">InlineKeyboardButton</a></td><td><div class="summary">
             This object represents one button of an inline keyboard. You must use exactly one of the optional fields.
             </div></td></tr><tr data="class; public"><td><img src="../icons/pubclass.gif" alt="Public class" title="Public class" /></td><td><a href="T_Telegram_Bot_Types_InlineQuery.htm">InlineQuery</a></td><td><div class="summary">
@@ -48,4 +48,6 @@
             This object represents a voice note.
             </div></td></tr></table></div><div class="collapsibleAreaRegion"><span class="collapsibleRegionTitle" onclick="SectionExpandCollapse('ID1RB')" onkeypress="SectionExpandCollapse_CheckKey('ID1RB', event)" tabindex="0"><img id="ID1RBToggle" class="collapseToggle" src="../icons/SectionExpanded.png" />Structures</span></div><div id="ID1RBSection" class="collapsibleSection"><table id="typeList" class="members"><tr><th class="iconColumn">
 					 
-				</th><th>Structure</th><th>Description</th></tr><tr data="structure; public"><td><img src="../icons/pubstructure.gif" alt="Public structure" title="Public structure" /></td><td><a href="T_Telegram_Bot_Types_FileToSend.htm">FileToSend</a></td><td /></tr></table></div></div></div><div id="pageFooter" class="pageFooter"> </div></body></html>
+				</th><th>Structure</th><th>Description</th></tr><tr data="structure; public"><td><img src="../icons/pubstructure.gif" alt="Public structure" title="Public structure" /></td><td><a href="T_Telegram_Bot_Types_FileToSend.htm">FileToSend</a></td><td><div class="summary">
+            Represents information for a file to be sent
+            </div></td></tr></table></div></div></div><div id="pageFooter" class="pageFooter"> </div></body></html>
