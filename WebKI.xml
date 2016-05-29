@@ -277,8 +277,8 @@
     <HelpKINode Title="InlineQueryResultCachedVideo.FileId Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedVideo_FileId.htm" />
     <HelpKINode Title="InlineQueryResultCachedVoice.FileId Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedVoice_FileId.htm" />
   </HelpKINode>
-  <HelpKINode Title="Filename property" Url="html/P_Telegram_Bot_Types_FileToSend_Filename.htm" />
   <HelpKINode Title="FileName property" Url="html/P_Telegram_Bot_Types_Document_FileName.htm" />
+  <HelpKINode Title="Filename property" Url="html/P_Telegram_Bot_Types_FileToSend_Filename.htm" />
   <HelpKINode Title="FilePath property" Url="html/P_Telegram_Bot_Types_File_FilePath.htm" />
   <HelpKINode Title="FileSize property" Url="html/P_Telegram_Bot_Types_File_FileSize.htm" />
   <HelpKINode Title="FileStream property" Url="html/P_Telegram_Bot_Types_File_FileStream.htm" />
