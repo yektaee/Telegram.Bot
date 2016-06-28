@@ -851,6 +851,7 @@
   <HelpKINode Title="Message.Venue property" Url="html/P_Telegram_Bot_Types_Message_Venue.htm" />
   <HelpKINode Title="Message.Video property" Url="html/P_Telegram_Bot_Types_Message_Video.htm" />
   <HelpKINode Title="Message.Voice property" Url="html/P_Telegram_Bot_Types_Message_Voice.htm" />
+  <HelpKINode Title="MessageEdited event" Url="html/E_Telegram_Bot_TelegramBotClient_MessageEdited.htm" />
   <HelpKINode Title="MessageEntity class">
     <HelpKINode Title="MessageEntity Class" Url="html/T_Telegram_Bot_Types_MessageEntity.htm" />
     <HelpKINode Title="about MessageEntity class" Url="html/T_Telegram_Bot_Types_MessageEntity.htm" />
@@ -899,8 +900,14 @@
     <HelpKINode Title="MessageEntity.Offset Property " Url="html/P_Telegram_Bot_Types_MessageEntity_Offset.htm" />
   </HelpKINode>
   <HelpKINode Title="Ok property" Url="html/P_Telegram_Bot_Types_ApiResponse_1_Ok.htm" />
+  <HelpKINode Title="OnCallbackQuery event" Url="html/E_Telegram_Bot_TelegramBotClient_OnCallbackQuery.htm" />
   <HelpKINode Title="OneTimeKeyboard property" Url="html/P_Telegram_Bot_Types_ReplyMarkups_ReplyKeyboardMarkup_OneTimeKeyboard.htm" />
-  <HelpKINode Title="OnReceiveError method" Url="html/M_Telegram_Bot_TelegramBotClient_OnReceiveError.htm" />
+  <HelpKINode Title="OnInlineQuery event" Url="html/E_Telegram_Bot_TelegramBotClient_OnInlineQuery.htm" />
+  <HelpKINode Title="OnInlineResultChosen event" Url="html/E_Telegram_Bot_TelegramBotClient_OnInlineResultChosen.htm" />
+  <HelpKINode Title="OnMessage event" Url="html/E_Telegram_Bot_TelegramBotClient_OnMessage.htm" />
+  <HelpKINode Title="OnMessageEdited event" Url="html/E_Telegram_Bot_TelegramBotClient_OnMessageEdited.htm" />
+  <HelpKINode Title="OnReceiveError event" Url="html/E_Telegram_Bot_TelegramBotClient_OnReceiveError.htm" />
+  <HelpKINode Title="OnUpdate event" Url="html/E_Telegram_Bot_TelegramBotClient_OnUpdate.htm" />
   <HelpKINode Title="OnUpdateReceived method" Url="html/M_Telegram_Bot_TelegramBotClient_OnUpdateReceived.htm" />
   <HelpKINode Title="ParseMode enumeration" Url="html/T_Telegram_Bot_Types_Enums_ParseMode.htm" />
   <HelpKINode Title="ParseMode property" Url="html/P_Telegram_Bot_Types_InputMessageContents_InputTextMessageContent_ParseMode.htm" />
@@ -1163,9 +1170,16 @@
   <HelpKINode Title="TelegramBotClient.KickChatMemberAsync method" Url="html/Overload_Telegram_Bot_TelegramBotClient_KickChatMemberAsync.htm" />
   <HelpKINode Title="TelegramBotClient.LeaveChat method" Url="html/Overload_Telegram_Bot_TelegramBotClient_LeaveChat.htm" />
   <HelpKINode Title="TelegramBotClient.LeaveChatAsync method" Url="html/Overload_Telegram_Bot_TelegramBotClient_LeaveChatAsync.htm" />
+  <HelpKINode Title="TelegramBotClient.MessageEdited event" Url="html/E_Telegram_Bot_TelegramBotClient_MessageEdited.htm" />
   <HelpKINode Title="TelegramBotClient.MessageOffset property" Url="html/P_Telegram_Bot_TelegramBotClient_MessageOffset.htm" />
   <HelpKINode Title="TelegramBotClient.MessageReceived event" Url="html/E_Telegram_Bot_TelegramBotClient_MessageReceived.htm" />
-  <HelpKINode Title="TelegramBotClient.OnReceiveError method" Url="html/M_Telegram_Bot_TelegramBotClient_OnReceiveError.htm" />
+  <HelpKINode Title="TelegramBotClient.OnCallbackQuery event" Url="html/E_Telegram_Bot_TelegramBotClient_OnCallbackQuery.htm" />
+  <HelpKINode Title="TelegramBotClient.OnInlineQuery event" Url="html/E_Telegram_Bot_TelegramBotClient_OnInlineQuery.htm" />
+  <HelpKINode Title="TelegramBotClient.OnInlineResultChosen event" Url="html/E_Telegram_Bot_TelegramBotClient_OnInlineResultChosen.htm" />
+  <HelpKINode Title="TelegramBotClient.OnMessage event" Url="html/E_Telegram_Bot_TelegramBotClient_OnMessage.htm" />
+  <HelpKINode Title="TelegramBotClient.OnMessageEdited event" Url="html/E_Telegram_Bot_TelegramBotClient_OnMessageEdited.htm" />
+  <HelpKINode Title="TelegramBotClient.OnReceiveError event" Url="html/E_Telegram_Bot_TelegramBotClient_OnReceiveError.htm" />
+  <HelpKINode Title="TelegramBotClient.OnUpdate event" Url="html/E_Telegram_Bot_TelegramBotClient_OnUpdate.htm" />
   <HelpKINode Title="TelegramBotClient.OnUpdateReceived method" Url="html/M_Telegram_Bot_TelegramBotClient_OnUpdateReceived.htm" />
   <HelpKINode Title="TelegramBotClient.PollingTimeout property" Url="html/P_Telegram_Bot_TelegramBotClient_PollingTimeout.htm" />
   <HelpKINode Title="TelegramBotClient.ReceiveError event" Url="html/E_Telegram_Bot_TelegramBotClient_ReceiveError.htm" />
