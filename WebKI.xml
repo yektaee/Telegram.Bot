@@ -6,6 +6,20 @@
     <HelpKINode Title="Venue.Address Property " Url="html/P_Telegram_Bot_Types_Venue_Address.htm" />
   </HelpKINode>
   <HelpKINode Title="Administrator enumeration member" Url="html/T_Telegram_Bot_Types_Enums_ChatMemberStatus.htm" />
+  <HelpKINode Title="Animation class">
+    <HelpKINode Title="Animation Class" Url="html/T_Telegram_Bot_Types_Animation.htm" />
+    <HelpKINode Title="about Animation class" Url="html/T_Telegram_Bot_Types_Animation.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Telegram_Bot_Types_Animation__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Telegram_Bot_Types_Animation.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Telegram_Bot_Types_Animation.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Animation property" Url="html/P_Telegram_Bot_Types_Game_Animation.htm" />
+  <HelpKINode Title="Animation.Animation constructor" Url="html/M_Telegram_Bot_Types_Animation__ctor.htm" />
+  <HelpKINode Title="Animation.FileId property" Url="html/P_Telegram_Bot_Types_Animation_FileId.htm" />
+  <HelpKINode Title="Animation.FileName property" Url="html/P_Telegram_Bot_Types_Animation_FileName.htm" />
+  <HelpKINode Title="Animation.FileSize property" Url="html/P_Telegram_Bot_Types_Animation_FileSize.htm" />
+  <HelpKINode Title="Animation.MimeType property" Url="html/P_Telegram_Bot_Types_Animation_MimeType.htm" />
+  <HelpKINode Title="Animation.Thumb property" Url="html/P_Telegram_Bot_Types_Animation_Thumb.htm" />
   <HelpKINode Title="AnswerCallbackQuery method" Url="html/M_Telegram_Bot_TelegramBotClient_AnswerCallbackQuery.htm" />
   <HelpKINode Title="AnswerCallbackQueryAsync method">
     <HelpKINode Title="ITelegramBotClient.AnswerCallbackQueryAsync Method " Url="html/M_Telegram_Bot_ITelegramBotClient_AnswerCallbackQueryAsync.htm" />
@@ -88,6 +102,14 @@
   <HelpKINode Title="CachedVideo enumeration member" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultType.htm" />
   <HelpKINode Title="CachedVoice enumeration member" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultType.htm" />
   <HelpKINode Title="CallbackData property" Url="html/P_Telegram_Bot_Types_InlineKeyboardButton_CallbackData.htm" />
+  <HelpKINode Title="CallbackGame class">
+    <HelpKINode Title="CallbackGame Class" Url="html/T_Telegram_Bot_Types_CallbackGame.htm" />
+    <HelpKINode Title="about CallbackGame class" Url="html/T_Telegram_Bot_Types_CallbackGame.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Telegram_Bot_Types_CallbackGame__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Telegram_Bot_Types_CallbackGame.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CallbackGame property" Url="html/P_Telegram_Bot_Types_InlineKeyboardButton_CallbackGame.htm" />
+  <HelpKINode Title="CallbackGame.CallbackGame constructor" Url="html/M_Telegram_Bot_Types_CallbackGame__ctor.htm" />
   <HelpKINode Title="CallbackQuery class">
     <HelpKINode Title="CallbackQuery Class" Url="html/T_Telegram_Bot_Types_CallbackQuery.htm" />
     <HelpKINode Title="about CallbackQuery class" Url="html/T_Telegram_Bot_Types_CallbackQuery.htm" />
@@ -100,8 +122,10 @@
     <HelpKINode Title="Update.CallbackQuery Property " Url="html/P_Telegram_Bot_Types_Update_CallbackQuery.htm" />
   </HelpKINode>
   <HelpKINode Title="CallbackQuery.CallbackQuery constructor" Url="html/M_Telegram_Bot_Types_CallbackQuery__ctor.htm" />
+  <HelpKINode Title="CallbackQuery.ChatInstance property" Url="html/P_Telegram_Bot_Types_CallbackQuery_ChatInstance.htm" />
   <HelpKINode Title="CallbackQuery.Data property" Url="html/P_Telegram_Bot_Types_CallbackQuery_Data.htm" />
   <HelpKINode Title="CallbackQuery.From property" Url="html/P_Telegram_Bot_Types_CallbackQuery_From.htm" />
+  <HelpKINode Title="CallbackQuery.GameShortName property" Url="html/P_Telegram_Bot_Types_CallbackQuery_GameShortName.htm" />
   <HelpKINode Title="CallbackQuery.Id property" Url="html/P_Telegram_Bot_Types_CallbackQuery_Id.htm" />
   <HelpKINode Title="CallbackQuery.InlineMessageId property" Url="html/P_Telegram_Bot_Types_CallbackQuery_InlineMessageId.htm" />
   <HelpKINode Title="CallbackQuery.Message property" Url="html/P_Telegram_Bot_Types_CallbackQuery_Message.htm" />
@@ -145,6 +169,7 @@
   <HelpKINode Title="Chat.Type property" Url="html/P_Telegram_Bot_Types_Chat_Type.htm" />
   <HelpKINode Title="Chat.Username property" Url="html/P_Telegram_Bot_Types_Chat_Username.htm" />
   <HelpKINode Title="ChatAction enumeration" Url="html/T_Telegram_Bot_Types_Enums_ChatAction.htm" />
+  <HelpKINode Title="ChatInstance property" Url="html/P_Telegram_Bot_Types_CallbackQuery_ChatInstance.htm" />
   <HelpKINode Title="ChatMember class">
     <HelpKINode Title="ChatMember Class" Url="html/T_Telegram_Bot_Types_ChatMember.htm" />
     <HelpKINode Title="about ChatMember class" Url="html/T_Telegram_Bot_Types_ChatMember.htm" />
@@ -208,6 +233,7 @@
   <HelpKINode Title="Default enumeration member" Url="html/T_Telegram_Bot_Types_Enums_ParseMode.htm" />
   <HelpKINode Title="DeleteChatPhoto property" Url="html/P_Telegram_Bot_Types_Message_DeleteChatPhoto.htm" />
   <HelpKINode Title="Description property">
+    <HelpKINode Title="Game.Description Property " Url="html/P_Telegram_Bot_Types_Game_Description.htm" />
     <HelpKINode Title="InlineQueryResultArticle.Description Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultArticle_Description.htm" />
     <HelpKINode Title="InlineQueryResultCachedDocument.Description Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedDocument_Description.htm" />
     <HelpKINode Title="InlineQueryResultCachedPhoto.Description Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedPhoto_Description.htm" />
@@ -292,6 +318,7 @@
   <HelpKINode Title="File.FileSize property" Url="html/P_Telegram_Bot_Types_File_FileSize.htm" />
   <HelpKINode Title="File.FileStream property" Url="html/P_Telegram_Bot_Types_File_FileStream.htm" />
   <HelpKINode Title="FileId property">
+    <HelpKINode Title="Animation.FileId Property " Url="html/P_Telegram_Bot_Types_Animation_FileId.htm" />
     <HelpKINode Title="File.FileId Property " Url="html/P_Telegram_Bot_Types_File_FileId.htm" />
     <HelpKINode Title="InlineQueryResultAudio.FileId Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultAudio_FileId.htm" />
     <HelpKINode Title="InlineQueryResultCachedAudio.FileId Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedAudio_FileId.htm" />
@@ -303,10 +330,16 @@
     <HelpKINode Title="InlineQueryResultCachedVideo.FileId Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedVideo_FileId.htm" />
     <HelpKINode Title="InlineQueryResultCachedVoice.FileId Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedVoice_FileId.htm" />
   </HelpKINode>
+  <HelpKINode Title="FileName property">
+    <HelpKINode Title="Document.FileName Property " Url="html/P_Telegram_Bot_Types_Document_FileName.htm" />
+    <HelpKINode Title="Animation.FileName Property " Url="html/P_Telegram_Bot_Types_Animation_FileName.htm" />
+  </HelpKINode>
   <HelpKINode Title="Filename property" Url="html/P_Telegram_Bot_Types_FileToSend_Filename.htm" />
-  <HelpKINode Title="FileName property" Url="html/P_Telegram_Bot_Types_Document_FileName.htm" />
   <HelpKINode Title="FilePath property" Url="html/P_Telegram_Bot_Types_File_FilePath.htm" />
-  <HelpKINode Title="FileSize property" Url="html/P_Telegram_Bot_Types_File_FileSize.htm" />
+  <HelpKINode Title="FileSize property">
+    <HelpKINode Title="Animation.FileSize Property " Url="html/P_Telegram_Bot_Types_Animation_FileSize.htm" />
+    <HelpKINode Title="File.FileSize Property " Url="html/P_Telegram_Bot_Types_File_FileSize.htm" />
+  </HelpKINode>
   <HelpKINode Title="FileStream property" Url="html/P_Telegram_Bot_Types_File_FileStream.htm" />
   <HelpKINode Title="FileToSend structure">
     <HelpKINode Title="FileToSend Structure" Url="html/T_Telegram_Bot_Types_FileToSend.htm" />
@@ -356,6 +389,38 @@
     <HelpKINode Title="Message.From Property " Url="html/P_Telegram_Bot_Types_Message_From.htm" />
   </HelpKINode>
   <HelpKINode Title="FromString method" Url="html/M_Telegram_Bot_Types_Update_FromString.htm" />
+  <HelpKINode Title="Game class">
+    <HelpKINode Title="Game Class" Url="html/T_Telegram_Bot_Types_Game.htm" />
+    <HelpKINode Title="about Game class" Url="html/T_Telegram_Bot_Types_Game.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Telegram_Bot_Types_Game__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Telegram_Bot_Types_Game.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Telegram_Bot_Types_Game.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Game enumeration member" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultType.htm" />
+  <HelpKINode Title="Game property" Url="html/P_Telegram_Bot_Types_Message_Game.htm" />
+  <HelpKINode Title="Game.Animation property" Url="html/P_Telegram_Bot_Types_Game_Animation.htm" />
+  <HelpKINode Title="Game.Description property" Url="html/P_Telegram_Bot_Types_Game_Description.htm" />
+  <HelpKINode Title="Game.Game constructor" Url="html/M_Telegram_Bot_Types_Game__ctor.htm" />
+  <HelpKINode Title="Game.Photo property" Url="html/P_Telegram_Bot_Types_Game_Photo.htm" />
+  <HelpKINode Title="Game.Text property" Url="html/P_Telegram_Bot_Types_Game_Text.htm" />
+  <HelpKINode Title="Game.TextEntities property" Url="html/P_Telegram_Bot_Types_Game_TextEntities.htm" />
+  <HelpKINode Title="Game.Title property" Url="html/P_Telegram_Bot_Types_Game_Title.htm" />
+  <HelpKINode Title="GameHighScore class">
+    <HelpKINode Title="GameHighScore Class" Url="html/T_Telegram_Bot_Types_GameHighScore.htm" />
+    <HelpKINode Title="about GameHighScore class" Url="html/T_Telegram_Bot_Types_GameHighScore.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Telegram_Bot_Types_GameHighScore__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Telegram_Bot_Types_GameHighScore.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Telegram_Bot_Types_GameHighScore.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GameHighScore.GameHighScore constructor" Url="html/M_Telegram_Bot_Types_GameHighScore__ctor.htm" />
+  <HelpKINode Title="GameHighScore.Position property" Url="html/P_Telegram_Bot_Types_GameHighScore_Position.htm" />
+  <HelpKINode Title="GameHighScore.Score property" Url="html/P_Telegram_Bot_Types_GameHighScore_Score.htm" />
+  <HelpKINode Title="GameHighScore.User property" Url="html/P_Telegram_Bot_Types_GameHighScore_User.htm" />
+  <HelpKINode Title="GameMessage enumeration member" Url="html/T_Telegram_Bot_Types_Enums_MessageType.htm" />
+  <HelpKINode Title="GameShortName property">
+    <HelpKINode Title="CallbackQuery.GameShortName Property " Url="html/P_Telegram_Bot_Types_CallbackQuery_GameShortName.htm" />
+    <HelpKINode Title="InlineQueryResultGame.GameShortName Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultGame_GameShortName.htm" />
+  </HelpKINode>
   <HelpKINode Title="GetChat method" Url="html/Overload_Telegram_Bot_TelegramBotClient_GetChat.htm" />
   <HelpKINode Title="GetChatAdministrators method" Url="html/Overload_Telegram_Bot_TelegramBotClient_GetChatAdministrators.htm" />
   <HelpKINode Title="GetChatAdministratorsAsync method">
@@ -381,6 +446,10 @@
     <HelpKINode Title="ITelegramBotClient.GetFileAsync Method " Url="html/M_Telegram_Bot_ITelegramBotClient_GetFileAsync.htm" />
     <HelpKINode Title="TelegramBotClient.GetFileAsync Method " Url="html/M_Telegram_Bot_TelegramBotClient_GetFileAsync.htm" />
   </HelpKINode>
+  <HelpKINode Title="GetGameHighScores method">
+    <HelpKINode Title="ITelegramBotClient.GetGameHighScores Method " Url="html/Overload_Telegram_Bot_ITelegramBotClient_GetGameHighScores.htm" />
+    <HelpKINode Title="TelegramBotClient.GetGameHighScores Method " Url="html/Overload_Telegram_Bot_TelegramBotClient_GetGameHighScores.htm" />
+  </HelpKINode>
   <HelpKINode Title="GetMe method" Url="html/M_Telegram_Bot_TelegramBotClient_GetMe.htm" />
   <HelpKINode Title="GetMeAsync method">
     <HelpKINode Title="ITelegramBotClient.GetMeAsync Method " Url="html/M_Telegram_Bot_ITelegramBotClient_GetMeAsync.htm" />
@@ -396,9 +465,14 @@
     <HelpKINode Title="ITelegramBotClient.GetUserProfilePhotosAsync Method " Url="html/M_Telegram_Bot_ITelegramBotClient_GetUserProfilePhotosAsync.htm" />
     <HelpKINode Title="TelegramBotClient.GetUserProfilePhotosAsync Method " Url="html/M_Telegram_Bot_TelegramBotClient_GetUserProfilePhotosAsync.htm" />
   </HelpKINode>
+  <HelpKINode Title="GetWebhookInfo method">
+    <HelpKINode Title="ITelegramBotClient.GetWebhookInfo Method " Url="html/M_Telegram_Bot_ITelegramBotClient_GetWebhookInfo.htm" />
+    <HelpKINode Title="TelegramBotClient.GetWebhookInfo Method " Url="html/M_Telegram_Bot_TelegramBotClient_GetWebhookInfo.htm" />
+  </HelpKINode>
   <HelpKINode Title="Gif enumeration member" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultType.htm" />
   <HelpKINode Title="Group enumeration member" Url="html/T_Telegram_Bot_Types_Enums_ChatType.htm" />
   <HelpKINode Title="GroupChatCreated property" Url="html/P_Telegram_Bot_Types_Message_GroupChatCreated.htm" />
+  <HelpKINode Title="HasCustomCertificate property" Url="html/P_Telegram_Bot_Types_WebhookInfo_HasCustomCertificate.htm" />
   <HelpKINode Title="Hashtag enumeration member" Url="html/T_Telegram_Bot_Types_Enums_MessageEntityType.htm" />
   <HelpKINode Title="Height property">
     <HelpKINode Title="InlineQueryResultGif.Height Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultGif_Height.htm" />
@@ -431,6 +505,7 @@
   </HelpKINode>
   <HelpKINode Title="InlineKeyboardButton to KeyboardButton conversion" Url="html/M_Telegram_Bot_Types_KeyboardButton_op_Implicit_1.htm" />
   <HelpKINode Title="InlineKeyboardButton.CallbackData property" Url="html/P_Telegram_Bot_Types_InlineKeyboardButton_CallbackData.htm" />
+  <HelpKINode Title="InlineKeyboardButton.CallbackGame property" Url="html/P_Telegram_Bot_Types_InlineKeyboardButton_CallbackGame.htm" />
   <HelpKINode Title="InlineKeyboardButton.InlineKeyboardButton constructor" Url="html/Overload_Telegram_Bot_Types_InlineKeyboardButton__ctor.htm" />
   <HelpKINode Title="InlineKeyboardButton.SwitchInlineQuery property" Url="html/P_Telegram_Bot_Types_InlineKeyboardButton_SwitchInlineQuery.htm" />
   <HelpKINode Title="InlineKeyboardButton.Text property" Url="html/P_Telegram_Bot_Types_InlineKeyboardButton_Text.htm" />
@@ -626,6 +701,20 @@
   <HelpKINode Title="InlineQueryResultDocument.InlineQueryResultDocument constructor" Url="html/M_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultDocument__ctor.htm" />
   <HelpKINode Title="InlineQueryResultDocument.MimeType property" Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultDocument_MimeType.htm" />
   <HelpKINode Title="InlineQueryResultDocument.Url property" Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultDocument_Url.htm" />
+  <HelpKINode Title="InlineQueryResultGame class">
+    <HelpKINode Title="InlineQueryResultGame Class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultGame.htm" />
+    <HelpKINode Title="about InlineQueryResultGame class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultGame.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultGame__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultGame.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultGame.htm" />
+  </HelpKINode>
+  <HelpKINode Title="InlineQueryResultGame.GameShortName property" Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultGame_GameShortName.htm" />
+  <HelpKINode Title="InlineQueryResultGame.InlineQueryResultGame constructor" Url="html/M_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultGame__ctor.htm" />
+  <HelpKINode Title="InlineQueryResultGame.InputMessageContent property" Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultGame_InputMessageContent.htm" />
+  <HelpKINode Title="InlineQueryResultGame.ThumbHeight property" Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultGame_ThumbHeight.htm" />
+  <HelpKINode Title="InlineQueryResultGame.ThumbUrl property" Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultGame_ThumbUrl.htm" />
+  <HelpKINode Title="InlineQueryResultGame.ThumbWidth property" Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultGame_ThumbWidth.htm" />
+  <HelpKINode Title="InlineQueryResultGame.Title property" Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultGame_Title.htm" />
   <HelpKINode Title="InlineQueryResultGif class">
     <HelpKINode Title="InlineQueryResultGif Class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultGif.htm" />
     <HelpKINode Title="about InlineQueryResultGif class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultGif.htm" />
@@ -760,7 +849,10 @@
     <HelpKINode Title="constructor" Url="html/M_Telegram_Bot_Types_InputMessageContents_InputMessageContent__ctor.htm" />
     <HelpKINode Title="methods" Url="html/Methods_T_Telegram_Bot_Types_InputMessageContents_InputMessageContent.htm" />
   </HelpKINode>
-  <HelpKINode Title="InputMessageContent property" Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResult_InputMessageContent.htm" />
+  <HelpKINode Title="InputMessageContent property">
+    <HelpKINode Title="InlineQueryResult.InputMessageContent Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResult_InputMessageContent.htm" />
+    <HelpKINode Title="InlineQueryResultGame.InputMessageContent Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultGame_InputMessageContent.htm" />
+  </HelpKINode>
   <HelpKINode Title="InputMessageContent.InputMessageContent constructor" Url="html/M_Telegram_Bot_Types_InputMessageContents_InputMessageContent__ctor.htm" />
   <HelpKINode Title="InputTextMessageContent class">
     <HelpKINode Title="InputTextMessageContent Class" Url="html/T_Telegram_Bot_Types_InputMessageContents_InputTextMessageContent.htm" />
@@ -816,9 +908,11 @@
   <HelpKINode Title="ITelegramBotClient.GetChatMemberAsync method" Url="html/Overload_Telegram_Bot_ITelegramBotClient_GetChatMemberAsync.htm" />
   <HelpKINode Title="ITelegramBotClient.GetChatMembersCountAsync method" Url="html/Overload_Telegram_Bot_ITelegramBotClient_GetChatMembersCountAsync.htm" />
   <HelpKINode Title="ITelegramBotClient.GetFileAsync method" Url="html/M_Telegram_Bot_ITelegramBotClient_GetFileAsync.htm" />
+  <HelpKINode Title="ITelegramBotClient.GetGameHighScores method" Url="html/Overload_Telegram_Bot_ITelegramBotClient_GetGameHighScores.htm" />
   <HelpKINode Title="ITelegramBotClient.GetMeAsync method" Url="html/M_Telegram_Bot_ITelegramBotClient_GetMeAsync.htm" />
   <HelpKINode Title="ITelegramBotClient.GetUpdatesAsync method" Url="html/M_Telegram_Bot_ITelegramBotClient_GetUpdatesAsync.htm" />
   <HelpKINode Title="ITelegramBotClient.GetUserProfilePhotosAsync method" Url="html/M_Telegram_Bot_ITelegramBotClient_GetUserProfilePhotosAsync.htm" />
+  <HelpKINode Title="ITelegramBotClient.GetWebhookInfo method" Url="html/M_Telegram_Bot_ITelegramBotClient_GetWebhookInfo.htm" />
   <HelpKINode Title="ITelegramBotClient.IsReceiving property" Url="html/P_Telegram_Bot_ITelegramBotClient_IsReceiving.htm" />
   <HelpKINode Title="ITelegramBotClient.KickChatMemberAsync method" Url="html/Overload_Telegram_Bot_ITelegramBotClient_KickChatMemberAsync.htm" />
   <HelpKINode Title="ITelegramBotClient.LeaveChatAsync method" Url="html/Overload_Telegram_Bot_ITelegramBotClient_LeaveChatAsync.htm" />
@@ -836,6 +930,7 @@
   <HelpKINode Title="ITelegramBotClient.SendChatActionAsync method" Url="html/Overload_Telegram_Bot_ITelegramBotClient_SendChatActionAsync.htm" />
   <HelpKINode Title="ITelegramBotClient.SendContactAsync method" Url="html/Overload_Telegram_Bot_ITelegramBotClient_SendContactAsync.htm" />
   <HelpKINode Title="ITelegramBotClient.SendDocumentAsync method" Url="html/Overload_Telegram_Bot_ITelegramBotClient_SendDocumentAsync.htm" />
+  <HelpKINode Title="ITelegramBotClient.SendGame method" Url="html/Overload_Telegram_Bot_ITelegramBotClient_SendGame.htm" />
   <HelpKINode Title="ITelegramBotClient.SendLocationAsync method" Url="html/Overload_Telegram_Bot_ITelegramBotClient_SendLocationAsync.htm" />
   <HelpKINode Title="ITelegramBotClient.SendPhotoAsync method" Url="html/Overload_Telegram_Bot_ITelegramBotClient_SendPhotoAsync.htm" />
   <HelpKINode Title="ITelegramBotClient.SendStickerAsync method" Url="html/Overload_Telegram_Bot_ITelegramBotClient_SendStickerAsync.htm" />
@@ -843,6 +938,7 @@
   <HelpKINode Title="ITelegramBotClient.SendVenueAsync method" Url="html/Overload_Telegram_Bot_ITelegramBotClient_SendVenueAsync.htm" />
   <HelpKINode Title="ITelegramBotClient.SendVideoAsync method" Url="html/Overload_Telegram_Bot_ITelegramBotClient_SendVideoAsync.htm" />
   <HelpKINode Title="ITelegramBotClient.SendVoiceAsync method" Url="html/Overload_Telegram_Bot_ITelegramBotClient_SendVoiceAsync.htm" />
+  <HelpKINode Title="ITelegramBotClient.SetGameScore method" Url="html/Overload_Telegram_Bot_ITelegramBotClient_SetGameScore.htm" />
   <HelpKINode Title="ITelegramBotClient.SetWebhookAsync method" Url="html/M_Telegram_Bot_ITelegramBotClient_SetWebhookAsync.htm" />
   <HelpKINode Title="ITelegramBotClient.StartReceiving method" Url="html/Overload_Telegram_Bot_ITelegramBotClient_StartReceiving.htm" />
   <HelpKINode Title="ITelegramBotClient.StopReceiving method" Url="html/M_Telegram_Bot_ITelegramBotClient_StopReceiving.htm" />
@@ -870,6 +966,8 @@
     <HelpKINode Title="TelegramBotClient.KickChatMemberAsync Method " Url="html/Overload_Telegram_Bot_TelegramBotClient_KickChatMemberAsync.htm" />
   </HelpKINode>
   <HelpKINode Title="Kicked enumeration member" Url="html/T_Telegram_Bot_Types_Enums_ChatMemberStatus.htm" />
+  <HelpKINode Title="LastErrorDate property" Url="html/P_Telegram_Bot_Types_WebhookInfo_LastErrorDate.htm" />
+  <HelpKINode Title="LastErrorMessage property" Url="html/P_Telegram_Bot_Types_WebhookInfo_LastErrorMessage.htm" />
   <HelpKINode Title="LastName property">
     <HelpKINode Title="Chat.LastName Property " Url="html/P_Telegram_Bot_Types_Chat_LastName.htm" />
     <HelpKINode Title="Contact.LastName Property " Url="html/P_Telegram_Bot_Types_Contact_LastName.htm" />
@@ -948,6 +1046,7 @@
   <HelpKINode Title="Message.ForwardFrom property" Url="html/P_Telegram_Bot_Types_Message_ForwardFrom.htm" />
   <HelpKINode Title="Message.ForwardFromChat property" Url="html/P_Telegram_Bot_Types_Message_ForwardFromChat.htm" />
   <HelpKINode Title="Message.From property" Url="html/P_Telegram_Bot_Types_Message_From.htm" />
+  <HelpKINode Title="Message.Game property" Url="html/P_Telegram_Bot_Types_Message_Game.htm" />
   <HelpKINode Title="Message.GroupChatCreated property" Url="html/P_Telegram_Bot_Types_Message_GroupChatCreated.htm" />
   <HelpKINode Title="Message.LeftChatMember property" Url="html/P_Telegram_Bot_Types_Message_LeftChatMember.htm" />
   <HelpKINode Title="Message.Location property" Url="html/P_Telegram_Bot_Types_Message_Location.htm" />
@@ -1003,6 +1102,7 @@
   <HelpKINode Title="MigrateFromChatId property" Url="html/P_Telegram_Bot_Types_Message_MigrateFromChatId.htm" />
   <HelpKINode Title="MigrateToChatId property" Url="html/P_Telegram_Bot_Types_Message_MigrateToChatId.htm" />
   <HelpKINode Title="MimeType property">
+    <HelpKINode Title="Animation.MimeType Property " Url="html/P_Telegram_Bot_Types_Animation_MimeType.htm" />
     <HelpKINode Title="Audio.MimeType Property " Url="html/P_Telegram_Bot_Types_Audio_MimeType.htm" />
     <HelpKINode Title="Document.MimeType Property " Url="html/P_Telegram_Bot_Types_Document_MimeType.htm" />
     <HelpKINode Title="InlineQueryResultDocument.MimeType Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultDocument_MimeType.htm" />
@@ -1056,6 +1156,7 @@
   <HelpKINode Title="OnUpdateReceived method" Url="html/M_Telegram_Bot_TelegramBotClient_OnUpdateReceived.htm" />
   <HelpKINode Title="ParseMode enumeration" Url="html/T_Telegram_Bot_Types_Enums_ParseMode.htm" />
   <HelpKINode Title="ParseMode property" Url="html/P_Telegram_Bot_Types_InputMessageContents_InputTextMessageContent_ParseMode.htm" />
+  <HelpKINode Title="PendingUpdateCount property" Url="html/P_Telegram_Bot_Types_WebhookInfo_PendingUpdateCount.htm" />
   <HelpKINode Title="Performer property">
     <HelpKINode Title="Audio.Performer Property " Url="html/P_Telegram_Bot_Types_Audio_Performer.htm" />
     <HelpKINode Title="InlineQueryResultAudio.Performer Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultAudio_Performer.htm" />
@@ -1066,7 +1167,10 @@
     <HelpKINode Title="InputContactMessageContent.PhoneNumber Property " Url="html/P_Telegram_Bot_Types_InputMessageContents_InputContactMessageContent_PhoneNumber.htm" />
   </HelpKINode>
   <HelpKINode Title="Photo enumeration member" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultType.htm" />
-  <HelpKINode Title="Photo property" Url="html/P_Telegram_Bot_Types_Message_Photo.htm" />
+  <HelpKINode Title="Photo property">
+    <HelpKINode Title="Game.Photo Property " Url="html/P_Telegram_Bot_Types_Game_Photo.htm" />
+    <HelpKINode Title="Message.Photo Property " Url="html/P_Telegram_Bot_Types_Message_Photo.htm" />
+  </HelpKINode>
   <HelpKINode Title="PhotoMessage enumeration member" Url="html/T_Telegram_Bot_Types_Enums_MessageType.htm" />
   <HelpKINode Title="Photos property" Url="html/P_Telegram_Bot_Types_UserProfilePhotos_Photos.htm" />
   <HelpKINode Title="PhotoSize class">
@@ -1084,6 +1188,7 @@
     <HelpKINode Title="ITelegramBotClient.PollingTimeout Property " Url="html/P_Telegram_Bot_ITelegramBotClient_PollingTimeout.htm" />
     <HelpKINode Title="TelegramBotClient.PollingTimeout Property " Url="html/P_Telegram_Bot_TelegramBotClient_PollingTimeout.htm" />
   </HelpKINode>
+  <HelpKINode Title="Position property" Url="html/P_Telegram_Bot_Types_GameHighScore_Position.htm" />
   <HelpKINode Title="Pre enumeration member" Url="html/T_Telegram_Bot_Types_Enums_MessageEntityType.htm" />
   <HelpKINode Title="Private enumeration member" Url="html/T_Telegram_Bot_Types_Enums_ChatType.htm" />
   <HelpKINode Title="Query property">
@@ -1145,6 +1250,7 @@
   <HelpKINode Title="ResizeKeyboard property" Url="html/P_Telegram_Bot_Types_ReplyMarkups_ReplyKeyboardMarkup_ResizeKeyboard.htm" />
   <HelpKINode Title="ResultId property" Url="html/P_Telegram_Bot_Types_ChosenInlineResult_ResultId.htm" />
   <HelpKINode Title="ResultObject property" Url="html/P_Telegram_Bot_Types_ApiResponse_1_ResultObject.htm" />
+  <HelpKINode Title="Score property" Url="html/P_Telegram_Bot_Types_GameHighScore_Score.htm" />
   <HelpKINode Title="Selective property" Url="html/P_Telegram_Bot_Types_ReplyMarkups_ReplyMarkup_Selective.htm" />
   <HelpKINode Title="SendAudio method" Url="html/Overload_Telegram_Bot_TelegramBotClient_SendAudio.htm" />
   <HelpKINode Title="SendAudioAsync method">
@@ -1165,6 +1271,10 @@
   <HelpKINode Title="SendDocumentAsync method">
     <HelpKINode Title="ITelegramBotClient.SendDocumentAsync Method " Url="html/Overload_Telegram_Bot_ITelegramBotClient_SendDocumentAsync.htm" />
     <HelpKINode Title="TelegramBotClient.SendDocumentAsync Method " Url="html/Overload_Telegram_Bot_TelegramBotClient_SendDocumentAsync.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SendGame method">
+    <HelpKINode Title="ITelegramBotClient.SendGame Method " Url="html/Overload_Telegram_Bot_ITelegramBotClient_SendGame.htm" />
+    <HelpKINode Title="TelegramBotClient.SendGame Method " Url="html/Overload_Telegram_Bot_TelegramBotClient_SendGame.htm" />
   </HelpKINode>
   <HelpKINode Title="SendLocation method" Url="html/Overload_Telegram_Bot_TelegramBotClient_SendLocation.htm" />
   <HelpKINode Title="SendLocationAsync method">
@@ -1202,6 +1312,10 @@
     <HelpKINode Title="TelegramBotClient.SendVoiceAsync Method " Url="html/Overload_Telegram_Bot_TelegramBotClient_SendVoiceAsync.htm" />
   </HelpKINode>
   <HelpKINode Title="ServiceMessage enumeration member" Url="html/T_Telegram_Bot_Types_Enums_MessageType.htm" />
+  <HelpKINode Title="SetGameScore method">
+    <HelpKINode Title="ITelegramBotClient.SetGameScore Method " Url="html/Overload_Telegram_Bot_ITelegramBotClient_SetGameScore.htm" />
+    <HelpKINode Title="TelegramBotClient.SetGameScore Method " Url="html/Overload_Telegram_Bot_TelegramBotClient_SetGameScore.htm" />
+  </HelpKINode>
   <HelpKINode Title="SetWebhook method" Url="html/M_Telegram_Bot_TelegramBotClient_SetWebhook.htm" />
   <HelpKINode Title="SetWebhookAsync method">
     <HelpKINode Title="ITelegramBotClient.SetWebhookAsync Method " Url="html/M_Telegram_Bot_ITelegramBotClient_SetWebhookAsync.htm" />
@@ -1250,9 +1364,11 @@
   <HelpKINode Title="Telegram.Bot.ITelegramBotClient interface" Url="html/T_Telegram_Bot_ITelegramBotClient.htm" />
   <HelpKINode Title="Telegram.Bot.TelegramBotClient class" Url="html/T_Telegram_Bot_TelegramBotClient.htm" />
   <HelpKINode Title="Telegram.Bot.Types namespace" Url="html/N_Telegram_Bot_Types.htm" />
+  <HelpKINode Title="Telegram.Bot.Types.Animation class" Url="html/T_Telegram_Bot_Types_Animation.htm" />
   <HelpKINode Title="Telegram.Bot.Types.ApiResponse(Of T) class" Url="html/T_Telegram_Bot_Types_ApiResponse_1.htm" />
   <HelpKINode Title="Telegram.Bot.Types.ApiResponse&lt;T&gt; class" Url="html/T_Telegram_Bot_Types_ApiResponse_1.htm" />
   <HelpKINode Title="Telegram.Bot.Types.Audio class" Url="html/T_Telegram_Bot_Types_Audio.htm" />
+  <HelpKINode Title="Telegram.Bot.Types.CallbackGame class" Url="html/T_Telegram_Bot_Types_CallbackGame.htm" />
   <HelpKINode Title="Telegram.Bot.Types.CallbackQuery class" Url="html/T_Telegram_Bot_Types_CallbackQuery.htm" />
   <HelpKINode Title="Telegram.Bot.Types.Chat class" Url="html/T_Telegram_Bot_Types_Chat.htm" />
   <HelpKINode Title="Telegram.Bot.Types.ChatMember class" Url="html/T_Telegram_Bot_Types_ChatMember.htm" />
@@ -1269,6 +1385,8 @@
   <HelpKINode Title="Telegram.Bot.Types.Enums.UpdateType enumeration" Url="html/T_Telegram_Bot_Types_Enums_UpdateType.htm" />
   <HelpKINode Title="Telegram.Bot.Types.File class" Url="html/T_Telegram_Bot_Types_File.htm" />
   <HelpKINode Title="Telegram.Bot.Types.FileToSend structure" Url="html/T_Telegram_Bot_Types_FileToSend.htm" />
+  <HelpKINode Title="Telegram.Bot.Types.Game class" Url="html/T_Telegram_Bot_Types_Game.htm" />
+  <HelpKINode Title="Telegram.Bot.Types.GameHighScore class" Url="html/T_Telegram_Bot_Types_GameHighScore.htm" />
   <HelpKINode Title="Telegram.Bot.Types.InlineKeyboardButton class" Url="html/T_Telegram_Bot_Types_InlineKeyboardButton.htm" />
   <HelpKINode Title="Telegram.Bot.Types.InlineQuery class" Url="html/T_Telegram_Bot_Types_InlineQuery.htm" />
   <HelpKINode Title="Telegram.Bot.Types.InlineQueryResults namespace" Url="html/N_Telegram_Bot_Types_InlineQueryResults.htm" />
@@ -1286,6 +1404,7 @@
   <HelpKINode Title="Telegram.Bot.Types.InlineQueryResults.InlineQueryResultCachedVoice class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedVoice.htm" />
   <HelpKINode Title="Telegram.Bot.Types.InlineQueryResults.InlineQueryResultContact class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultContact.htm" />
   <HelpKINode Title="Telegram.Bot.Types.InlineQueryResults.InlineQueryResultDocument class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultDocument.htm" />
+  <HelpKINode Title="Telegram.Bot.Types.InlineQueryResults.InlineQueryResultGame class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultGame.htm" />
   <HelpKINode Title="Telegram.Bot.Types.InlineQueryResults.InlineQueryResultGif class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultGif.htm" />
   <HelpKINode Title="Telegram.Bot.Types.InlineQueryResults.InlineQueryResultLocation class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultLocation.htm" />
   <HelpKINode Title="Telegram.Bot.Types.InlineQueryResults.InlineQueryResultMpeg4Gif class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultMpeg4Gif.htm" />
@@ -1320,6 +1439,7 @@
   <HelpKINode Title="Telegram.Bot.Types.Venue class" Url="html/T_Telegram_Bot_Types_Venue.htm" />
   <HelpKINode Title="Telegram.Bot.Types.Video class" Url="html/T_Telegram_Bot_Types_Video.htm" />
   <HelpKINode Title="Telegram.Bot.Types.Voice class" Url="html/T_Telegram_Bot_Types_Voice.htm" />
+  <HelpKINode Title="Telegram.Bot.Types.WebhookInfo class" Url="html/T_Telegram_Bot_Types_WebhookInfo.htm" />
   <HelpKINode Title="TelegramBotClient class">
     <HelpKINode Title="TelegramBotClient Class" Url="html/T_Telegram_Bot_TelegramBotClient.htm" />
     <HelpKINode Title="about TelegramBotClient class" Url="html/T_Telegram_Bot_TelegramBotClient.htm" />
@@ -1358,12 +1478,14 @@
   <HelpKINode Title="TelegramBotClient.GetChatMembersCountAsync method" Url="html/Overload_Telegram_Bot_TelegramBotClient_GetChatMembersCountAsync.htm" />
   <HelpKINode Title="TelegramBotClient.GetFile method" Url="html/M_Telegram_Bot_TelegramBotClient_GetFile.htm" />
   <HelpKINode Title="TelegramBotClient.GetFileAsync method" Url="html/M_Telegram_Bot_TelegramBotClient_GetFileAsync.htm" />
+  <HelpKINode Title="TelegramBotClient.GetGameHighScores method" Url="html/Overload_Telegram_Bot_TelegramBotClient_GetGameHighScores.htm" />
   <HelpKINode Title="TelegramBotClient.GetMe method" Url="html/M_Telegram_Bot_TelegramBotClient_GetMe.htm" />
   <HelpKINode Title="TelegramBotClient.GetMeAsync method" Url="html/M_Telegram_Bot_TelegramBotClient_GetMeAsync.htm" />
   <HelpKINode Title="TelegramBotClient.GetUpdates method" Url="html/M_Telegram_Bot_TelegramBotClient_GetUpdates.htm" />
   <HelpKINode Title="TelegramBotClient.GetUpdatesAsync method" Url="html/M_Telegram_Bot_TelegramBotClient_GetUpdatesAsync.htm" />
   <HelpKINode Title="TelegramBotClient.GetUserProfilePhotos method" Url="html/M_Telegram_Bot_TelegramBotClient_GetUserProfilePhotos.htm" />
   <HelpKINode Title="TelegramBotClient.GetUserProfilePhotosAsync method" Url="html/M_Telegram_Bot_TelegramBotClient_GetUserProfilePhotosAsync.htm" />
+  <HelpKINode Title="TelegramBotClient.GetWebhookInfo method" Url="html/M_Telegram_Bot_TelegramBotClient_GetWebhookInfo.htm" />
   <HelpKINode Title="TelegramBotClient.InlineQueryReceived event" Url="html/E_Telegram_Bot_TelegramBotClient_InlineQueryReceived.htm" />
   <HelpKINode Title="TelegramBotClient.IsReceiving property" Url="html/P_Telegram_Bot_TelegramBotClient_IsReceiving.htm" />
   <HelpKINode Title="TelegramBotClient.KickChatMember method" Url="html/Overload_Telegram_Bot_TelegramBotClient_KickChatMember.htm" />
@@ -1392,6 +1514,7 @@
   <HelpKINode Title="TelegramBotClient.SendContactAsync method" Url="html/Overload_Telegram_Bot_TelegramBotClient_SendContactAsync.htm" />
   <HelpKINode Title="TelegramBotClient.SendDocument method" Url="html/Overload_Telegram_Bot_TelegramBotClient_SendDocument.htm" />
   <HelpKINode Title="TelegramBotClient.SendDocumentAsync method" Url="html/Overload_Telegram_Bot_TelegramBotClient_SendDocumentAsync.htm" />
+  <HelpKINode Title="TelegramBotClient.SendGame method" Url="html/Overload_Telegram_Bot_TelegramBotClient_SendGame.htm" />
   <HelpKINode Title="TelegramBotClient.SendLocation method" Url="html/Overload_Telegram_Bot_TelegramBotClient_SendLocation.htm" />
   <HelpKINode Title="TelegramBotClient.SendLocationAsync method" Url="html/Overload_Telegram_Bot_TelegramBotClient_SendLocationAsync.htm" />
   <HelpKINode Title="TelegramBotClient.SendPhoto method" Url="html/Overload_Telegram_Bot_TelegramBotClient_SendPhoto.htm" />
@@ -1406,6 +1529,7 @@
   <HelpKINode Title="TelegramBotClient.SendVideoAsync method" Url="html/Overload_Telegram_Bot_TelegramBotClient_SendVideoAsync.htm" />
   <HelpKINode Title="TelegramBotClient.SendVoice method" Url="html/Overload_Telegram_Bot_TelegramBotClient_SendVoice.htm" />
   <HelpKINode Title="TelegramBotClient.SendVoiceAsync method" Url="html/Overload_Telegram_Bot_TelegramBotClient_SendVoiceAsync.htm" />
+  <HelpKINode Title="TelegramBotClient.SetGameScore method" Url="html/Overload_Telegram_Bot_TelegramBotClient_SetGameScore.htm" />
   <HelpKINode Title="TelegramBotClient.SetWebhook method" Url="html/M_Telegram_Bot_TelegramBotClient_SetWebhook.htm" />
   <HelpKINode Title="TelegramBotClient.SetWebhookAsync method" Url="html/M_Telegram_Bot_TelegramBotClient_SetWebhookAsync.htm" />
   <HelpKINode Title="TelegramBotClient.StartReceiving method" Url="html/Overload_Telegram_Bot_TelegramBotClient_StartReceiving.htm" />
@@ -1424,20 +1548,24 @@
     <HelpKINode Title="TelegramBotClient.TestApiAsync Method " Url="html/M_Telegram_Bot_TelegramBotClient_TestApiAsync.htm" />
   </HelpKINode>
   <HelpKINode Title="Text property">
+    <HelpKINode Title="Game.Text Property " Url="html/P_Telegram_Bot_Types_Game_Text.htm" />
     <HelpKINode Title="InlineKeyboardButton.Text Property " Url="html/P_Telegram_Bot_Types_InlineKeyboardButton_Text.htm" />
     <HelpKINode Title="KeyboardButton.Text Property " Url="html/P_Telegram_Bot_Types_KeyboardButton_Text.htm" />
     <HelpKINode Title="Message.Text Property " Url="html/P_Telegram_Bot_Types_Message_Text.htm" />
   </HelpKINode>
+  <HelpKINode Title="TextEntities property" Url="html/P_Telegram_Bot_Types_Game_TextEntities.htm" />
   <HelpKINode Title="TextLink enumeration member" Url="html/T_Telegram_Bot_Types_Enums_MessageEntityType.htm" />
   <HelpKINode Title="TextMention enumeration member" Url="html/T_Telegram_Bot_Types_Enums_MessageEntityType.htm" />
   <HelpKINode Title="TextMessage enumeration member" Url="html/T_Telegram_Bot_Types_Enums_MessageType.htm" />
   <HelpKINode Title="Thumb property">
+    <HelpKINode Title="Animation.Thumb Property " Url="html/P_Telegram_Bot_Types_Animation_Thumb.htm" />
     <HelpKINode Title="Document.Thumb Property " Url="html/P_Telegram_Bot_Types_Document_Thumb.htm" />
     <HelpKINode Title="Sticker.Thumb Property " Url="html/P_Telegram_Bot_Types_Sticker_Thumb.htm" />
     <HelpKINode Title="Video.Thumb Property " Url="html/P_Telegram_Bot_Types_Video_Thumb.htm" />
   </HelpKINode>
   <HelpKINode Title="ThumbHeight property">
     <HelpKINode Title="InlineQueryResultAudio.ThumbHeight Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultAudio_ThumbHeight.htm" />
+    <HelpKINode Title="InlineQueryResultGame.ThumbHeight Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultGame_ThumbHeight.htm" />
     <HelpKINode Title="InlineQueryResultGif.ThumbHeight Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultGif_ThumbHeight.htm" />
     <HelpKINode Title="InlineQueryResultMpeg4Gif.ThumbHeight Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultMpeg4Gif_ThumbHeight.htm" />
     <HelpKINode Title="InlineQueryResultNew.ThumbHeight Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultNew_ThumbHeight.htm" />
@@ -1446,12 +1574,14 @@
   </HelpKINode>
   <HelpKINode Title="ThumbUrl property">
     <HelpKINode Title="InlineQueryResultAudio.ThumbUrl Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultAudio_ThumbUrl.htm" />
+    <HelpKINode Title="InlineQueryResultGame.ThumbUrl Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultGame_ThumbUrl.htm" />
     <HelpKINode Title="InlineQueryResultGif.ThumbUrl Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultGif_ThumbUrl.htm" />
     <HelpKINode Title="InlineQueryResultNew.ThumbUrl Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultNew_ThumbUrl.htm" />
     <HelpKINode Title="InlineQueryResultVoice.ThumbUrl Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultVoice_ThumbUrl.htm" />
   </HelpKINode>
   <HelpKINode Title="ThumbWidth property">
     <HelpKINode Title="InlineQueryResultAudio.ThumbWidth Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultAudio_ThumbWidth.htm" />
+    <HelpKINode Title="InlineQueryResultGame.ThumbWidth Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultGame_ThumbWidth.htm" />
     <HelpKINode Title="InlineQueryResultGif.ThumbWidth Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultGif_ThumbWidth.htm" />
     <HelpKINode Title="InlineQueryResultMpeg4Gif.ThumbWidth Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultMpeg4Gif_ThumbWidth.htm" />
     <HelpKINode Title="InlineQueryResultNew.ThumbWidth Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultNew_ThumbWidth.htm" />
@@ -1461,10 +1591,12 @@
   <HelpKINode Title="Title property">
     <HelpKINode Title="Audio.Title Property " Url="html/P_Telegram_Bot_Types_Audio_Title.htm" />
     <HelpKINode Title="Chat.Title Property " Url="html/P_Telegram_Bot_Types_Chat_Title.htm" />
+    <HelpKINode Title="Game.Title Property " Url="html/P_Telegram_Bot_Types_Game_Title.htm" />
     <HelpKINode Title="InlineQueryResult.Title Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResult_Title.htm" />
     <HelpKINode Title="InlineQueryResultCachedAudio.Title Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedAudio_Title.htm" />
     <HelpKINode Title="InlineQueryResultCachedSticker.Title Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedSticker_Title.htm" />
     <HelpKINode Title="InlineQueryResultContact.Title Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultContact_Title.htm" />
+    <HelpKINode Title="InlineQueryResultGame.Title Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultGame_Title.htm" />
     <HelpKINode Title="Venue.Title Property " Url="html/P_Telegram_Bot_Types_Venue_Title.htm" />
   </HelpKINode>
   <HelpKINode Title="TotalCount property" Url="html/P_Telegram_Bot_Types_UserProfilePhotos_TotalCount.htm" />
@@ -1534,6 +1666,7 @@
     <HelpKINode Title="InlineQueryResultVideo.Url Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultVideo_Url.htm" />
     <HelpKINode Title="InlineQueryResultVoice.Url Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultVoice_Url.htm" />
     <HelpKINode Title="MessageEntity.Url Property " Url="html/P_Telegram_Bot_Types_MessageEntity_Url.htm" />
+    <HelpKINode Title="WebhookInfo.Url Property " Url="html/P_Telegram_Bot_Types_WebhookInfo_Url.htm" />
   </HelpKINode>
   <HelpKINode Title="User class">
     <HelpKINode Title="User Class" Url="html/T_Telegram_Bot_Types_User.htm" />
@@ -1544,6 +1677,7 @@
   </HelpKINode>
   <HelpKINode Title="User property">
     <HelpKINode Title="ChatMember.User Property " Url="html/P_Telegram_Bot_Types_ChatMember_User.htm" />
+    <HelpKINode Title="GameHighScore.User Property " Url="html/P_Telegram_Bot_Types_GameHighScore_User.htm" />
     <HelpKINode Title="MessageEntity.User Property " Url="html/P_Telegram_Bot_Types_MessageEntity_User.htm" />
   </HelpKINode>
   <HelpKINode Title="User.FirstName property" Url="html/P_Telegram_Bot_Types_User_FirstName.htm" />
@@ -1610,6 +1744,19 @@
   <HelpKINode Title="Voice.MimeType property" Url="html/P_Telegram_Bot_Types_Voice_MimeType.htm" />
   <HelpKINode Title="Voice.Voice constructor" Url="html/M_Telegram_Bot_Types_Voice__ctor.htm" />
   <HelpKINode Title="VoiceMessage enumeration member" Url="html/T_Telegram_Bot_Types_Enums_MessageType.htm" />
+  <HelpKINode Title="WebhookInfo class">
+    <HelpKINode Title="WebhookInfo Class" Url="html/T_Telegram_Bot_Types_WebhookInfo.htm" />
+    <HelpKINode Title="about WebhookInfo class" Url="html/T_Telegram_Bot_Types_WebhookInfo.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Telegram_Bot_Types_WebhookInfo__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Telegram_Bot_Types_WebhookInfo.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Telegram_Bot_Types_WebhookInfo.htm" />
+  </HelpKINode>
+  <HelpKINode Title="WebhookInfo.HasCustomCertificate property" Url="html/P_Telegram_Bot_Types_WebhookInfo_HasCustomCertificate.htm" />
+  <HelpKINode Title="WebhookInfo.LastErrorDate property" Url="html/P_Telegram_Bot_Types_WebhookInfo_LastErrorDate.htm" />
+  <HelpKINode Title="WebhookInfo.LastErrorMessage property" Url="html/P_Telegram_Bot_Types_WebhookInfo_LastErrorMessage.htm" />
+  <HelpKINode Title="WebhookInfo.PendingUpdateCount property" Url="html/P_Telegram_Bot_Types_WebhookInfo_PendingUpdateCount.htm" />
+  <HelpKINode Title="WebhookInfo.Url property" Url="html/P_Telegram_Bot_Types_WebhookInfo_Url.htm" />
+  <HelpKINode Title="WebhookInfo.WebhookInfo constructor" Url="html/M_Telegram_Bot_Types_WebhookInfo__ctor.htm" />
   <HelpKINode Title="WebProxy property">
     <HelpKINode Title="ITelegramBotClient.WebProxy Property " Url="html/P_Telegram_Bot_ITelegramBotClient_WebProxy.htm" />
     <HelpKINode Title="TelegramBotClient.WebProxy Property " Url="html/P_Telegram_Bot_TelegramBotClient_WebProxy.htm" />
