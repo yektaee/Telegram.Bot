@@ -1,157 +1,157 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <HelpTOC>
 
-  <HelpTOCNode Id="862feb7b-5a70-4b74-b25b-cab63722d056" Title="Telegram.Bot" Url="html/N_Telegram_Bot.htm">
-    <HelpTOCNode Id="42b011e9-0115-42af-b0a2-637df89f7d99" Title="Api Class" Url="html/T_Telegram_Bot_Api.htm">
+  <HelpTOCNode Id="f91e6684-720a-4cc2-9206-2db291b9d5ab" Title="Telegram.Bot" Url="html/N_Telegram_Bot.htm">
+    <HelpTOCNode Id="d4312dec-239c-459f-8d6f-ead475871d81" Title="Api Class" Url="html/T_Telegram_Bot_Api.htm">
       <HelpTOCNode Title="Api Constructor " Url="html/M_Telegram_Bot_Api__ctor.htm" />
       <HelpTOCNode Title="Api Properties" Url="html/Properties_T_Telegram_Bot_Api.htm" />
       <HelpTOCNode Title="Api Methods" Url="html/Methods_T_Telegram_Bot_Api.htm" />
       <HelpTOCNode Title="Api Events" Url="html/Events_T_Telegram_Bot_Api.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="2bb9c6b5-eaee-46b8-9398-49be095482ac" Title="ITelegramBotClient Interface" Url="html/T_Telegram_Bot_ITelegramBotClient.htm">
-      <HelpTOCNode Id="f5f41f79-7d32-4295-a886-219457a09c71" Title="ITelegramBotClient Properties" Url="html/Properties_T_Telegram_Bot_ITelegramBotClient.htm">
+    <HelpTOCNode Id="d680fded-da3b-4787-8ef4-97ceb624ead2" Title="ITelegramBotClient Interface" Url="html/T_Telegram_Bot_ITelegramBotClient.htm">
+      <HelpTOCNode Id="3071bc3a-6cd5-404b-bea9-b3b7498d4a68" Title="ITelegramBotClient Properties" Url="html/Properties_T_Telegram_Bot_ITelegramBotClient.htm">
         <HelpTOCNode Title="IsReceiving Property " Url="html/P_Telegram_Bot_ITelegramBotClient_IsReceiving.htm" />
         <HelpTOCNode Title="MessageOffset Property " Url="html/P_Telegram_Bot_ITelegramBotClient_MessageOffset.htm" />
         <HelpTOCNode Title="PollingTimeout Property " Url="html/P_Telegram_Bot_ITelegramBotClient_PollingTimeout.htm" />
         <HelpTOCNode Title="UploadTimeout Property " Url="html/P_Telegram_Bot_ITelegramBotClient_UploadTimeout.htm" />
         <HelpTOCNode Title="WebProxy Property " Url="html/P_Telegram_Bot_ITelegramBotClient_WebProxy.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="dd48ba26-268e-4c80-b74f-09b0d73e5743" Title="ITelegramBotClient Methods" Url="html/Methods_T_Telegram_Bot_ITelegramBotClient.htm">
+      <HelpTOCNode Id="f541783d-8146-4662-8af4-39dd55a36ee0" Title="ITelegramBotClient Methods" Url="html/Methods_T_Telegram_Bot_ITelegramBotClient.htm">
         <HelpTOCNode Title="AnswerCallbackQueryAsync Method " Url="html/M_Telegram_Bot_ITelegramBotClient_AnswerCallbackQueryAsync.htm" />
         <HelpTOCNode Title="AnswerInlineQueryAsync Method " Url="html/M_Telegram_Bot_ITelegramBotClient_AnswerInlineQueryAsync.htm" />
         <HelpTOCNode Title="EditInlineMessageCaptionAsync Method " Url="html/M_Telegram_Bot_ITelegramBotClient_EditInlineMessageCaptionAsync.htm" />
         <HelpTOCNode Title="EditInlineMessageReplyMarkupAsync Method " Url="html/M_Telegram_Bot_ITelegramBotClient_EditInlineMessageReplyMarkupAsync.htm" />
         <HelpTOCNode Title="EditInlineMessageTextAsync Method " Url="html/M_Telegram_Bot_ITelegramBotClient_EditInlineMessageTextAsync.htm" />
-        <HelpTOCNode Id="b40f0bf0-25d0-48a0-a56e-592449fb9b66" Title="EditMessageCaptionAsync Method " Url="html/Overload_Telegram_Bot_ITelegramBotClient_EditMessageCaptionAsync.htm">
+        <HelpTOCNode Id="e9f4d5cb-f5d8-45b3-9e64-40a5dca704f8" Title="EditMessageCaptionAsync Method " Url="html/Overload_Telegram_Bot_ITelegramBotClient_EditMessageCaptionAsync.htm">
           <HelpTOCNode Title="EditMessageCaptionAsync Method (Int64, Int32, String, IReplyMarkup, CancellationToken)" Url="html/M_Telegram_Bot_ITelegramBotClient_EditMessageCaptionAsync.htm" />
           <HelpTOCNode Title="EditMessageCaptionAsync Method (String, Int32, String, IReplyMarkup, CancellationToken)" Url="html/M_Telegram_Bot_ITelegramBotClient_EditMessageCaptionAsync_1.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="2e0993b2-8e9f-4290-894a-d37eb63512d2" Title="EditMessageReplyMarkupAsync Method " Url="html/Overload_Telegram_Bot_ITelegramBotClient_EditMessageReplyMarkupAsync.htm">
+        <HelpTOCNode Id="f6c25aba-f155-4d91-b148-e2c5169e2a7e" Title="EditMessageReplyMarkupAsync Method " Url="html/Overload_Telegram_Bot_ITelegramBotClient_EditMessageReplyMarkupAsync.htm">
           <HelpTOCNode Title="EditMessageReplyMarkupAsync Method (Int64, Int32, IReplyMarkup, CancellationToken)" Url="html/M_Telegram_Bot_ITelegramBotClient_EditMessageReplyMarkupAsync.htm" />
           <HelpTOCNode Title="EditMessageReplyMarkupAsync Method (String, Int32, IReplyMarkup, CancellationToken)" Url="html/M_Telegram_Bot_ITelegramBotClient_EditMessageReplyMarkupAsync_1.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="e0969fbf-1c4a-4253-b773-003ef2905b66" Title="EditMessageTextAsync Method " Url="html/Overload_Telegram_Bot_ITelegramBotClient_EditMessageTextAsync.htm">
+        <HelpTOCNode Id="969fcb5a-ef40-4eb1-9839-bb6463061dfa" Title="EditMessageTextAsync Method " Url="html/Overload_Telegram_Bot_ITelegramBotClient_EditMessageTextAsync.htm">
           <HelpTOCNode Title="EditMessageTextAsync Method (Int64, Int32, String, ParseMode, Boolean, IReplyMarkup, CancellationToken)" Url="html/M_Telegram_Bot_ITelegramBotClient_EditMessageTextAsync.htm" />
           <HelpTOCNode Title="EditMessageTextAsync Method (String, Int32, String, ParseMode, Boolean, IReplyMarkup, CancellationToken)" Url="html/M_Telegram_Bot_ITelegramBotClient_EditMessageTextAsync_1.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="3648ed13-b9ac-4886-a0aa-8082e56a70ac" Title="ForwardMessageAsync Method " Url="html/Overload_Telegram_Bot_ITelegramBotClient_ForwardMessageAsync.htm">
+        <HelpTOCNode Id="60c96dcb-5c22-4a8f-8038-8b53069e48ff" Title="ForwardMessageAsync Method " Url="html/Overload_Telegram_Bot_ITelegramBotClient_ForwardMessageAsync.htm">
           <HelpTOCNode Title="ForwardMessageAsync Method (Int64, Int64, Int32, Boolean, CancellationToken)" Url="html/M_Telegram_Bot_ITelegramBotClient_ForwardMessageAsync.htm" />
           <HelpTOCNode Title="ForwardMessageAsync Method (Int64, String, Int32, Boolean, CancellationToken)" Url="html/M_Telegram_Bot_ITelegramBotClient_ForwardMessageAsync_1.htm" />
           <HelpTOCNode Title="ForwardMessageAsync Method (String, Int64, Int32, Boolean, CancellationToken)" Url="html/M_Telegram_Bot_ITelegramBotClient_ForwardMessageAsync_2.htm" />
           <HelpTOCNode Title="ForwardMessageAsync Method (String, String, Int32, Boolean, CancellationToken)" Url="html/M_Telegram_Bot_ITelegramBotClient_ForwardMessageAsync_3.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="b189c3f1-c941-4932-93b8-da09fe56778d" Title="GetChatAdministratorsAsync Method " Url="html/Overload_Telegram_Bot_ITelegramBotClient_GetChatAdministratorsAsync.htm">
+        <HelpTOCNode Id="e2d7ecfb-2369-4e89-9df4-e5af4bd6dade" Title="GetChatAdministratorsAsync Method " Url="html/Overload_Telegram_Bot_ITelegramBotClient_GetChatAdministratorsAsync.htm">
           <HelpTOCNode Title="GetChatAdministratorsAsync Method (Int64, CancellationToken)" Url="html/M_Telegram_Bot_ITelegramBotClient_GetChatAdministratorsAsync.htm" />
           <HelpTOCNode Title="GetChatAdministratorsAsync Method (String, CancellationToken)" Url="html/M_Telegram_Bot_ITelegramBotClient_GetChatAdministratorsAsync_1.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="6de10a74-bad0-4580-aa72-7f28448ea9f5" Title="GetChatAsync Method " Url="html/Overload_Telegram_Bot_ITelegramBotClient_GetChatAsync.htm">
+        <HelpTOCNode Id="0eb8de8d-819e-4752-960b-59e645194c1f" Title="GetChatAsync Method " Url="html/Overload_Telegram_Bot_ITelegramBotClient_GetChatAsync.htm">
           <HelpTOCNode Title="GetChatAsync Method (Int64, CancellationToken)" Url="html/M_Telegram_Bot_ITelegramBotClient_GetChatAsync.htm" />
           <HelpTOCNode Title="GetChatAsync Method (String, CancellationToken)" Url="html/M_Telegram_Bot_ITelegramBotClient_GetChatAsync_1.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="76364c83-2085-41d3-bbc9-526b515f66ad" Title="GetChatMemberAsync Method " Url="html/Overload_Telegram_Bot_ITelegramBotClient_GetChatMemberAsync.htm">
+        <HelpTOCNode Id="fbd3bbd7-7054-4adf-b309-18257e888703" Title="GetChatMemberAsync Method " Url="html/Overload_Telegram_Bot_ITelegramBotClient_GetChatMemberAsync.htm">
           <HelpTOCNode Title="GetChatMemberAsync Method (Int64, Int32, CancellationToken)" Url="html/M_Telegram_Bot_ITelegramBotClient_GetChatMemberAsync.htm" />
           <HelpTOCNode Title="GetChatMemberAsync Method (String, Int32, CancellationToken)" Url="html/M_Telegram_Bot_ITelegramBotClient_GetChatMemberAsync_1.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="2825b241-1960-4da6-a4eb-7deb0b8036ab" Title="GetChatMembersCountAsync Method " Url="html/Overload_Telegram_Bot_ITelegramBotClient_GetChatMembersCountAsync.htm">
+        <HelpTOCNode Id="4f0e1c7c-2a9f-4067-bb64-b545d65e4a7a" Title="GetChatMembersCountAsync Method " Url="html/Overload_Telegram_Bot_ITelegramBotClient_GetChatMembersCountAsync.htm">
           <HelpTOCNode Title="GetChatMembersCountAsync Method (Int64, CancellationToken)" Url="html/M_Telegram_Bot_ITelegramBotClient_GetChatMembersCountAsync.htm" />
           <HelpTOCNode Title="GetChatMembersCountAsync Method (String, CancellationToken)" Url="html/M_Telegram_Bot_ITelegramBotClient_GetChatMembersCountAsync_1.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="GetFileAsync Method " Url="html/M_Telegram_Bot_ITelegramBotClient_GetFileAsync.htm" />
-        <HelpTOCNode Id="b6df1913-60f7-4d72-b6fc-8884579e12f7" Title="GetGameHighScores Method " Url="html/Overload_Telegram_Bot_ITelegramBotClient_GetGameHighScores.htm">
-          <HelpTOCNode Title="GetGameHighScores Method (Int32, String, CancellationToken)" Url="html/M_Telegram_Bot_ITelegramBotClient_GetGameHighScores_2.htm" />
-          <HelpTOCNode Title="GetGameHighScores Method (Int32, Int64, Int32, CancellationToken)" Url="html/M_Telegram_Bot_ITelegramBotClient_GetGameHighScores.htm" />
-          <HelpTOCNode Title="GetGameHighScores Method (Int32, String, Int32, CancellationToken)" Url="html/M_Telegram_Bot_ITelegramBotClient_GetGameHighScores_1.htm" />
+        <HelpTOCNode Id="5bd3fd4f-6598-41e1-bfa9-90781a8d7972" Title="GetGameHighScoresAsync Method " Url="html/Overload_Telegram_Bot_ITelegramBotClient_GetGameHighScoresAsync.htm">
+          <HelpTOCNode Title="GetGameHighScoresAsync Method (Int32, String, CancellationToken)" Url="html/M_Telegram_Bot_ITelegramBotClient_GetGameHighScoresAsync_2.htm" />
+          <HelpTOCNode Title="GetGameHighScoresAsync Method (Int32, Int64, Int32, CancellationToken)" Url="html/M_Telegram_Bot_ITelegramBotClient_GetGameHighScoresAsync.htm" />
+          <HelpTOCNode Title="GetGameHighScoresAsync Method (Int32, String, Int32, CancellationToken)" Url="html/M_Telegram_Bot_ITelegramBotClient_GetGameHighScoresAsync_1.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="GetMeAsync Method " Url="html/M_Telegram_Bot_ITelegramBotClient_GetMeAsync.htm" />
         <HelpTOCNode Title="GetUpdatesAsync Method " Url="html/M_Telegram_Bot_ITelegramBotClient_GetUpdatesAsync.htm" />
         <HelpTOCNode Title="GetUserProfilePhotosAsync Method " Url="html/M_Telegram_Bot_ITelegramBotClient_GetUserProfilePhotosAsync.htm" />
-        <HelpTOCNode Title="GetWebhookInfo Method " Url="html/M_Telegram_Bot_ITelegramBotClient_GetWebhookInfo.htm" />
-        <HelpTOCNode Id="2c082495-3c74-4072-90b9-9748cff54ea1" Title="KickChatMemberAsync Method " Url="html/Overload_Telegram_Bot_ITelegramBotClient_KickChatMemberAsync.htm">
+        <HelpTOCNode Title="GetWebhookInfoAsync Method " Url="html/M_Telegram_Bot_ITelegramBotClient_GetWebhookInfoAsync.htm" />
+        <HelpTOCNode Id="156eda36-d097-47c0-8a80-108226a4129e" Title="KickChatMemberAsync Method " Url="html/Overload_Telegram_Bot_ITelegramBotClient_KickChatMemberAsync.htm">
           <HelpTOCNode Title="KickChatMemberAsync Method (Int64, Int32, CancellationToken)" Url="html/M_Telegram_Bot_ITelegramBotClient_KickChatMemberAsync.htm" />
           <HelpTOCNode Title="KickChatMemberAsync Method (String, Int32, CancellationToken)" Url="html/M_Telegram_Bot_ITelegramBotClient_KickChatMemberAsync_1.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="c85eba28-3d41-4480-8cf2-3cceefeb1055" Title="LeaveChatAsync Method " Url="html/Overload_Telegram_Bot_ITelegramBotClient_LeaveChatAsync.htm">
+        <HelpTOCNode Id="f8e85b55-56dc-4fcc-bcb7-d20715077f96" Title="LeaveChatAsync Method " Url="html/Overload_Telegram_Bot_ITelegramBotClient_LeaveChatAsync.htm">
           <HelpTOCNode Title="LeaveChatAsync Method (Int64, CancellationToken)" Url="html/M_Telegram_Bot_ITelegramBotClient_LeaveChatAsync.htm" />
           <HelpTOCNode Title="LeaveChatAsync Method (String, CancellationToken)" Url="html/M_Telegram_Bot_ITelegramBotClient_LeaveChatAsync_1.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="ff3d1a01-098f-4609-ba8b-1f0d48ffefcd" Title="SendAudioAsync Method " Url="html/Overload_Telegram_Bot_ITelegramBotClient_SendAudioAsync.htm">
+        <HelpTOCNode Id="dbe7426f-9803-4e53-a5e2-3f24aad21f19" Title="SendAudioAsync Method " Url="html/Overload_Telegram_Bot_ITelegramBotClient_SendAudioAsync.htm">
           <HelpTOCNode Title="SendAudioAsync Method (Int64, String, Int32, String, String, Boolean, Int32, IReplyMarkup, CancellationToken)" Url="html/M_Telegram_Bot_ITelegramBotClient_SendAudioAsync.htm" />
           <HelpTOCNode Title="SendAudioAsync Method (Int64, FileToSend, Int32, String, String, Boolean, Int32, IReplyMarkup, CancellationToken)" Url="html/M_Telegram_Bot_ITelegramBotClient_SendAudioAsync_1.htm" />
           <HelpTOCNode Title="SendAudioAsync Method (String, String, Int32, String, String, Boolean, Int32, IReplyMarkup, CancellationToken)" Url="html/M_Telegram_Bot_ITelegramBotClient_SendAudioAsync_2.htm" />
           <HelpTOCNode Title="SendAudioAsync Method (String, FileToSend, Int32, String, String, Boolean, Int32, IReplyMarkup, CancellationToken)" Url="html/M_Telegram_Bot_ITelegramBotClient_SendAudioAsync_3.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="b6498b79-1b99-494d-9ac2-88c3b38ad1d1" Title="SendChatActionAsync Method " Url="html/Overload_Telegram_Bot_ITelegramBotClient_SendChatActionAsync.htm">
+        <HelpTOCNode Id="93ec9362-b4f4-4587-9a1d-c0890337c07e" Title="SendChatActionAsync Method " Url="html/Overload_Telegram_Bot_ITelegramBotClient_SendChatActionAsync.htm">
           <HelpTOCNode Title="SendChatActionAsync Method (Int64, ChatAction, CancellationToken)" Url="html/M_Telegram_Bot_ITelegramBotClient_SendChatActionAsync.htm" />
           <HelpTOCNode Title="SendChatActionAsync Method (String, ChatAction, CancellationToken)" Url="html/M_Telegram_Bot_ITelegramBotClient_SendChatActionAsync_1.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="713c71e8-6d29-42c3-b71f-dee640277008" Title="SendContactAsync Method " Url="html/Overload_Telegram_Bot_ITelegramBotClient_SendContactAsync.htm">
+        <HelpTOCNode Id="6e5d9f5a-4a23-4f3a-9e57-21899795e6a6" Title="SendContactAsync Method " Url="html/Overload_Telegram_Bot_ITelegramBotClient_SendContactAsync.htm">
           <HelpTOCNode Title="SendContactAsync Method (Int64, String, String, String, Boolean, Int32, IReplyMarkup, CancellationToken)" Url="html/M_Telegram_Bot_ITelegramBotClient_SendContactAsync.htm" />
           <HelpTOCNode Title="SendContactAsync Method (String, String, String, String, Boolean, Int32, IReplyMarkup, CancellationToken)" Url="html/M_Telegram_Bot_ITelegramBotClient_SendContactAsync_1.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="d50a2b04-6f08-4395-8e37-3fd971e78561" Title="SendDocumentAsync Method " Url="html/Overload_Telegram_Bot_ITelegramBotClient_SendDocumentAsync.htm">
+        <HelpTOCNode Id="67629f24-1efc-4e34-9e75-fd3769e17046" Title="SendDocumentAsync Method " Url="html/Overload_Telegram_Bot_ITelegramBotClient_SendDocumentAsync.htm">
           <HelpTOCNode Title="SendDocumentAsync Method (Int64, String, String, Boolean, Int32, IReplyMarkup, CancellationToken)" Url="html/M_Telegram_Bot_ITelegramBotClient_SendDocumentAsync.htm" />
           <HelpTOCNode Title="SendDocumentAsync Method (Int64, FileToSend, String, Boolean, Int32, IReplyMarkup, CancellationToken)" Url="html/M_Telegram_Bot_ITelegramBotClient_SendDocumentAsync_1.htm" />
           <HelpTOCNode Title="SendDocumentAsync Method (String, String, String, Boolean, Int32, IReplyMarkup, CancellationToken)" Url="html/M_Telegram_Bot_ITelegramBotClient_SendDocumentAsync_2.htm" />
           <HelpTOCNode Title="SendDocumentAsync Method (String, FileToSend, String, Boolean, Int32, IReplyMarkup, CancellationToken)" Url="html/M_Telegram_Bot_ITelegramBotClient_SendDocumentAsync_3.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="a42f4410-4d08-4375-9989-7ab77b8333d7" Title="SendGame Method " Url="html/Overload_Telegram_Bot_ITelegramBotClient_SendGame.htm">
-          <HelpTOCNode Title="SendGame Method (Int64, String, Boolean, Int32, IReplyMarkup, CancellationToken)" Url="html/M_Telegram_Bot_ITelegramBotClient_SendGame.htm" />
-          <HelpTOCNode Title="SendGame Method (String, String, Boolean, Int32, IReplyMarkup, CancellationToken)" Url="html/M_Telegram_Bot_ITelegramBotClient_SendGame_1.htm" />
+        <HelpTOCNode Id="f3965e33-6464-429c-b4a8-cfa95fc95914" Title="SendGameAsync Method " Url="html/Overload_Telegram_Bot_ITelegramBotClient_SendGameAsync.htm">
+          <HelpTOCNode Title="SendGameAsync Method (Int64, String, Boolean, Int32, IReplyMarkup, CancellationToken)" Url="html/M_Telegram_Bot_ITelegramBotClient_SendGameAsync.htm" />
+          <HelpTOCNode Title="SendGameAsync Method (String, String, Boolean, Int32, IReplyMarkup, CancellationToken)" Url="html/M_Telegram_Bot_ITelegramBotClient_SendGameAsync_1.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="a6922da1-8fcb-4268-9f3e-b01c6939f52c" Title="SendLocationAsync Method " Url="html/Overload_Telegram_Bot_ITelegramBotClient_SendLocationAsync.htm">
+        <HelpTOCNode Id="a8ee6099-fa52-428d-ba05-c6c552eee162" Title="SendLocationAsync Method " Url="html/Overload_Telegram_Bot_ITelegramBotClient_SendLocationAsync.htm">
           <HelpTOCNode Title="SendLocationAsync Method (Int64, Single, Single, Boolean, Int32, IReplyMarkup, CancellationToken)" Url="html/M_Telegram_Bot_ITelegramBotClient_SendLocationAsync.htm" />
           <HelpTOCNode Title="SendLocationAsync Method (String, Single, Single, Boolean, Int32, IReplyMarkup, CancellationToken)" Url="html/M_Telegram_Bot_ITelegramBotClient_SendLocationAsync_1.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="26095477-bfcf-4286-9f55-6747cb1cee19" Title="SendPhotoAsync Method " Url="html/Overload_Telegram_Bot_ITelegramBotClient_SendPhotoAsync.htm">
+        <HelpTOCNode Id="4068a558-9568-4841-805a-59da5e72156d" Title="SendPhotoAsync Method " Url="html/Overload_Telegram_Bot_ITelegramBotClient_SendPhotoAsync.htm">
           <HelpTOCNode Title="SendPhotoAsync Method (Int64, String, String, Boolean, Int32, IReplyMarkup, CancellationToken)" Url="html/M_Telegram_Bot_ITelegramBotClient_SendPhotoAsync.htm" />
           <HelpTOCNode Title="SendPhotoAsync Method (Int64, FileToSend, String, Boolean, Int32, IReplyMarkup, CancellationToken)" Url="html/M_Telegram_Bot_ITelegramBotClient_SendPhotoAsync_1.htm" />
           <HelpTOCNode Title="SendPhotoAsync Method (String, String, String, Boolean, Int32, IReplyMarkup, CancellationToken)" Url="html/M_Telegram_Bot_ITelegramBotClient_SendPhotoAsync_2.htm" />
           <HelpTOCNode Title="SendPhotoAsync Method (String, FileToSend, String, Boolean, Int32, IReplyMarkup, CancellationToken)" Url="html/M_Telegram_Bot_ITelegramBotClient_SendPhotoAsync_3.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="8c3e119f-b738-4859-85d3-94f0d685200a" Title="SendStickerAsync Method " Url="html/Overload_Telegram_Bot_ITelegramBotClient_SendStickerAsync.htm">
+        <HelpTOCNode Id="879f11a3-147d-4e98-848f-7c18c3e23c15" Title="SendStickerAsync Method " Url="html/Overload_Telegram_Bot_ITelegramBotClient_SendStickerAsync.htm">
           <HelpTOCNode Title="SendStickerAsync Method (Int64, String, Boolean, Int32, IReplyMarkup, CancellationToken)" Url="html/M_Telegram_Bot_ITelegramBotClient_SendStickerAsync.htm" />
           <HelpTOCNode Title="SendStickerAsync Method (Int64, FileToSend, Boolean, Int32, IReplyMarkup, CancellationToken)" Url="html/M_Telegram_Bot_ITelegramBotClient_SendStickerAsync_1.htm" />
           <HelpTOCNode Title="SendStickerAsync Method (String, String, Boolean, Int32, IReplyMarkup, CancellationToken)" Url="html/M_Telegram_Bot_ITelegramBotClient_SendStickerAsync_2.htm" />
           <HelpTOCNode Title="SendStickerAsync Method (String, FileToSend, Boolean, Int32, IReplyMarkup, CancellationToken)" Url="html/M_Telegram_Bot_ITelegramBotClient_SendStickerAsync_3.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="1f8e68c9-cdfb-41ff-ba04-6a8567e24025" Title="SendTextMessageAsync Method " Url="html/Overload_Telegram_Bot_ITelegramBotClient_SendTextMessageAsync.htm">
+        <HelpTOCNode Id="39c1ded3-7508-430b-b74e-814bfbdb58b7" Title="SendTextMessageAsync Method " Url="html/Overload_Telegram_Bot_ITelegramBotClient_SendTextMessageAsync.htm">
           <HelpTOCNode Title="SendTextMessageAsync Method (Int64, String, Boolean, Boolean, Int32, IReplyMarkup, ParseMode, CancellationToken)" Url="html/M_Telegram_Bot_ITelegramBotClient_SendTextMessageAsync.htm" />
           <HelpTOCNode Title="SendTextMessageAsync Method (String, String, Boolean, Boolean, Int32, IReplyMarkup, ParseMode, CancellationToken)" Url="html/M_Telegram_Bot_ITelegramBotClient_SendTextMessageAsync_1.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="fc9a7b2d-c74b-4067-83d7-d8f16e4a6cc0" Title="SendVenueAsync Method " Url="html/Overload_Telegram_Bot_ITelegramBotClient_SendVenueAsync.htm">
+        <HelpTOCNode Id="3ccb24f3-70ac-4b3d-a165-6bb2785cfde5" Title="SendVenueAsync Method " Url="html/Overload_Telegram_Bot_ITelegramBotClient_SendVenueAsync.htm">
           <HelpTOCNode Title="SendVenueAsync Method (Int64, Single, Single, String, String, String, Boolean, Int32, IReplyMarkup, CancellationToken)" Url="html/M_Telegram_Bot_ITelegramBotClient_SendVenueAsync.htm" />
           <HelpTOCNode Title="SendVenueAsync Method (String, Single, Single, String, String, String, Boolean, Int32, IReplyMarkup, CancellationToken)" Url="html/M_Telegram_Bot_ITelegramBotClient_SendVenueAsync_1.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="c70b5392-572a-4bf3-9541-073c9492daaa" Title="SendVideoAsync Method " Url="html/Overload_Telegram_Bot_ITelegramBotClient_SendVideoAsync.htm">
+        <HelpTOCNode Id="9454862a-2b2a-4595-95e3-7a3cad8fb013" Title="SendVideoAsync Method " Url="html/Overload_Telegram_Bot_ITelegramBotClient_SendVideoAsync.htm">
           <HelpTOCNode Title="SendVideoAsync Method (Int64, String, Int32, String, Boolean, Int32, IReplyMarkup, CancellationToken)" Url="html/M_Telegram_Bot_ITelegramBotClient_SendVideoAsync.htm" />
           <HelpTOCNode Title="SendVideoAsync Method (Int64, FileToSend, Int32, String, Boolean, Int32, IReplyMarkup, CancellationToken)" Url="html/M_Telegram_Bot_ITelegramBotClient_SendVideoAsync_1.htm" />
           <HelpTOCNode Title="SendVideoAsync Method (String, String, Int32, String, Boolean, Int32, IReplyMarkup, CancellationToken)" Url="html/M_Telegram_Bot_ITelegramBotClient_SendVideoAsync_2.htm" />
           <HelpTOCNode Title="SendVideoAsync Method (String, FileToSend, Int32, String, Boolean, Int32, IReplyMarkup, CancellationToken)" Url="html/M_Telegram_Bot_ITelegramBotClient_SendVideoAsync_3.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="252ccf61-4e08-4e39-a5f5-51ea80dfe765" Title="SendVoiceAsync Method " Url="html/Overload_Telegram_Bot_ITelegramBotClient_SendVoiceAsync.htm">
+        <HelpTOCNode Id="572e500e-1450-48ac-99ee-dcef63ab39ab" Title="SendVoiceAsync Method " Url="html/Overload_Telegram_Bot_ITelegramBotClient_SendVoiceAsync.htm">
           <HelpTOCNode Title="SendVoiceAsync Method (Int64, String, Int32, Boolean, Int32, IReplyMarkup, CancellationToken)" Url="html/M_Telegram_Bot_ITelegramBotClient_SendVoiceAsync.htm" />
           <HelpTOCNode Title="SendVoiceAsync Method (Int64, FileToSend, Int32, Boolean, Int32, IReplyMarkup, CancellationToken)" Url="html/M_Telegram_Bot_ITelegramBotClient_SendVoiceAsync_1.htm" />
           <HelpTOCNode Title="SendVoiceAsync Method (String, String, Int32, Boolean, Int32, IReplyMarkup, CancellationToken)" Url="html/M_Telegram_Bot_ITelegramBotClient_SendVoiceAsync_2.htm" />
           <HelpTOCNode Title="SendVoiceAsync Method (String, FileToSend, Int32, Boolean, Int32, IReplyMarkup, CancellationToken)" Url="html/M_Telegram_Bot_ITelegramBotClient_SendVoiceAsync_3.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="f78b48d0-dd3f-45c3-82e8-deec76b42bd3" Title="SetGameScore Method " Url="html/Overload_Telegram_Bot_ITelegramBotClient_SetGameScore.htm">
-          <HelpTOCNode Title="SetGameScore Method (Int32, Int32, String, Boolean, CancellationToken)" Url="html/M_Telegram_Bot_ITelegramBotClient_SetGameScore_1.htm" />
-          <HelpTOCNode Title="SetGameScore Method (Int32, Int32, Int64, Int32, Boolean, CancellationToken)" Url="html/M_Telegram_Bot_ITelegramBotClient_SetGameScore.htm" />
-          <HelpTOCNode Title="SetGameScore Method (Int32, Int32, String, Int32, Boolean, CancellationToken)" Url="html/M_Telegram_Bot_ITelegramBotClient_SetGameScore_2.htm" />
+        <HelpTOCNode Id="40cf85c8-69dd-4261-bc27-f76c0302d3ee" Title="SetGameScoreAsync Method " Url="html/Overload_Telegram_Bot_ITelegramBotClient_SetGameScoreAsync.htm">
+          <HelpTOCNode Title="SetGameScoreAsync Method (Int32, Int32, String, Boolean, CancellationToken)" Url="html/M_Telegram_Bot_ITelegramBotClient_SetGameScoreAsync_1.htm" />
+          <HelpTOCNode Title="SetGameScoreAsync Method (Int32, Int32, Int64, Int32, Boolean, CancellationToken)" Url="html/M_Telegram_Bot_ITelegramBotClient_SetGameScoreAsync.htm" />
+          <HelpTOCNode Title="SetGameScoreAsync Method (Int32, Int32, String, Int32, Boolean, CancellationToken)" Url="html/M_Telegram_Bot_ITelegramBotClient_SetGameScoreAsync_2.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="SetWebhookAsync Method " Url="html/M_Telegram_Bot_ITelegramBotClient_SetWebhookAsync.htm" />
-        <HelpTOCNode Id="b47e52d7-ec9b-4987-876f-caba3a3a196a" Title="StartReceiving Method " Url="html/Overload_Telegram_Bot_ITelegramBotClient_StartReceiving.htm">
+        <HelpTOCNode Id="be3e7de8-8444-4943-b178-2ee0faac7fe2" Title="StartReceiving Method " Url="html/Overload_Telegram_Bot_ITelegramBotClient_StartReceiving.htm">
           <HelpTOCNode Title="StartReceiving Method (CancellationToken)" Url="html/M_Telegram_Bot_ITelegramBotClient_StartReceiving.htm" />
           <HelpTOCNode Title="StartReceiving Method (TimeSpan, CancellationToken)" Url="html/M_Telegram_Bot_ITelegramBotClient_StartReceiving_1.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="StopReceiving Method " Url="html/M_Telegram_Bot_ITelegramBotClient_StopReceiving.htm" />
         <HelpTOCNode Title="TestApiAsync Method " Url="html/M_Telegram_Bot_ITelegramBotClient_TestApiAsync.htm" />
-        <HelpTOCNode Id="ad29b89f-14ea-4708-9f01-6eb10796d061" Title="UnbanChatMemberAsync Method " Url="html/Overload_Telegram_Bot_ITelegramBotClient_UnbanChatMemberAsync.htm">
+        <HelpTOCNode Id="8f45d9e9-4478-43db-a533-0587ab19fd68" Title="UnbanChatMemberAsync Method " Url="html/Overload_Telegram_Bot_ITelegramBotClient_UnbanChatMemberAsync.htm">
           <HelpTOCNode Title="UnbanChatMemberAsync Method (Int64, Int32, CancellationToken)" Url="html/M_Telegram_Bot_ITelegramBotClient_UnbanChatMemberAsync.htm" />
           <HelpTOCNode Title="UnbanChatMemberAsync Method (String, Int32, CancellationToken)" Url="html/M_Telegram_Bot_ITelegramBotClient_UnbanChatMemberAsync_1.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="ab039e43-8b3d-40e7-b0ee-ee4c5145c579" Title="ITelegramBotClient Events" Url="html/Events_T_Telegram_Bot_ITelegramBotClient.htm">
+      <HelpTOCNode Id="e57870bd-9f54-420a-9e9b-e7c3a8e62eb9" Title="ITelegramBotClient Events" Url="html/Events_T_Telegram_Bot_ITelegramBotClient.htm">
         <HelpTOCNode Title="OnCallbackQuery Event" Url="html/E_Telegram_Bot_ITelegramBotClient_OnCallbackQuery.htm" />
         <HelpTOCNode Title="OnInlineQuery Event" Url="html/E_Telegram_Bot_ITelegramBotClient_OnInlineQuery.htm" />
         <HelpTOCNode Title="OnInlineResultChosen Event" Url="html/E_Telegram_Bot_ITelegramBotClient_OnInlineResultChosen.htm" />
@@ -162,270 +162,152 @@
         <HelpTOCNode Title="OnUpdate Event" Url="html/E_Telegram_Bot_ITelegramBotClient_OnUpdate.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="5dd60053-f411-4c97-9598-815ce48e9c68" Title="TelegramBotClient Class" Url="html/T_Telegram_Bot_TelegramBotClient.htm">
+    <HelpTOCNode Id="ea73dbe5-8ab0-4a37-8d44-ecab14b4b01d" Title="TelegramBotClient Class" Url="html/T_Telegram_Bot_TelegramBotClient.htm">
       <HelpTOCNode Title="TelegramBotClient Constructor " Url="html/M_Telegram_Bot_TelegramBotClient__ctor.htm" />
-      <HelpTOCNode Id="e960b99a-68bf-4c1c-86e4-3b955885b3af" Title="TelegramBotClient Properties" Url="html/Properties_T_Telegram_Bot_TelegramBotClient.htm">
+      <HelpTOCNode Id="30e9f00e-96ef-4b40-b15f-631bfb4d7aa0" Title="TelegramBotClient Properties" Url="html/Properties_T_Telegram_Bot_TelegramBotClient.htm">
         <HelpTOCNode Title="IsReceiving Property " Url="html/P_Telegram_Bot_TelegramBotClient_IsReceiving.htm" />
         <HelpTOCNode Title="MessageOffset Property " Url="html/P_Telegram_Bot_TelegramBotClient_MessageOffset.htm" />
         <HelpTOCNode Title="PollingTimeout Property " Url="html/P_Telegram_Bot_TelegramBotClient_PollingTimeout.htm" />
         <HelpTOCNode Title="UploadTimeout Property " Url="html/P_Telegram_Bot_TelegramBotClient_UploadTimeout.htm" />
         <HelpTOCNode Title="WebProxy Property " Url="html/P_Telegram_Bot_TelegramBotClient_WebProxy.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="0a5dac82-50a5-4fd2-bd9e-0851db96afef" Title="TelegramBotClient Methods" Url="html/Methods_T_Telegram_Bot_TelegramBotClient.htm">
-        <HelpTOCNode Title="AnswerCallbackQuery Method " Url="html/M_Telegram_Bot_TelegramBotClient_AnswerCallbackQuery.htm" />
+      <HelpTOCNode Id="3808ab7a-5206-4870-b430-95ea67b5acd9" Title="TelegramBotClient Methods" Url="html/Methods_T_Telegram_Bot_TelegramBotClient.htm">
         <HelpTOCNode Title="AnswerCallbackQueryAsync Method " Url="html/M_Telegram_Bot_TelegramBotClient_AnswerCallbackQueryAsync.htm" />
-        <HelpTOCNode Title="AnswerInlineQuery Method " Url="html/M_Telegram_Bot_TelegramBotClient_AnswerInlineQuery.htm" />
         <HelpTOCNode Title="AnswerInlineQueryAsync Method " Url="html/M_Telegram_Bot_TelegramBotClient_AnswerInlineQueryAsync.htm" />
-        <HelpTOCNode Title="EditInlineMessageCaption Method " Url="html/M_Telegram_Bot_TelegramBotClient_EditInlineMessageCaption.htm" />
         <HelpTOCNode Title="EditInlineMessageCaptionAsync Method " Url="html/M_Telegram_Bot_TelegramBotClient_EditInlineMessageCaptionAsync.htm" />
-        <HelpTOCNode Title="EditInlineMessageReplyMarkup Method " Url="html/M_Telegram_Bot_TelegramBotClient_EditInlineMessageReplyMarkup.htm" />
         <HelpTOCNode Title="EditInlineMessageReplyMarkupAsync Method " Url="html/M_Telegram_Bot_TelegramBotClient_EditInlineMessageReplyMarkupAsync.htm" />
-        <HelpTOCNode Title="EditInlineMessageText Method " Url="html/M_Telegram_Bot_TelegramBotClient_EditInlineMessageText.htm" />
         <HelpTOCNode Title="EditInlineMessageTextAsync Method " Url="html/M_Telegram_Bot_TelegramBotClient_EditInlineMessageTextAsync.htm" />
-        <HelpTOCNode Id="8d013a8e-e6ba-4f07-9290-22ebed124f99" Title="EditMessageCaption Method " Url="html/Overload_Telegram_Bot_TelegramBotClient_EditMessageCaption.htm">
-          <HelpTOCNode Title="EditMessageCaption Method (Int64, Int32, String, IReplyMarkup)" Url="html/M_Telegram_Bot_TelegramBotClient_EditMessageCaption.htm" />
-          <HelpTOCNode Title="EditMessageCaption Method (String, Int32, String, IReplyMarkup)" Url="html/M_Telegram_Bot_TelegramBotClient_EditMessageCaption_1.htm" />
-        </HelpTOCNode>
-        <HelpTOCNode Id="1f63b0be-f54d-492e-abba-36ef03bd0fc1" Title="EditMessageCaptionAsync Method " Url="html/Overload_Telegram_Bot_TelegramBotClient_EditMessageCaptionAsync.htm">
+        <HelpTOCNode Id="1630af94-d6bb-491f-ab01-7ab564e2e23e" Title="EditMessageCaptionAsync Method " Url="html/Overload_Telegram_Bot_TelegramBotClient_EditMessageCaptionAsync.htm">
           <HelpTOCNode Title="EditMessageCaptionAsync Method (Int64, Int32, String, IReplyMarkup, CancellationToken)" Url="html/M_Telegram_Bot_TelegramBotClient_EditMessageCaptionAsync.htm" />
           <HelpTOCNode Title="EditMessageCaptionAsync Method (String, Int32, String, IReplyMarkup, CancellationToken)" Url="html/M_Telegram_Bot_TelegramBotClient_EditMessageCaptionAsync_1.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="cecccac2-3685-4428-8db5-4b2b414e03b3" Title="EditMessageReplyMarkup Method " Url="html/Overload_Telegram_Bot_TelegramBotClient_EditMessageReplyMarkup.htm">
-          <HelpTOCNode Title="EditMessageReplyMarkup Method (Int64, Int32, IReplyMarkup)" Url="html/M_Telegram_Bot_TelegramBotClient_EditMessageReplyMarkup.htm" />
-          <HelpTOCNode Title="EditMessageReplyMarkup Method (String, Int32, IReplyMarkup)" Url="html/M_Telegram_Bot_TelegramBotClient_EditMessageReplyMarkup_1.htm" />
-        </HelpTOCNode>
-        <HelpTOCNode Id="585b3026-de67-426c-a57e-59b9d6caec9d" Title="EditMessageReplyMarkupAsync Method " Url="html/Overload_Telegram_Bot_TelegramBotClient_EditMessageReplyMarkupAsync.htm">
+        <HelpTOCNode Id="538a7cda-763b-400b-843f-e560ebc9a1ac" Title="EditMessageReplyMarkupAsync Method " Url="html/Overload_Telegram_Bot_TelegramBotClient_EditMessageReplyMarkupAsync.htm">
           <HelpTOCNode Title="EditMessageReplyMarkupAsync Method (Int64, Int32, IReplyMarkup, CancellationToken)" Url="html/M_Telegram_Bot_TelegramBotClient_EditMessageReplyMarkupAsync.htm" />
           <HelpTOCNode Title="EditMessageReplyMarkupAsync Method (String, Int32, IReplyMarkup, CancellationToken)" Url="html/M_Telegram_Bot_TelegramBotClient_EditMessageReplyMarkupAsync_1.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="bb7ef43f-3761-465e-a646-dc221b0bb252" Title="EditMessageText Method " Url="html/Overload_Telegram_Bot_TelegramBotClient_EditMessageText.htm">
-          <HelpTOCNode Title="EditMessageText Method (Int64, Int32, String, ParseMode, Boolean, IReplyMarkup)" Url="html/M_Telegram_Bot_TelegramBotClient_EditMessageText.htm" />
-          <HelpTOCNode Title="EditMessageText Method (String, Int32, String, ParseMode, Boolean, IReplyMarkup)" Url="html/M_Telegram_Bot_TelegramBotClient_EditMessageText_1.htm" />
-        </HelpTOCNode>
-        <HelpTOCNode Id="cd98f27e-2057-4672-bc0b-2dc8ec3806dd" Title="EditMessageTextAsync Method " Url="html/Overload_Telegram_Bot_TelegramBotClient_EditMessageTextAsync.htm">
+        <HelpTOCNode Id="74b6df2c-3ee5-4715-84f2-a1c5005b4556" Title="EditMessageTextAsync Method " Url="html/Overload_Telegram_Bot_TelegramBotClient_EditMessageTextAsync.htm">
           <HelpTOCNode Title="EditMessageTextAsync Method (Int64, Int32, String, ParseMode, Boolean, IReplyMarkup, CancellationToken)" Url="html/M_Telegram_Bot_TelegramBotClient_EditMessageTextAsync.htm" />
           <HelpTOCNode Title="EditMessageTextAsync Method (String, Int32, String, ParseMode, Boolean, IReplyMarkup, CancellationToken)" Url="html/M_Telegram_Bot_TelegramBotClient_EditMessageTextAsync_1.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="bbccbc09-3405-43ac-af51-e44b6233dfb1" Title="ForwardMessage Method " Url="html/Overload_Telegram_Bot_TelegramBotClient_ForwardMessage.htm">
-          <HelpTOCNode Title="ForwardMessage Method (Int64, Int64, Int32, Boolean)" Url="html/M_Telegram_Bot_TelegramBotClient_ForwardMessage.htm" />
-          <HelpTOCNode Title="ForwardMessage Method (Int64, String, Int32, Boolean)" Url="html/M_Telegram_Bot_TelegramBotClient_ForwardMessage_1.htm" />
-          <HelpTOCNode Title="ForwardMessage Method (String, Int64, Int32, Boolean)" Url="html/M_Telegram_Bot_TelegramBotClient_ForwardMessage_2.htm" />
-          <HelpTOCNode Title="ForwardMessage Method (String, String, Int32, Boolean)" Url="html/M_Telegram_Bot_TelegramBotClient_ForwardMessage_3.htm" />
-        </HelpTOCNode>
-        <HelpTOCNode Id="d2607aae-cb3f-450f-96b1-86451ce0f7e2" Title="ForwardMessageAsync Method " Url="html/Overload_Telegram_Bot_TelegramBotClient_ForwardMessageAsync.htm">
+        <HelpTOCNode Id="cf1df2d0-c653-46d0-b4f4-37876f74cd9a" Title="ForwardMessageAsync Method " Url="html/Overload_Telegram_Bot_TelegramBotClient_ForwardMessageAsync.htm">
           <HelpTOCNode Title="ForwardMessageAsync Method (Int64, Int64, Int32, Boolean, CancellationToken)" Url="html/M_Telegram_Bot_TelegramBotClient_ForwardMessageAsync.htm" />
           <HelpTOCNode Title="ForwardMessageAsync Method (Int64, String, Int32, Boolean, CancellationToken)" Url="html/M_Telegram_Bot_TelegramBotClient_ForwardMessageAsync_1.htm" />
           <HelpTOCNode Title="ForwardMessageAsync Method (String, Int64, Int32, Boolean, CancellationToken)" Url="html/M_Telegram_Bot_TelegramBotClient_ForwardMessageAsync_2.htm" />
           <HelpTOCNode Title="ForwardMessageAsync Method (String, String, Int32, Boolean, CancellationToken)" Url="html/M_Telegram_Bot_TelegramBotClient_ForwardMessageAsync_3.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="8e8dc986-dd5d-4fde-9897-0f5d5a1c0eb3" Title="GetChat Method " Url="html/Overload_Telegram_Bot_TelegramBotClient_GetChat.htm">
-          <HelpTOCNode Title="GetChat Method (Int64)" Url="html/M_Telegram_Bot_TelegramBotClient_GetChat.htm" />
-          <HelpTOCNode Title="GetChat Method (String)" Url="html/M_Telegram_Bot_TelegramBotClient_GetChat_1.htm" />
-        </HelpTOCNode>
-        <HelpTOCNode Id="f42b45ed-94af-4780-9c40-d0140da7b8bc" Title="GetChatAdministrators Method " Url="html/Overload_Telegram_Bot_TelegramBotClient_GetChatAdministrators.htm">
-          <HelpTOCNode Title="GetChatAdministrators Method (Int64)" Url="html/M_Telegram_Bot_TelegramBotClient_GetChatAdministrators.htm" />
-          <HelpTOCNode Title="GetChatAdministrators Method (String)" Url="html/M_Telegram_Bot_TelegramBotClient_GetChatAdministrators_1.htm" />
-        </HelpTOCNode>
-        <HelpTOCNode Id="46f4b7ab-8112-4569-b0a3-c51d0ed70898" Title="GetChatAdministratorsAsync Method " Url="html/Overload_Telegram_Bot_TelegramBotClient_GetChatAdministratorsAsync.htm">
+        <HelpTOCNode Id="e3aed546-dd69-46e7-ae80-01169aec25d3" Title="GetChatAdministratorsAsync Method " Url="html/Overload_Telegram_Bot_TelegramBotClient_GetChatAdministratorsAsync.htm">
           <HelpTOCNode Title="GetChatAdministratorsAsync Method (Int64, CancellationToken)" Url="html/M_Telegram_Bot_TelegramBotClient_GetChatAdministratorsAsync.htm" />
           <HelpTOCNode Title="GetChatAdministratorsAsync Method (String, CancellationToken)" Url="html/M_Telegram_Bot_TelegramBotClient_GetChatAdministratorsAsync_1.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="e269d152-0536-40a0-9ebb-b65dfa22f854" Title="GetChatAsync Method " Url="html/Overload_Telegram_Bot_TelegramBotClient_GetChatAsync.htm">
+        <HelpTOCNode Id="431a200c-76f4-4033-8111-45886ba70dde" Title="GetChatAsync Method " Url="html/Overload_Telegram_Bot_TelegramBotClient_GetChatAsync.htm">
           <HelpTOCNode Title="GetChatAsync Method (Int64, CancellationToken)" Url="html/M_Telegram_Bot_TelegramBotClient_GetChatAsync.htm" />
           <HelpTOCNode Title="GetChatAsync Method (String, CancellationToken)" Url="html/M_Telegram_Bot_TelegramBotClient_GetChatAsync_1.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="3f007852-e217-4cee-bef9-cb4c052822d6" Title="GetChatMember Method " Url="html/Overload_Telegram_Bot_TelegramBotClient_GetChatMember.htm">
-          <HelpTOCNode Title="GetChatMember Method (Int64, Int32)" Url="html/M_Telegram_Bot_TelegramBotClient_GetChatMember.htm" />
-          <HelpTOCNode Title="GetChatMember Method (String, Int32)" Url="html/M_Telegram_Bot_TelegramBotClient_GetChatMember_1.htm" />
-        </HelpTOCNode>
-        <HelpTOCNode Id="da92675f-0708-4b3e-8707-a3e779739eb9" Title="GetChatMemberAsync Method " Url="html/Overload_Telegram_Bot_TelegramBotClient_GetChatMemberAsync.htm">
+        <HelpTOCNode Id="e22428ed-9d1c-49b9-a751-1920368784ec" Title="GetChatMemberAsync Method " Url="html/Overload_Telegram_Bot_TelegramBotClient_GetChatMemberAsync.htm">
           <HelpTOCNode Title="GetChatMemberAsync Method (Int64, Int32, CancellationToken)" Url="html/M_Telegram_Bot_TelegramBotClient_GetChatMemberAsync.htm" />
           <HelpTOCNode Title="GetChatMemberAsync Method (String, Int32, CancellationToken)" Url="html/M_Telegram_Bot_TelegramBotClient_GetChatMemberAsync_1.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="135e2daa-969e-44ac-b52e-e2133d3d557e" Title="GetChatMembersCount Method " Url="html/Overload_Telegram_Bot_TelegramBotClient_GetChatMembersCount.htm">
-          <HelpTOCNode Title="GetChatMembersCount Method (Int64)" Url="html/M_Telegram_Bot_TelegramBotClient_GetChatMembersCount.htm" />
-          <HelpTOCNode Title="GetChatMembersCount Method (String)" Url="html/M_Telegram_Bot_TelegramBotClient_GetChatMembersCount_1.htm" />
-        </HelpTOCNode>
-        <HelpTOCNode Id="1af0cb61-9b00-4805-82cf-ad206e5688c9" Title="GetChatMembersCountAsync Method " Url="html/Overload_Telegram_Bot_TelegramBotClient_GetChatMembersCountAsync.htm">
+        <HelpTOCNode Id="2f48e92c-a779-48e3-937f-54d073b37bd2" Title="GetChatMembersCountAsync Method " Url="html/Overload_Telegram_Bot_TelegramBotClient_GetChatMembersCountAsync.htm">
           <HelpTOCNode Title="GetChatMembersCountAsync Method (Int64, CancellationToken)" Url="html/M_Telegram_Bot_TelegramBotClient_GetChatMembersCountAsync.htm" />
           <HelpTOCNode Title="GetChatMembersCountAsync Method (String, CancellationToken)" Url="html/M_Telegram_Bot_TelegramBotClient_GetChatMembersCountAsync_1.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Title="GetFile Method " Url="html/M_Telegram_Bot_TelegramBotClient_GetFile.htm" />
         <HelpTOCNode Title="GetFileAsync Method " Url="html/M_Telegram_Bot_TelegramBotClient_GetFileAsync.htm" />
-        <HelpTOCNode Id="5f0425f8-97e7-4a5e-a71b-9c92bf5ad9f2" Title="GetGameHighScores Method " Url="html/Overload_Telegram_Bot_TelegramBotClient_GetGameHighScores.htm">
-          <HelpTOCNode Title="GetGameHighScores Method (Int32, String, CancellationToken)" Url="html/M_Telegram_Bot_TelegramBotClient_GetGameHighScores_2.htm" />
-          <HelpTOCNode Title="GetGameHighScores Method (Int32, Int64, Int32, CancellationToken)" Url="html/M_Telegram_Bot_TelegramBotClient_GetGameHighScores.htm" />
-          <HelpTOCNode Title="GetGameHighScores Method (Int32, String, Int32, CancellationToken)" Url="html/M_Telegram_Bot_TelegramBotClient_GetGameHighScores_1.htm" />
+        <HelpTOCNode Id="ddfc8857-15b5-4e39-a98c-c8cc54d225fe" Title="GetGameHighScoresAsync Method " Url="html/Overload_Telegram_Bot_TelegramBotClient_GetGameHighScoresAsync.htm">
+          <HelpTOCNode Title="GetGameHighScoresAsync Method (Int32, String, CancellationToken)" Url="html/M_Telegram_Bot_TelegramBotClient_GetGameHighScoresAsync_2.htm" />
+          <HelpTOCNode Title="GetGameHighScoresAsync Method (Int32, Int64, Int32, CancellationToken)" Url="html/M_Telegram_Bot_TelegramBotClient_GetGameHighScoresAsync.htm" />
+          <HelpTOCNode Title="GetGameHighScoresAsync Method (Int32, String, Int32, CancellationToken)" Url="html/M_Telegram_Bot_TelegramBotClient_GetGameHighScoresAsync_1.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Title="GetMe Method " Url="html/M_Telegram_Bot_TelegramBotClient_GetMe.htm" />
         <HelpTOCNode Title="GetMeAsync Method " Url="html/M_Telegram_Bot_TelegramBotClient_GetMeAsync.htm" />
-        <HelpTOCNode Title="GetUpdates Method " Url="html/M_Telegram_Bot_TelegramBotClient_GetUpdates.htm" />
         <HelpTOCNode Title="GetUpdatesAsync Method " Url="html/M_Telegram_Bot_TelegramBotClient_GetUpdatesAsync.htm" />
-        <HelpTOCNode Title="GetUserProfilePhotos Method " Url="html/M_Telegram_Bot_TelegramBotClient_GetUserProfilePhotos.htm" />
         <HelpTOCNode Title="GetUserProfilePhotosAsync Method " Url="html/M_Telegram_Bot_TelegramBotClient_GetUserProfilePhotosAsync.htm" />
-        <HelpTOCNode Title="GetWebhookInfo Method " Url="html/M_Telegram_Bot_TelegramBotClient_GetWebhookInfo.htm" />
-        <HelpTOCNode Id="cc5212fa-aeb5-45e1-a4c9-5c38a105d0a7" Title="KickChatMember Method " Url="html/Overload_Telegram_Bot_TelegramBotClient_KickChatMember.htm">
-          <HelpTOCNode Title="KickChatMember Method (Int64, Int32)" Url="html/M_Telegram_Bot_TelegramBotClient_KickChatMember.htm" />
-          <HelpTOCNode Title="KickChatMember Method (String, Int32)" Url="html/M_Telegram_Bot_TelegramBotClient_KickChatMember_1.htm" />
-        </HelpTOCNode>
-        <HelpTOCNode Id="2436de20-600e-4124-8163-f5b774c66fb9" Title="KickChatMemberAsync Method " Url="html/Overload_Telegram_Bot_TelegramBotClient_KickChatMemberAsync.htm">
+        <HelpTOCNode Title="GetWebhookInfoAsync Method " Url="html/M_Telegram_Bot_TelegramBotClient_GetWebhookInfoAsync.htm" />
+        <HelpTOCNode Id="d31e2ffa-ab91-4e22-b900-c92ee02496c3" Title="KickChatMemberAsync Method " Url="html/Overload_Telegram_Bot_TelegramBotClient_KickChatMemberAsync.htm">
           <HelpTOCNode Title="KickChatMemberAsync Method (Int64, Int32, CancellationToken)" Url="html/M_Telegram_Bot_TelegramBotClient_KickChatMemberAsync.htm" />
           <HelpTOCNode Title="KickChatMemberAsync Method (String, Int32, CancellationToken)" Url="html/M_Telegram_Bot_TelegramBotClient_KickChatMemberAsync_1.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="14ee77f2-c405-4bdb-ae2c-aed2fd1a0960" Title="LeaveChat Method " Url="html/Overload_Telegram_Bot_TelegramBotClient_LeaveChat.htm">
-          <HelpTOCNode Title="LeaveChat Method (Int64)" Url="html/M_Telegram_Bot_TelegramBotClient_LeaveChat.htm" />
-          <HelpTOCNode Title="LeaveChat Method (String)" Url="html/M_Telegram_Bot_TelegramBotClient_LeaveChat_1.htm" />
-        </HelpTOCNode>
-        <HelpTOCNode Id="9921ee9f-e5b2-40da-bce6-c5dbb5117457" Title="LeaveChatAsync Method " Url="html/Overload_Telegram_Bot_TelegramBotClient_LeaveChatAsync.htm">
+        <HelpTOCNode Id="58169d17-ff68-4981-a4df-bd34b331149f" Title="LeaveChatAsync Method " Url="html/Overload_Telegram_Bot_TelegramBotClient_LeaveChatAsync.htm">
           <HelpTOCNode Title="LeaveChatAsync Method (Int64, CancellationToken)" Url="html/M_Telegram_Bot_TelegramBotClient_LeaveChatAsync.htm" />
           <HelpTOCNode Title="LeaveChatAsync Method (String, CancellationToken)" Url="html/M_Telegram_Bot_TelegramBotClient_LeaveChatAsync_1.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="OnUpdateReceived Method " Url="html/M_Telegram_Bot_TelegramBotClient_OnUpdateReceived.htm" />
-        <HelpTOCNode Id="511d72b2-af33-4558-94a2-02ade1e873d0" Title="SendAudio Method " Url="html/Overload_Telegram_Bot_TelegramBotClient_SendAudio.htm">
-          <HelpTOCNode Title="SendAudio Method (Int64, String, Int32, String, String, Boolean, Int32, IReplyMarkup)" Url="html/M_Telegram_Bot_TelegramBotClient_SendAudio.htm" />
-          <HelpTOCNode Title="SendAudio Method (Int64, FileToSend, Int32, String, String, Boolean, Int32, IReplyMarkup)" Url="html/M_Telegram_Bot_TelegramBotClient_SendAudio_1.htm" />
-          <HelpTOCNode Title="SendAudio Method (String, String, Int32, String, String, Boolean, Int32, IReplyMarkup)" Url="html/M_Telegram_Bot_TelegramBotClient_SendAudio_2.htm" />
-          <HelpTOCNode Title="SendAudio Method (String, FileToSend, Int32, String, String, Boolean, Int32, IReplyMarkup)" Url="html/M_Telegram_Bot_TelegramBotClient_SendAudio_3.htm" />
-        </HelpTOCNode>
-        <HelpTOCNode Id="2f90834e-6116-4383-a1d1-deb15f064de2" Title="SendAudioAsync Method " Url="html/Overload_Telegram_Bot_TelegramBotClient_SendAudioAsync.htm">
+        <HelpTOCNode Id="304243e8-ebcc-4d83-959e-81ae772192b5" Title="SendAudioAsync Method " Url="html/Overload_Telegram_Bot_TelegramBotClient_SendAudioAsync.htm">
           <HelpTOCNode Title="SendAudioAsync Method (Int64, String, Int32, String, String, Boolean, Int32, IReplyMarkup, CancellationToken)" Url="html/M_Telegram_Bot_TelegramBotClient_SendAudioAsync.htm" />
           <HelpTOCNode Title="SendAudioAsync Method (Int64, FileToSend, Int32, String, String, Boolean, Int32, IReplyMarkup, CancellationToken)" Url="html/M_Telegram_Bot_TelegramBotClient_SendAudioAsync_1.htm" />
           <HelpTOCNode Title="SendAudioAsync Method (String, String, Int32, String, String, Boolean, Int32, IReplyMarkup, CancellationToken)" Url="html/M_Telegram_Bot_TelegramBotClient_SendAudioAsync_2.htm" />
           <HelpTOCNode Title="SendAudioAsync Method (String, FileToSend, Int32, String, String, Boolean, Int32, IReplyMarkup, CancellationToken)" Url="html/M_Telegram_Bot_TelegramBotClient_SendAudioAsync_3.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="0dbfea17-cec4-4553-b055-062d2e9989fb" Title="SendChatAction Method " Url="html/Overload_Telegram_Bot_TelegramBotClient_SendChatAction.htm">
-          <HelpTOCNode Title="SendChatAction Method (Int64, ChatAction)" Url="html/M_Telegram_Bot_TelegramBotClient_SendChatAction.htm" />
-          <HelpTOCNode Title="SendChatAction Method (String, ChatAction)" Url="html/M_Telegram_Bot_TelegramBotClient_SendChatAction_1.htm" />
-        </HelpTOCNode>
-        <HelpTOCNode Id="e8ecc4c7-7249-4860-a591-57e0ff40ec5a" Title="SendChatActionAsync Method " Url="html/Overload_Telegram_Bot_TelegramBotClient_SendChatActionAsync.htm">
+        <HelpTOCNode Id="b80b3c72-a31a-49bc-8ce6-47262696fd4a" Title="SendChatActionAsync Method " Url="html/Overload_Telegram_Bot_TelegramBotClient_SendChatActionAsync.htm">
           <HelpTOCNode Title="SendChatActionAsync Method (Int64, ChatAction, CancellationToken)" Url="html/M_Telegram_Bot_TelegramBotClient_SendChatActionAsync.htm" />
           <HelpTOCNode Title="SendChatActionAsync Method (String, ChatAction, CancellationToken)" Url="html/M_Telegram_Bot_TelegramBotClient_SendChatActionAsync_1.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="dc8292e1-03ed-4a7a-8847-ac2178e4119b" Title="SendContact Method " Url="html/Overload_Telegram_Bot_TelegramBotClient_SendContact.htm">
-          <HelpTOCNode Title="SendContact Method (Int64, String, String, String, Boolean, Int32, IReplyMarkup)" Url="html/M_Telegram_Bot_TelegramBotClient_SendContact.htm" />
-          <HelpTOCNode Title="SendContact Method (String, String, String, String, Boolean, Int32, IReplyMarkup)" Url="html/M_Telegram_Bot_TelegramBotClient_SendContact_1.htm" />
-        </HelpTOCNode>
-        <HelpTOCNode Id="86dfe58d-e43f-4e8b-a7f3-78076148ee64" Title="SendContactAsync Method " Url="html/Overload_Telegram_Bot_TelegramBotClient_SendContactAsync.htm">
+        <HelpTOCNode Id="e68d458f-d062-4e09-a38b-30a064122348" Title="SendContactAsync Method " Url="html/Overload_Telegram_Bot_TelegramBotClient_SendContactAsync.htm">
           <HelpTOCNode Title="SendContactAsync Method (Int64, String, String, String, Boolean, Int32, IReplyMarkup, CancellationToken)" Url="html/M_Telegram_Bot_TelegramBotClient_SendContactAsync.htm" />
           <HelpTOCNode Title="SendContactAsync Method (String, String, String, String, Boolean, Int32, IReplyMarkup, CancellationToken)" Url="html/M_Telegram_Bot_TelegramBotClient_SendContactAsync_1.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="f18b1496-4af1-4685-9e8a-eb45ac81c5ca" Title="SendDocument Method " Url="html/Overload_Telegram_Bot_TelegramBotClient_SendDocument.htm">
-          <HelpTOCNode Title="SendDocument Method (Int64, String, String, Boolean, Int32, IReplyMarkup)" Url="html/M_Telegram_Bot_TelegramBotClient_SendDocument.htm" />
-          <HelpTOCNode Title="SendDocument Method (Int64, FileToSend, String, Boolean, Int32, IReplyMarkup)" Url="html/M_Telegram_Bot_TelegramBotClient_SendDocument_1.htm" />
-          <HelpTOCNode Title="SendDocument Method (String, String, String, Boolean, Int32, IReplyMarkup)" Url="html/M_Telegram_Bot_TelegramBotClient_SendDocument_2.htm" />
-          <HelpTOCNode Title="SendDocument Method (String, FileToSend, String, Boolean, Int32, IReplyMarkup)" Url="html/M_Telegram_Bot_TelegramBotClient_SendDocument_3.htm" />
-        </HelpTOCNode>
-        <HelpTOCNode Id="6daf64f9-6435-4b99-bab1-0ebf959cb017" Title="SendDocumentAsync Method " Url="html/Overload_Telegram_Bot_TelegramBotClient_SendDocumentAsync.htm">
+        <HelpTOCNode Id="a016b0f8-55a3-415b-9f09-e49ad25b208a" Title="SendDocumentAsync Method " Url="html/Overload_Telegram_Bot_TelegramBotClient_SendDocumentAsync.htm">
           <HelpTOCNode Title="SendDocumentAsync Method (Int64, String, String, Boolean, Int32, IReplyMarkup, CancellationToken)" Url="html/M_Telegram_Bot_TelegramBotClient_SendDocumentAsync.htm" />
           <HelpTOCNode Title="SendDocumentAsync Method (Int64, FileToSend, String, Boolean, Int32, IReplyMarkup, CancellationToken)" Url="html/M_Telegram_Bot_TelegramBotClient_SendDocumentAsync_1.htm" />
           <HelpTOCNode Title="SendDocumentAsync Method (String, String, String, Boolean, Int32, IReplyMarkup, CancellationToken)" Url="html/M_Telegram_Bot_TelegramBotClient_SendDocumentAsync_2.htm" />
           <HelpTOCNode Title="SendDocumentAsync Method (String, FileToSend, String, Boolean, Int32, IReplyMarkup, CancellationToken)" Url="html/M_Telegram_Bot_TelegramBotClient_SendDocumentAsync_3.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="30e2a231-3a36-43d9-b08b-85feffb53c67" Title="SendGame Method " Url="html/Overload_Telegram_Bot_TelegramBotClient_SendGame.htm">
-          <HelpTOCNode Title="SendGame Method (Int64, String, Boolean, Int32, IReplyMarkup, CancellationToken)" Url="html/M_Telegram_Bot_TelegramBotClient_SendGame.htm" />
-          <HelpTOCNode Title="SendGame Method (String, String, Boolean, Int32, IReplyMarkup, CancellationToken)" Url="html/M_Telegram_Bot_TelegramBotClient_SendGame_1.htm" />
+        <HelpTOCNode Id="c9513ad8-f24c-4c24-820b-5b16906e5a75" Title="SendGameAsync Method " Url="html/Overload_Telegram_Bot_TelegramBotClient_SendGameAsync.htm">
+          <HelpTOCNode Title="SendGameAsync Method (Int64, String, Boolean, Int32, IReplyMarkup, CancellationToken)" Url="html/M_Telegram_Bot_TelegramBotClient_SendGameAsync.htm" />
+          <HelpTOCNode Title="SendGameAsync Method (String, String, Boolean, Int32, IReplyMarkup, CancellationToken)" Url="html/M_Telegram_Bot_TelegramBotClient_SendGameAsync_1.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="85e1dd72-63e4-47ce-8de1-600d2260b8e5" Title="SendLocation Method " Url="html/Overload_Telegram_Bot_TelegramBotClient_SendLocation.htm">
-          <HelpTOCNode Title="SendLocation Method (Int64, Single, Single, Boolean, Int32, IReplyMarkup)" Url="html/M_Telegram_Bot_TelegramBotClient_SendLocation.htm" />
-          <HelpTOCNode Title="SendLocation Method (String, Single, Single, Boolean, Int32, IReplyMarkup)" Url="html/M_Telegram_Bot_TelegramBotClient_SendLocation_1.htm" />
-        </HelpTOCNode>
-        <HelpTOCNode Id="9d129a48-d559-4412-b217-d3f2d9ba12c8" Title="SendLocationAsync Method " Url="html/Overload_Telegram_Bot_TelegramBotClient_SendLocationAsync.htm">
+        <HelpTOCNode Id="15b320c9-04f4-443b-bf04-900599772aa1" Title="SendLocationAsync Method " Url="html/Overload_Telegram_Bot_TelegramBotClient_SendLocationAsync.htm">
           <HelpTOCNode Title="SendLocationAsync Method (Int64, Single, Single, Boolean, Int32, IReplyMarkup, CancellationToken)" Url="html/M_Telegram_Bot_TelegramBotClient_SendLocationAsync.htm" />
           <HelpTOCNode Title="SendLocationAsync Method (String, Single, Single, Boolean, Int32, IReplyMarkup, CancellationToken)" Url="html/M_Telegram_Bot_TelegramBotClient_SendLocationAsync_1.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="47b3a01d-bf58-4ae9-b5a0-84baeb50ead6" Title="SendPhoto Method " Url="html/Overload_Telegram_Bot_TelegramBotClient_SendPhoto.htm">
-          <HelpTOCNode Title="SendPhoto Method (Int64, String, String, Boolean, Int32, IReplyMarkup)" Url="html/M_Telegram_Bot_TelegramBotClient_SendPhoto.htm" />
-          <HelpTOCNode Title="SendPhoto Method (Int64, FileToSend, String, Boolean, Int32, IReplyMarkup)" Url="html/M_Telegram_Bot_TelegramBotClient_SendPhoto_1.htm" />
-          <HelpTOCNode Title="SendPhoto Method (String, String, String, Boolean, Int32, IReplyMarkup)" Url="html/M_Telegram_Bot_TelegramBotClient_SendPhoto_2.htm" />
-          <HelpTOCNode Title="SendPhoto Method (String, FileToSend, String, Boolean, Int32, IReplyMarkup)" Url="html/M_Telegram_Bot_TelegramBotClient_SendPhoto_3.htm" />
-        </HelpTOCNode>
-        <HelpTOCNode Id="ca8a57e7-b315-4cce-9521-0c740e2139be" Title="SendPhotoAsync Method " Url="html/Overload_Telegram_Bot_TelegramBotClient_SendPhotoAsync.htm">
+        <HelpTOCNode Id="0e5b1ff3-dc16-4195-b0d7-d8a597294649" Title="SendPhotoAsync Method " Url="html/Overload_Telegram_Bot_TelegramBotClient_SendPhotoAsync.htm">
           <HelpTOCNode Title="SendPhotoAsync Method (Int64, String, String, Boolean, Int32, IReplyMarkup, CancellationToken)" Url="html/M_Telegram_Bot_TelegramBotClient_SendPhotoAsync.htm" />
           <HelpTOCNode Title="SendPhotoAsync Method (Int64, FileToSend, String, Boolean, Int32, IReplyMarkup, CancellationToken)" Url="html/M_Telegram_Bot_TelegramBotClient_SendPhotoAsync_1.htm" />
           <HelpTOCNode Title="SendPhotoAsync Method (String, String, String, Boolean, Int32, IReplyMarkup, CancellationToken)" Url="html/M_Telegram_Bot_TelegramBotClient_SendPhotoAsync_2.htm" />
           <HelpTOCNode Title="SendPhotoAsync Method (String, FileToSend, String, Boolean, Int32, IReplyMarkup, CancellationToken)" Url="html/M_Telegram_Bot_TelegramBotClient_SendPhotoAsync_3.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="62042637-e0bd-430e-bb4d-2f1ff93f4700" Title="SendSticker Method " Url="html/Overload_Telegram_Bot_TelegramBotClient_SendSticker.htm">
-          <HelpTOCNode Title="SendSticker Method (Int64, String, Boolean, Int32, IReplyMarkup)" Url="html/M_Telegram_Bot_TelegramBotClient_SendSticker.htm" />
-          <HelpTOCNode Title="SendSticker Method (Int64, FileToSend, Boolean, Int32, IReplyMarkup)" Url="html/M_Telegram_Bot_TelegramBotClient_SendSticker_1.htm" />
-          <HelpTOCNode Title="SendSticker Method (String, String, Boolean, Int32, IReplyMarkup)" Url="html/M_Telegram_Bot_TelegramBotClient_SendSticker_2.htm" />
-          <HelpTOCNode Title="SendSticker Method (String, FileToSend, Boolean, Int32, IReplyMarkup)" Url="html/M_Telegram_Bot_TelegramBotClient_SendSticker_3.htm" />
-        </HelpTOCNode>
-        <HelpTOCNode Id="7edde5f4-b2af-47c2-9955-831138eb03ae" Title="SendStickerAsync Method " Url="html/Overload_Telegram_Bot_TelegramBotClient_SendStickerAsync.htm">
+        <HelpTOCNode Id="4d811000-4402-4560-9814-b42672e994e2" Title="SendStickerAsync Method " Url="html/Overload_Telegram_Bot_TelegramBotClient_SendStickerAsync.htm">
           <HelpTOCNode Title="SendStickerAsync Method (Int64, String, Boolean, Int32, IReplyMarkup, CancellationToken)" Url="html/M_Telegram_Bot_TelegramBotClient_SendStickerAsync.htm" />
           <HelpTOCNode Title="SendStickerAsync Method (Int64, FileToSend, Boolean, Int32, IReplyMarkup, CancellationToken)" Url="html/M_Telegram_Bot_TelegramBotClient_SendStickerAsync_1.htm" />
           <HelpTOCNode Title="SendStickerAsync Method (String, String, Boolean, Int32, IReplyMarkup, CancellationToken)" Url="html/M_Telegram_Bot_TelegramBotClient_SendStickerAsync_2.htm" />
           <HelpTOCNode Title="SendStickerAsync Method (String, FileToSend, Boolean, Int32, IReplyMarkup, CancellationToken)" Url="html/M_Telegram_Bot_TelegramBotClient_SendStickerAsync_3.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="ea30dec0-ea2c-48fb-9f1e-fed89e4830b1" Title="SendTextMessage Method " Url="html/Overload_Telegram_Bot_TelegramBotClient_SendTextMessage.htm">
-          <HelpTOCNode Title="SendTextMessage Method (Int64, String, Boolean, Boolean, Int32, IReplyMarkup, ParseMode)" Url="html/M_Telegram_Bot_TelegramBotClient_SendTextMessage.htm" />
-          <HelpTOCNode Title="SendTextMessage Method (String, String, Boolean, Boolean, Int32, IReplyMarkup, ParseMode)" Url="html/M_Telegram_Bot_TelegramBotClient_SendTextMessage_1.htm" />
-        </HelpTOCNode>
-        <HelpTOCNode Id="08829ce0-a9d2-4c1d-b90c-38b249b5be36" Title="SendTextMessageAsync Method " Url="html/Overload_Telegram_Bot_TelegramBotClient_SendTextMessageAsync.htm">
+        <HelpTOCNode Id="6c8c9c7d-ddb9-4f45-b2ae-d156b78b6a39" Title="SendTextMessageAsync Method " Url="html/Overload_Telegram_Bot_TelegramBotClient_SendTextMessageAsync.htm">
           <HelpTOCNode Title="SendTextMessageAsync Method (Int64, String, Boolean, Boolean, Int32, IReplyMarkup, ParseMode, CancellationToken)" Url="html/M_Telegram_Bot_TelegramBotClient_SendTextMessageAsync.htm" />
           <HelpTOCNode Title="SendTextMessageAsync Method (String, String, Boolean, Boolean, Int32, IReplyMarkup, ParseMode, CancellationToken)" Url="html/M_Telegram_Bot_TelegramBotClient_SendTextMessageAsync_1.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="1e9a32d1-7d32-47e4-aa21-d7c3bd50c490" Title="SendVenue Method " Url="html/Overload_Telegram_Bot_TelegramBotClient_SendVenue.htm">
-          <HelpTOCNode Title="SendVenue Method (Int64, Single, Single, String, String, String, Boolean, Int32, IReplyMarkup)" Url="html/M_Telegram_Bot_TelegramBotClient_SendVenue.htm" />
-          <HelpTOCNode Title="SendVenue Method (String, Single, Single, String, String, String, Boolean, Int32, IReplyMarkup)" Url="html/M_Telegram_Bot_TelegramBotClient_SendVenue_1.htm" />
-        </HelpTOCNode>
-        <HelpTOCNode Id="d245385d-f0e2-4da6-ba4b-a6b091f59d95" Title="SendVenueAsync Method " Url="html/Overload_Telegram_Bot_TelegramBotClient_SendVenueAsync.htm">
+        <HelpTOCNode Id="93e00a38-b36c-4f36-b48b-70c9946ca685" Title="SendVenueAsync Method " Url="html/Overload_Telegram_Bot_TelegramBotClient_SendVenueAsync.htm">
           <HelpTOCNode Title="SendVenueAsync Method (Int64, Single, Single, String, String, String, Boolean, Int32, IReplyMarkup, CancellationToken)" Url="html/M_Telegram_Bot_TelegramBotClient_SendVenueAsync.htm" />
           <HelpTOCNode Title="SendVenueAsync Method (String, Single, Single, String, String, String, Boolean, Int32, IReplyMarkup, CancellationToken)" Url="html/M_Telegram_Bot_TelegramBotClient_SendVenueAsync_1.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="2dc8fe11-94c5-421f-bf81-2d8c1d5fac61" Title="SendVideo Method " Url="html/Overload_Telegram_Bot_TelegramBotClient_SendVideo.htm">
-          <HelpTOCNode Title="SendVideo Method (Int64, String, Int32, String, Boolean, Int32, IReplyMarkup)" Url="html/M_Telegram_Bot_TelegramBotClient_SendVideo.htm" />
-          <HelpTOCNode Title="SendVideo Method (Int64, FileToSend, Int32, String, Boolean, Int32, IReplyMarkup)" Url="html/M_Telegram_Bot_TelegramBotClient_SendVideo_1.htm" />
-          <HelpTOCNode Title="SendVideo Method (String, String, Int32, String, Boolean, Int32, IReplyMarkup)" Url="html/M_Telegram_Bot_TelegramBotClient_SendVideo_2.htm" />
-          <HelpTOCNode Title="SendVideo Method (String, FileToSend, Int32, String, Boolean, Int32, IReplyMarkup)" Url="html/M_Telegram_Bot_TelegramBotClient_SendVideo_3.htm" />
-        </HelpTOCNode>
-        <HelpTOCNode Id="a7178178-6b2b-4ffc-a74f-bcb8354a2a04" Title="SendVideoAsync Method " Url="html/Overload_Telegram_Bot_TelegramBotClient_SendVideoAsync.htm">
+        <HelpTOCNode Id="a89afb0a-bbdc-4b77-93ae-6ca7c2675a77" Title="SendVideoAsync Method " Url="html/Overload_Telegram_Bot_TelegramBotClient_SendVideoAsync.htm">
           <HelpTOCNode Title="SendVideoAsync Method (Int64, String, Int32, String, Boolean, Int32, IReplyMarkup, CancellationToken)" Url="html/M_Telegram_Bot_TelegramBotClient_SendVideoAsync.htm" />
           <HelpTOCNode Title="SendVideoAsync Method (Int64, FileToSend, Int32, String, Boolean, Int32, IReplyMarkup, CancellationToken)" Url="html/M_Telegram_Bot_TelegramBotClient_SendVideoAsync_1.htm" />
           <HelpTOCNode Title="SendVideoAsync Method (String, String, Int32, String, Boolean, Int32, IReplyMarkup, CancellationToken)" Url="html/M_Telegram_Bot_TelegramBotClient_SendVideoAsync_2.htm" />
           <HelpTOCNode Title="SendVideoAsync Method (String, FileToSend, Int32, String, Boolean, Int32, IReplyMarkup, CancellationToken)" Url="html/M_Telegram_Bot_TelegramBotClient_SendVideoAsync_3.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="8b9d025f-f80b-4432-86e9-9c661803ec6d" Title="SendVoice Method " Url="html/Overload_Telegram_Bot_TelegramBotClient_SendVoice.htm">
-          <HelpTOCNode Title="SendVoice Method (Int64, String, Int32, Boolean, Int32, IReplyMarkup)" Url="html/M_Telegram_Bot_TelegramBotClient_SendVoice.htm" />
-          <HelpTOCNode Title="SendVoice Method (Int64, FileToSend, Int32, Boolean, Int32, IReplyMarkup)" Url="html/M_Telegram_Bot_TelegramBotClient_SendVoice_1.htm" />
-          <HelpTOCNode Title="SendVoice Method (String, String, Int32, Boolean, Int32, IReplyMarkup)" Url="html/M_Telegram_Bot_TelegramBotClient_SendVoice_2.htm" />
-          <HelpTOCNode Title="SendVoice Method (String, FileToSend, Int32, Boolean, Int32, IReplyMarkup)" Url="html/M_Telegram_Bot_TelegramBotClient_SendVoice_3.htm" />
-        </HelpTOCNode>
-        <HelpTOCNode Id="093a8f26-c4e5-4b1b-86f9-ec442cc3b743" Title="SendVoiceAsync Method " Url="html/Overload_Telegram_Bot_TelegramBotClient_SendVoiceAsync.htm">
+        <HelpTOCNode Id="a0810192-4e11-4fb2-b3a5-99902acd4d29" Title="SendVoiceAsync Method " Url="html/Overload_Telegram_Bot_TelegramBotClient_SendVoiceAsync.htm">
           <HelpTOCNode Title="SendVoiceAsync Method (Int64, String, Int32, Boolean, Int32, IReplyMarkup, CancellationToken)" Url="html/M_Telegram_Bot_TelegramBotClient_SendVoiceAsync.htm" />
           <HelpTOCNode Title="SendVoiceAsync Method (Int64, FileToSend, Int32, Boolean, Int32, IReplyMarkup, CancellationToken)" Url="html/M_Telegram_Bot_TelegramBotClient_SendVoiceAsync_1.htm" />
           <HelpTOCNode Title="SendVoiceAsync Method (String, String, Int32, Boolean, Int32, IReplyMarkup, CancellationToken)" Url="html/M_Telegram_Bot_TelegramBotClient_SendVoiceAsync_2.htm" />
           <HelpTOCNode Title="SendVoiceAsync Method (String, FileToSend, Int32, Boolean, Int32, IReplyMarkup, CancellationToken)" Url="html/M_Telegram_Bot_TelegramBotClient_SendVoiceAsync_3.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="8bd16965-9e77-4433-90e2-b03bbaaf6607" Title="SetGameScore Method " Url="html/Overload_Telegram_Bot_TelegramBotClient_SetGameScore.htm">
-          <HelpTOCNode Title="SetGameScore Method (Int32, Int32, String, Boolean, CancellationToken)" Url="html/M_Telegram_Bot_TelegramBotClient_SetGameScore_1.htm" />
-          <HelpTOCNode Title="SetGameScore Method (Int32, Int32, Int64, Int32, Boolean, CancellationToken)" Url="html/M_Telegram_Bot_TelegramBotClient_SetGameScore.htm" />
-          <HelpTOCNode Title="SetGameScore Method (Int32, Int32, String, Int32, Boolean, CancellationToken)" Url="html/M_Telegram_Bot_TelegramBotClient_SetGameScore_2.htm" />
+        <HelpTOCNode Id="f410f781-8182-4cea-b3ce-ddedb9c45881" Title="SetGameScoreAsync Method " Url="html/Overload_Telegram_Bot_TelegramBotClient_SetGameScoreAsync.htm">
+          <HelpTOCNode Title="SetGameScoreAsync Method (Int32, Int32, String, Boolean, CancellationToken)" Url="html/M_Telegram_Bot_TelegramBotClient_SetGameScoreAsync_1.htm" />
+          <HelpTOCNode Title="SetGameScoreAsync Method (Int32, Int32, Int64, Int32, Boolean, CancellationToken)" Url="html/M_Telegram_Bot_TelegramBotClient_SetGameScoreAsync.htm" />
+          <HelpTOCNode Title="SetGameScoreAsync Method (Int32, Int32, String, Int32, Boolean, CancellationToken)" Url="html/M_Telegram_Bot_TelegramBotClient_SetGameScoreAsync_2.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Title="SetWebhook Method " Url="html/M_Telegram_Bot_TelegramBotClient_SetWebhook.htm" />
         <HelpTOCNode Title="SetWebhookAsync Method " Url="html/M_Telegram_Bot_TelegramBotClient_SetWebhookAsync.htm" />
-        <HelpTOCNode Id="d84d53f9-be31-488c-bbc0-d13ede75d13d" Title="StartReceiving Method " Url="html/Overload_Telegram_Bot_TelegramBotClient_StartReceiving.htm">
+        <HelpTOCNode Id="aefa2baf-baeb-4b26-b764-34b5cb32ba5c" Title="StartReceiving Method " Url="html/Overload_Telegram_Bot_TelegramBotClient_StartReceiving.htm">
           <HelpTOCNode Title="StartReceiving Method (CancellationToken)" Url="html/M_Telegram_Bot_TelegramBotClient_StartReceiving.htm" />
           <HelpTOCNode Title="StartReceiving Method (TimeSpan, CancellationToken)" Url="html/M_Telegram_Bot_TelegramBotClient_StartReceiving_1.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="StopReceiving Method " Url="html/M_Telegram_Bot_TelegramBotClient_StopReceiving.htm" />
-        <HelpTOCNode Title="TestApi Method " Url="html/M_Telegram_Bot_TelegramBotClient_TestApi.htm" />
         <HelpTOCNode Title="TestApiAsync Method " Url="html/M_Telegram_Bot_TelegramBotClient_TestApiAsync.htm" />
-        <HelpTOCNode Id="d4468528-020f-43e5-8967-d14690890c4e" Title="UnbanChatMember Method " Url="html/Overload_Telegram_Bot_TelegramBotClient_UnbanChatMember.htm">
-          <HelpTOCNode Title="UnbanChatMember Method (Int64, Int32)" Url="html/M_Telegram_Bot_TelegramBotClient_UnbanChatMember.htm" />
-          <HelpTOCNode Title="UnbanChatMember Method (String, Int32)" Url="html/M_Telegram_Bot_TelegramBotClient_UnbanChatMember_1.htm" />
-        </HelpTOCNode>
-        <HelpTOCNode Id="03395168-b537-421f-a5c3-1723fddb224d" Title="UnbanChatMemberAsync Method " Url="html/Overload_Telegram_Bot_TelegramBotClient_UnbanChatMemberAsync.htm">
+        <HelpTOCNode Id="feb71bea-761d-414c-a4d6-0146bf65dc06" Title="UnbanChatMemberAsync Method " Url="html/Overload_Telegram_Bot_TelegramBotClient_UnbanChatMemberAsync.htm">
           <HelpTOCNode Title="UnbanChatMemberAsync Method (Int64, Int32, CancellationToken)" Url="html/M_Telegram_Bot_TelegramBotClient_UnbanChatMemberAsync.htm" />
           <HelpTOCNode Title="UnbanChatMemberAsync Method (String, Int32, CancellationToken)" Url="html/M_Telegram_Bot_TelegramBotClient_UnbanChatMemberAsync_1.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="8d5c5629-037b-4217-be27-39517a7a0035" Title="TelegramBotClient Events" Url="html/Events_T_Telegram_Bot_TelegramBotClient.htm">
-        <HelpTOCNode Title="CallbackQueryReceived Event" Url="html/E_Telegram_Bot_TelegramBotClient_CallbackQueryReceived.htm" />
-        <HelpTOCNode Title="ChosenInlineResultReceived Event" Url="html/E_Telegram_Bot_TelegramBotClient_ChosenInlineResultReceived.htm" />
-        <HelpTOCNode Title="InlineQueryReceived Event" Url="html/E_Telegram_Bot_TelegramBotClient_InlineQueryReceived.htm" />
-        <HelpTOCNode Title="MessageEdited Event" Url="html/E_Telegram_Bot_TelegramBotClient_MessageEdited.htm" />
-        <HelpTOCNode Title="MessageReceived Event" Url="html/E_Telegram_Bot_TelegramBotClient_MessageReceived.htm" />
+      <HelpTOCNode Id="86aecc00-bd29-4f2d-ba3b-f32cf3426879" Title="TelegramBotClient Events" Url="html/Events_T_Telegram_Bot_TelegramBotClient.htm">
         <HelpTOCNode Title="OnCallbackQuery Event" Url="html/E_Telegram_Bot_TelegramBotClient_OnCallbackQuery.htm" />
         <HelpTOCNode Title="OnInlineQuery Event" Url="html/E_Telegram_Bot_TelegramBotClient_OnInlineQuery.htm" />
         <HelpTOCNode Title="OnInlineResultChosen Event" Url="html/E_Telegram_Bot_TelegramBotClient_OnInlineResultChosen.htm" />
@@ -434,92 +316,90 @@
         <HelpTOCNode Title="OnReceiveError Event" Url="html/E_Telegram_Bot_TelegramBotClient_OnReceiveError.htm" />
         <HelpTOCNode Title="OnReceiveGeneralError Event" Url="html/E_Telegram_Bot_TelegramBotClient_OnReceiveGeneralError.htm" />
         <HelpTOCNode Title="OnUpdate Event" Url="html/E_Telegram_Bot_TelegramBotClient_OnUpdate.htm" />
-        <HelpTOCNode Title="ReceiveError Event" Url="html/E_Telegram_Bot_TelegramBotClient_ReceiveError.htm" />
-        <HelpTOCNode Title="UpdateReceived Event" Url="html/E_Telegram_Bot_TelegramBotClient_UpdateReceived.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
   </HelpTOCNode>
-  <HelpTOCNode Id="9f214d9f-cae8-4b1c-b92e-d8360b5d91f0" Title="Telegram.Bot.Args" Url="html/N_Telegram_Bot_Args.htm">
-    <HelpTOCNode Id="6b932e7e-8bd1-42ad-85c2-528b9736a3ed" Title="CallbackQueryEventArgs Class" Url="html/T_Telegram_Bot_Args_CallbackQueryEventArgs.htm">
-      <HelpTOCNode Id="6626357b-cebc-4de2-b4b7-c9a5af3ff453" Title="CallbackQueryEventArgs Properties" Url="html/Properties_T_Telegram_Bot_Args_CallbackQueryEventArgs.htm">
+  <HelpTOCNode Id="35377fef-8963-4814-856a-13bceb75edea" Title="Telegram.Bot.Args" Url="html/N_Telegram_Bot_Args.htm">
+    <HelpTOCNode Id="ffe78bcb-02e8-479d-9454-1244bda77d38" Title="CallbackQueryEventArgs Class" Url="html/T_Telegram_Bot_Args_CallbackQueryEventArgs.htm">
+      <HelpTOCNode Id="5c08aa68-d03c-4f00-af53-f9189046b7c0" Title="CallbackQueryEventArgs Properties" Url="html/Properties_T_Telegram_Bot_Args_CallbackQueryEventArgs.htm">
         <HelpTOCNode Title="CallbackQuery Property " Url="html/P_Telegram_Bot_Args_CallbackQueryEventArgs_CallbackQuery.htm" />
       </HelpTOCNode>
       <HelpTOCNode Title="CallbackQueryEventArgs Methods" Url="html/Methods_T_Telegram_Bot_Args_CallbackQueryEventArgs.htm" />
-      <HelpTOCNode Id="4a7437ad-b04a-4b0a-9968-da581eeff072" Title="CallbackQueryEventArgs Type Conversions" Url="html/Operators_T_Telegram_Bot_Args_CallbackQueryEventArgs.htm">
+      <HelpTOCNode Id="6fe3a3d1-fab4-4c95-bd7c-1bfbc738437d" Title="CallbackQueryEventArgs Type Conversions" Url="html/Operators_T_Telegram_Bot_Args_CallbackQueryEventArgs.htm">
         <HelpTOCNode Title="Implicit Conversion (UpdateEventArgs to CallbackQueryEventArgs)" Url="html/M_Telegram_Bot_Args_CallbackQueryEventArgs_op_Implicit.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="81f67c74-114a-4367-8b66-d4d1efb2c2e9" Title="ChosenInlineResultEventArgs Class" Url="html/T_Telegram_Bot_Args_ChosenInlineResultEventArgs.htm">
-      <HelpTOCNode Id="cdc6adb1-b2cd-484c-9aa9-a03be08aeb03" Title="ChosenInlineResultEventArgs Properties" Url="html/Properties_T_Telegram_Bot_Args_ChosenInlineResultEventArgs.htm">
+    <HelpTOCNode Id="6077f6dd-1c4e-40ff-a1d2-72220317a20e" Title="ChosenInlineResultEventArgs Class" Url="html/T_Telegram_Bot_Args_ChosenInlineResultEventArgs.htm">
+      <HelpTOCNode Id="73f1481f-cccb-4ea1-aab1-82677fb2eed9" Title="ChosenInlineResultEventArgs Properties" Url="html/Properties_T_Telegram_Bot_Args_ChosenInlineResultEventArgs.htm">
         <HelpTOCNode Title="ChosenInlineResult Property " Url="html/P_Telegram_Bot_Args_ChosenInlineResultEventArgs_ChosenInlineResult.htm" />
       </HelpTOCNode>
       <HelpTOCNode Title="ChosenInlineResultEventArgs Methods" Url="html/Methods_T_Telegram_Bot_Args_ChosenInlineResultEventArgs.htm" />
-      <HelpTOCNode Id="fe3b2688-779c-47af-a619-d4fb22432b18" Title="ChosenInlineResultEventArgs Type Conversions" Url="html/Operators_T_Telegram_Bot_Args_ChosenInlineResultEventArgs.htm">
+      <HelpTOCNode Id="1c1468c5-66d3-4aa2-8120-ccc865385025" Title="ChosenInlineResultEventArgs Type Conversions" Url="html/Operators_T_Telegram_Bot_Args_ChosenInlineResultEventArgs.htm">
         <HelpTOCNode Title="Implicit Conversion (UpdateEventArgs to ChosenInlineResultEventArgs)" Url="html/M_Telegram_Bot_Args_ChosenInlineResultEventArgs_op_Implicit.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="e071e0f9-5d87-4ef1-a525-34eab71c1b09" Title="InlineQueryEventArgs Class" Url="html/T_Telegram_Bot_Args_InlineQueryEventArgs.htm">
-      <HelpTOCNode Id="d437d995-7582-40ef-af00-822b052181bd" Title="InlineQueryEventArgs Properties" Url="html/Properties_T_Telegram_Bot_Args_InlineQueryEventArgs.htm">
+    <HelpTOCNode Id="c52f4c80-0441-48d1-a4af-da33a3253173" Title="InlineQueryEventArgs Class" Url="html/T_Telegram_Bot_Args_InlineQueryEventArgs.htm">
+      <HelpTOCNode Id="840c0e6b-637f-4eab-91df-baeeb1209e20" Title="InlineQueryEventArgs Properties" Url="html/Properties_T_Telegram_Bot_Args_InlineQueryEventArgs.htm">
         <HelpTOCNode Title="InlineQuery Property " Url="html/P_Telegram_Bot_Args_InlineQueryEventArgs_InlineQuery.htm" />
       </HelpTOCNode>
       <HelpTOCNode Title="InlineQueryEventArgs Methods" Url="html/Methods_T_Telegram_Bot_Args_InlineQueryEventArgs.htm" />
-      <HelpTOCNode Id="28770dca-ff5c-4e2e-8850-7d3c849af8b1" Title="InlineQueryEventArgs Type Conversions" Url="html/Operators_T_Telegram_Bot_Args_InlineQueryEventArgs.htm">
+      <HelpTOCNode Id="5d8ea474-dd3d-440f-9950-96134f461d8b" Title="InlineQueryEventArgs Type Conversions" Url="html/Operators_T_Telegram_Bot_Args_InlineQueryEventArgs.htm">
         <HelpTOCNode Title="Implicit Conversion (UpdateEventArgs to InlineQueryEventArgs)" Url="html/M_Telegram_Bot_Args_InlineQueryEventArgs_op_Implicit.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="d396b4b3-b740-4622-bfcb-6aeb84a1dd02" Title="MessageEventArgs Class" Url="html/T_Telegram_Bot_Args_MessageEventArgs.htm">
-      <HelpTOCNode Id="95013fb3-46a3-4e30-820d-d7a13ce3d6bc" Title="MessageEventArgs Properties" Url="html/Properties_T_Telegram_Bot_Args_MessageEventArgs.htm">
+    <HelpTOCNode Id="9a010f83-4533-4887-9f2e-fd2dd04bc995" Title="MessageEventArgs Class" Url="html/T_Telegram_Bot_Args_MessageEventArgs.htm">
+      <HelpTOCNode Id="84852274-6de7-406a-b84e-094b72fdf9e0" Title="MessageEventArgs Properties" Url="html/Properties_T_Telegram_Bot_Args_MessageEventArgs.htm">
         <HelpTOCNode Title="Message Property " Url="html/P_Telegram_Bot_Args_MessageEventArgs_Message.htm" />
       </HelpTOCNode>
       <HelpTOCNode Title="MessageEventArgs Methods" Url="html/Methods_T_Telegram_Bot_Args_MessageEventArgs.htm" />
-      <HelpTOCNode Id="66d14266-2fec-4982-b517-1abc105f01b9" Title="MessageEventArgs Type Conversions" Url="html/Operators_T_Telegram_Bot_Args_MessageEventArgs.htm">
+      <HelpTOCNode Id="a4bfb483-e910-4640-bfbe-3d5825607f00" Title="MessageEventArgs Type Conversions" Url="html/Operators_T_Telegram_Bot_Args_MessageEventArgs.htm">
         <HelpTOCNode Title="Implicit Conversion (UpdateEventArgs to MessageEventArgs)" Url="html/M_Telegram_Bot_Args_MessageEventArgs_op_Implicit.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="7da84e04-a717-48de-8826-002821af8f55" Title="ReceiveErrorEventArgs Class" Url="html/T_Telegram_Bot_Args_ReceiveErrorEventArgs.htm">
-      <HelpTOCNode Id="9452ee51-3634-4f75-8c95-67b267a82066" Title="ReceiveErrorEventArgs Properties" Url="html/Properties_T_Telegram_Bot_Args_ReceiveErrorEventArgs.htm">
+    <HelpTOCNode Id="d36f6313-cc0f-49e9-a2b1-ce5186bb45c2" Title="ReceiveErrorEventArgs Class" Url="html/T_Telegram_Bot_Args_ReceiveErrorEventArgs.htm">
+      <HelpTOCNode Id="5fc1ad23-4e6a-4207-94fa-008f9dfad9c6" Title="ReceiveErrorEventArgs Properties" Url="html/Properties_T_Telegram_Bot_Args_ReceiveErrorEventArgs.htm">
         <HelpTOCNode Title="ApiRequestException Property " Url="html/P_Telegram_Bot_Args_ReceiveErrorEventArgs_ApiRequestException.htm" />
       </HelpTOCNode>
       <HelpTOCNode Title="ReceiveErrorEventArgs Methods" Url="html/Methods_T_Telegram_Bot_Args_ReceiveErrorEventArgs.htm" />
-      <HelpTOCNode Id="4748cc09-4ba7-4c58-b366-3722ca4d518a" Title="ReceiveErrorEventArgs Type Conversions" Url="html/Operators_T_Telegram_Bot_Args_ReceiveErrorEventArgs.htm">
+      <HelpTOCNode Id="59aff57c-ab63-453a-b278-9ad0730e139f" Title="ReceiveErrorEventArgs Type Conversions" Url="html/Operators_T_Telegram_Bot_Args_ReceiveErrorEventArgs.htm">
         <HelpTOCNode Title="Implicit Conversion (ApiRequestException to ReceiveErrorEventArgs)" Url="html/M_Telegram_Bot_Args_ReceiveErrorEventArgs_op_Implicit.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="2b34b1da-b79b-4918-b28c-eaad5be68040" Title="ReceiveGeneralErrorEventArgs Class" Url="html/T_Telegram_Bot_Args_ReceiveGeneralErrorEventArgs.htm">
-      <HelpTOCNode Id="10fe3565-1bd0-4304-bfd8-db40c61872fc" Title="ReceiveGeneralErrorEventArgs Properties" Url="html/Properties_T_Telegram_Bot_Args_ReceiveGeneralErrorEventArgs.htm">
+    <HelpTOCNode Id="f84d74ed-a9d6-43ea-ac6b-7c2f07e0f3f5" Title="ReceiveGeneralErrorEventArgs Class" Url="html/T_Telegram_Bot_Args_ReceiveGeneralErrorEventArgs.htm">
+      <HelpTOCNode Id="0df1c79f-9050-472d-8102-1b4664f5412a" Title="ReceiveGeneralErrorEventArgs Properties" Url="html/Properties_T_Telegram_Bot_Args_ReceiveGeneralErrorEventArgs.htm">
         <HelpTOCNode Title="Exception Property " Url="html/P_Telegram_Bot_Args_ReceiveGeneralErrorEventArgs_Exception.htm" />
       </HelpTOCNode>
       <HelpTOCNode Title="ReceiveGeneralErrorEventArgs Methods" Url="html/Methods_T_Telegram_Bot_Args_ReceiveGeneralErrorEventArgs.htm" />
-      <HelpTOCNode Id="bb90e912-cbbd-4b3a-8598-9c74e280414f" Title="ReceiveGeneralErrorEventArgs Type Conversions" Url="html/Operators_T_Telegram_Bot_Args_ReceiveGeneralErrorEventArgs.htm">
+      <HelpTOCNode Id="832b2b8f-c93a-46a5-b0d2-d3fcc5ae0c3c" Title="ReceiveGeneralErrorEventArgs Type Conversions" Url="html/Operators_T_Telegram_Bot_Args_ReceiveGeneralErrorEventArgs.htm">
         <HelpTOCNode Title="Implicit Conversion (Exception to ReceiveGeneralErrorEventArgs)" Url="html/M_Telegram_Bot_Args_ReceiveGeneralErrorEventArgs_op_Implicit.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="dfa6b49d-00dc-4a3a-ad37-fa42269f41c4" Title="UpdateEventArgs Class" Url="html/T_Telegram_Bot_Args_UpdateEventArgs.htm">
-      <HelpTOCNode Id="66e9285d-9dde-40de-91ee-2d2e2c43e00b" Title="UpdateEventArgs Properties" Url="html/Properties_T_Telegram_Bot_Args_UpdateEventArgs.htm">
+    <HelpTOCNode Id="f7339d4a-69cd-4ed0-9808-b376ec1c5a3b" Title="UpdateEventArgs Class" Url="html/T_Telegram_Bot_Args_UpdateEventArgs.htm">
+      <HelpTOCNode Id="00f29fa2-1791-426c-80af-f3153da91333" Title="UpdateEventArgs Properties" Url="html/Properties_T_Telegram_Bot_Args_UpdateEventArgs.htm">
         <HelpTOCNode Title="Update Property " Url="html/P_Telegram_Bot_Args_UpdateEventArgs_Update.htm" />
       </HelpTOCNode>
       <HelpTOCNode Title="UpdateEventArgs Methods" Url="html/Methods_T_Telegram_Bot_Args_UpdateEventArgs.htm" />
     </HelpTOCNode>
   </HelpTOCNode>
-  <HelpTOCNode Id="6513ee62-8420-4b6a-8954-72dde264b02c" Title="Telegram.Bot.Exceptions" Url="html/N_Telegram_Bot_Exceptions.htm">
-    <HelpTOCNode Id="fa6ade20-9eb3-4e15-b908-8958b8b210ee" Title="ApiRequestException Class" Url="html/T_Telegram_Bot_Exceptions_ApiRequestException.htm">
-      <HelpTOCNode Id="0347c5bd-b2f2-4347-8d47-00ecbb5692b9" Title="ApiRequestException Constructor " Url="html/Overload_Telegram_Bot_Exceptions_ApiRequestException__ctor.htm">
+  <HelpTOCNode Id="9aaff96a-a0d4-4adc-8dba-25f9ed6005c3" Title="Telegram.Bot.Exceptions" Url="html/N_Telegram_Bot_Exceptions.htm">
+    <HelpTOCNode Id="5890bc09-c251-4eb7-aba4-ebf820beb86a" Title="ApiRequestException Class" Url="html/T_Telegram_Bot_Exceptions_ApiRequestException.htm">
+      <HelpTOCNode Id="2273cc50-c971-485d-9212-7b70a8f143d2" Title="ApiRequestException Constructor " Url="html/Overload_Telegram_Bot_Exceptions_ApiRequestException__ctor.htm">
         <HelpTOCNode Title="ApiRequestException Constructor (String)" Url="html/M_Telegram_Bot_Exceptions_ApiRequestException__ctor.htm" />
         <HelpTOCNode Title="ApiRequestException Constructor (String, Exception)" Url="html/M_Telegram_Bot_Exceptions_ApiRequestException__ctor_1.htm" />
         <HelpTOCNode Title="ApiRequestException Constructor (String, Int32)" Url="html/M_Telegram_Bot_Exceptions_ApiRequestException__ctor_2.htm" />
         <HelpTOCNode Title="ApiRequestException Constructor (String, Int32, Exception)" Url="html/M_Telegram_Bot_Exceptions_ApiRequestException__ctor_3.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="9cc07464-6841-4fb1-8897-3649b8a78e4f" Title="ApiRequestException Properties" Url="html/Properties_T_Telegram_Bot_Exceptions_ApiRequestException.htm">
+      <HelpTOCNode Id="a445f144-3aea-4117-8fc1-341668124356" Title="ApiRequestException Properties" Url="html/Properties_T_Telegram_Bot_Exceptions_ApiRequestException.htm">
         <HelpTOCNode Title="ErrorCode Property " Url="html/P_Telegram_Bot_Exceptions_ApiRequestException_ErrorCode.htm" />
       </HelpTOCNode>
       <HelpTOCNode Title="ApiRequestException Methods" Url="html/Methods_T_Telegram_Bot_Exceptions_ApiRequestException.htm" />
       <HelpTOCNode Title="ApiRequestException Events" Url="html/Events_T_Telegram_Bot_Exceptions_ApiRequestException.htm" />
     </HelpTOCNode>
   </HelpTOCNode>
-  <HelpTOCNode Id="13227851-cff3-471a-84fa-f7b108360161" Title="Telegram.Bot.Types" Url="html/N_Telegram_Bot_Types.htm">
-    <HelpTOCNode Id="aa03fc1e-e4fc-4521-b584-906c07546f43" Title="Animation Class" Url="html/T_Telegram_Bot_Types_Animation.htm">
+  <HelpTOCNode Id="65c4e2cd-4cbe-4f40-992f-d11ba230db74" Title="Telegram.Bot.Types" Url="html/N_Telegram_Bot_Types.htm">
+    <HelpTOCNode Id="997c6620-c33d-462a-9f33-9f78727ade2a" Title="Animation Class" Url="html/T_Telegram_Bot_Types_Animation.htm">
       <HelpTOCNode Title="Animation Constructor " Url="html/M_Telegram_Bot_Types_Animation__ctor.htm" />
-      <HelpTOCNode Id="b37c080d-79dc-46cd-b1ef-40ce32d7362d" Title="Animation Properties" Url="html/Properties_T_Telegram_Bot_Types_Animation.htm">
+      <HelpTOCNode Id="b592489e-77e6-4966-85ce-1cf6359ae34b" Title="Animation Properties" Url="html/Properties_T_Telegram_Bot_Types_Animation.htm">
         <HelpTOCNode Title="FileId Property " Url="html/P_Telegram_Bot_Types_Animation_FileId.htm" />
         <HelpTOCNode Title="FileName Property " Url="html/P_Telegram_Bot_Types_Animation_FileName.htm" />
         <HelpTOCNode Title="FileSize Property " Url="html/P_Telegram_Bot_Types_Animation_FileSize.htm" />
@@ -528,9 +408,9 @@
       </HelpTOCNode>
       <HelpTOCNode Title="Animation Methods" Url="html/Methods_T_Telegram_Bot_Types_Animation.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="7611752e-bbee-47e4-b4a1-5d8b97bc1a81" Title="ApiResponse(T) Class" Url="html/T_Telegram_Bot_Types_ApiResponse_1.htm">
+    <HelpTOCNode Id="f1183c56-3e18-4072-9e16-84df84494516" Title="ApiResponse(T) Class" Url="html/T_Telegram_Bot_Types_ApiResponse_1.htm">
       <HelpTOCNode Title="ApiResponse(T) Constructor " Url="html/M_Telegram_Bot_Types_ApiResponse_1__ctor.htm" />
-      <HelpTOCNode Id="753cc563-faaf-4d0b-9722-10110b8f6265" Title="ApiResponse(T) Properties" Url="html/Properties_T_Telegram_Bot_Types_ApiResponse_1.htm">
+      <HelpTOCNode Id="461fe853-d761-4f42-8d14-ad0276d1c540" Title="ApiResponse(T) Properties" Url="html/Properties_T_Telegram_Bot_Types_ApiResponse_1.htm">
         <HelpTOCNode Title="Code Property " Url="html/P_Telegram_Bot_Types_ApiResponse_1_Code.htm" />
         <HelpTOCNode Title="Message Property " Url="html/P_Telegram_Bot_Types_ApiResponse_1_Message.htm" />
         <HelpTOCNode Title="Ok Property " Url="html/P_Telegram_Bot_Types_ApiResponse_1_Ok.htm" />
@@ -538,9 +418,9 @@
       </HelpTOCNode>
       <HelpTOCNode Title="ApiResponse(T) Methods" Url="html/Methods_T_Telegram_Bot_Types_ApiResponse_1.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="99a09024-91c6-4032-87b1-bc134ef87b0e" Title="Audio Class" Url="html/T_Telegram_Bot_Types_Audio.htm">
+    <HelpTOCNode Id="299d8188-5928-4910-ba18-386a3462975e" Title="Audio Class" Url="html/T_Telegram_Bot_Types_Audio.htm">
       <HelpTOCNode Title="Audio Constructor " Url="html/M_Telegram_Bot_Types_Audio__ctor.htm" />
-      <HelpTOCNode Id="3ac27aa5-1406-419d-9c5d-405f87efcc17" Title="Audio Properties" Url="html/Properties_T_Telegram_Bot_Types_Audio.htm">
+      <HelpTOCNode Id="9b7ea45e-0acc-402f-98fe-6fa6f9c3cd84" Title="Audio Properties" Url="html/Properties_T_Telegram_Bot_Types_Audio.htm">
         <HelpTOCNode Title="Duration Property " Url="html/P_Telegram_Bot_Types_Audio_Duration.htm" />
         <HelpTOCNode Title="MimeType Property " Url="html/P_Telegram_Bot_Types_Audio_MimeType.htm" />
         <HelpTOCNode Title="Performer Property " Url="html/P_Telegram_Bot_Types_Audio_Performer.htm" />
@@ -548,13 +428,13 @@
       </HelpTOCNode>
       <HelpTOCNode Title="Audio Methods" Url="html/Methods_T_Telegram_Bot_Types_Audio.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="9ee8e58d-e57f-4ec0-ad72-c0c2c9bd266c" Title="CallbackGame Class" Url="html/T_Telegram_Bot_Types_CallbackGame.htm">
+    <HelpTOCNode Id="57f344f8-82c2-40b7-bfc2-6d82e8c51897" Title="CallbackGame Class" Url="html/T_Telegram_Bot_Types_CallbackGame.htm">
       <HelpTOCNode Title="CallbackGame Constructor " Url="html/M_Telegram_Bot_Types_CallbackGame__ctor.htm" />
       <HelpTOCNode Title="CallbackGame Methods" Url="html/Methods_T_Telegram_Bot_Types_CallbackGame.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="3b4ee77c-5921-4061-b2b5-e3ec60c9dca1" Title="CallbackQuery Class" Url="html/T_Telegram_Bot_Types_CallbackQuery.htm">
+    <HelpTOCNode Id="c1e5d69f-e6f5-413d-a32c-49fce78f6444" Title="CallbackQuery Class" Url="html/T_Telegram_Bot_Types_CallbackQuery.htm">
       <HelpTOCNode Title="CallbackQuery Constructor " Url="html/M_Telegram_Bot_Types_CallbackQuery__ctor.htm" />
-      <HelpTOCNode Id="cae18fa8-2b95-4123-a31b-785702da30f0" Title="CallbackQuery Properties" Url="html/Properties_T_Telegram_Bot_Types_CallbackQuery.htm">
+      <HelpTOCNode Id="dd535244-b69e-428f-b638-d1a5cd7790b3" Title="CallbackQuery Properties" Url="html/Properties_T_Telegram_Bot_Types_CallbackQuery.htm">
         <HelpTOCNode Title="ChatInstance Property " Url="html/P_Telegram_Bot_Types_CallbackQuery_ChatInstance.htm" />
         <HelpTOCNode Title="Data Property " Url="html/P_Telegram_Bot_Types_CallbackQuery_Data.htm" />
         <HelpTOCNode Title="From Property " Url="html/P_Telegram_Bot_Types_CallbackQuery_From.htm" />
@@ -565,9 +445,9 @@
       </HelpTOCNode>
       <HelpTOCNode Title="CallbackQuery Methods" Url="html/Methods_T_Telegram_Bot_Types_CallbackQuery.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="782687c3-b33b-4c61-a6e2-65e1d6781b6f" Title="Chat Class" Url="html/T_Telegram_Bot_Types_Chat.htm">
+    <HelpTOCNode Id="e9049d2c-cc0b-411c-93c3-5e202061d150" Title="Chat Class" Url="html/T_Telegram_Bot_Types_Chat.htm">
       <HelpTOCNode Title="Chat Constructor " Url="html/M_Telegram_Bot_Types_Chat__ctor.htm" />
-      <HelpTOCNode Id="f13ad2fc-a62a-4be5-bdec-a72b6ea6ce88" Title="Chat Properties" Url="html/Properties_T_Telegram_Bot_Types_Chat.htm">
+      <HelpTOCNode Id="3ced4cfa-bfb9-4c8f-b0f4-d995251d07dd" Title="Chat Properties" Url="html/Properties_T_Telegram_Bot_Types_Chat.htm">
         <HelpTOCNode Title="FirstName Property " Url="html/P_Telegram_Bot_Types_Chat_FirstName.htm" />
         <HelpTOCNode Title="Id Property " Url="html/P_Telegram_Bot_Types_Chat_Id.htm" />
         <HelpTOCNode Title="LastName Property " Url="html/P_Telegram_Bot_Types_Chat_LastName.htm" />
@@ -577,17 +457,17 @@
       </HelpTOCNode>
       <HelpTOCNode Title="Chat Methods" Url="html/Methods_T_Telegram_Bot_Types_Chat.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="e4bbc147-9ff9-48b5-9d36-341f9a365f64" Title="ChatMember Class" Url="html/T_Telegram_Bot_Types_ChatMember.htm">
+    <HelpTOCNode Id="ea56bade-217d-414c-8144-f2753b9803e2" Title="ChatMember Class" Url="html/T_Telegram_Bot_Types_ChatMember.htm">
       <HelpTOCNode Title="ChatMember Constructor " Url="html/M_Telegram_Bot_Types_ChatMember__ctor.htm" />
-      <HelpTOCNode Id="9d62e619-e02d-411a-81b3-5c3866cfb552" Title="ChatMember Properties" Url="html/Properties_T_Telegram_Bot_Types_ChatMember.htm">
+      <HelpTOCNode Id="fed5d225-ae95-4e26-90ad-88879c08fe3b" Title="ChatMember Properties" Url="html/Properties_T_Telegram_Bot_Types_ChatMember.htm">
         <HelpTOCNode Title="Status Property " Url="html/P_Telegram_Bot_Types_ChatMember_Status.htm" />
         <HelpTOCNode Title="User Property " Url="html/P_Telegram_Bot_Types_ChatMember_User.htm" />
       </HelpTOCNode>
       <HelpTOCNode Title="ChatMember Methods" Url="html/Methods_T_Telegram_Bot_Types_ChatMember.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="93dd6187-bf9a-4a70-a4af-cab35d6869bf" Title="ChosenInlineResult Class" Url="html/T_Telegram_Bot_Types_ChosenInlineResult.htm">
+    <HelpTOCNode Id="97e1ad8f-a13f-4cf1-8820-7bd9e052ba68" Title="ChosenInlineResult Class" Url="html/T_Telegram_Bot_Types_ChosenInlineResult.htm">
       <HelpTOCNode Title="ChosenInlineResult Constructor " Url="html/M_Telegram_Bot_Types_ChosenInlineResult__ctor.htm" />
-      <HelpTOCNode Id="8fd155d1-1bb9-4728-993f-ccc3f4f9c8a9" Title="ChosenInlineResult Properties" Url="html/Properties_T_Telegram_Bot_Types_ChosenInlineResult.htm">
+      <HelpTOCNode Id="2c6532e8-d119-4037-a60b-96e8b2597b8e" Title="ChosenInlineResult Properties" Url="html/Properties_T_Telegram_Bot_Types_ChosenInlineResult.htm">
         <HelpTOCNode Title="From Property " Url="html/P_Telegram_Bot_Types_ChosenInlineResult_From.htm" />
         <HelpTOCNode Title="InlineMessageId Property " Url="html/P_Telegram_Bot_Types_ChosenInlineResult_InlineMessageId.htm" />
         <HelpTOCNode Title="Location Property " Url="html/P_Telegram_Bot_Types_ChosenInlineResult_Location.htm" />
@@ -596,9 +476,9 @@
       </HelpTOCNode>
       <HelpTOCNode Title="ChosenInlineResult Methods" Url="html/Methods_T_Telegram_Bot_Types_ChosenInlineResult.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="3bc09b83-31da-49ff-a029-c6b6db15d308" Title="Contact Class" Url="html/T_Telegram_Bot_Types_Contact.htm">
+    <HelpTOCNode Id="9f32139c-8c11-4380-8d1c-080d4b1008f1" Title="Contact Class" Url="html/T_Telegram_Bot_Types_Contact.htm">
       <HelpTOCNode Title="Contact Constructor " Url="html/M_Telegram_Bot_Types_Contact__ctor.htm" />
-      <HelpTOCNode Id="21ff0b08-14cc-4d7a-a5bb-d522de46b1d5" Title="Contact Properties" Url="html/Properties_T_Telegram_Bot_Types_Contact.htm">
+      <HelpTOCNode Id="e8756ea7-a55f-4a4c-864e-d54cc4e4619a" Title="Contact Properties" Url="html/Properties_T_Telegram_Bot_Types_Contact.htm">
         <HelpTOCNode Title="FirstName Property " Url="html/P_Telegram_Bot_Types_Contact_FirstName.htm" />
         <HelpTOCNode Title="LastName Property " Url="html/P_Telegram_Bot_Types_Contact_LastName.htm" />
         <HelpTOCNode Title="PhoneNumber Property " Url="html/P_Telegram_Bot_Types_Contact_PhoneNumber.htm" />
@@ -606,18 +486,18 @@
       </HelpTOCNode>
       <HelpTOCNode Title="Contact Methods" Url="html/Methods_T_Telegram_Bot_Types_Contact.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="50e8381e-a81a-49d0-94c6-c57b1e15217a" Title="Document Class" Url="html/T_Telegram_Bot_Types_Document.htm">
+    <HelpTOCNode Id="0dd5385d-4515-40db-a37d-b3ba2681e3ed" Title="Document Class" Url="html/T_Telegram_Bot_Types_Document.htm">
       <HelpTOCNode Title="Document Constructor " Url="html/M_Telegram_Bot_Types_Document__ctor.htm" />
-      <HelpTOCNode Id="21828731-7d3f-44bf-b176-629685650aa6" Title="Document Properties" Url="html/Properties_T_Telegram_Bot_Types_Document.htm">
+      <HelpTOCNode Id="708d856b-7693-4cee-8a5e-4f813de1170b" Title="Document Properties" Url="html/Properties_T_Telegram_Bot_Types_Document.htm">
         <HelpTOCNode Title="FileName Property " Url="html/P_Telegram_Bot_Types_Document_FileName.htm" />
         <HelpTOCNode Title="MimeType Property " Url="html/P_Telegram_Bot_Types_Document_MimeType.htm" />
         <HelpTOCNode Title="Thumb Property " Url="html/P_Telegram_Bot_Types_Document_Thumb.htm" />
       </HelpTOCNode>
       <HelpTOCNode Title="Document Methods" Url="html/Methods_T_Telegram_Bot_Types_Document.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="e734a6d5-032c-4e75-a42d-bc7c64c4f2f2" Title="File Class" Url="html/T_Telegram_Bot_Types_File.htm">
+    <HelpTOCNode Id="cb478de2-7738-42ea-a35c-ef64df3dee5b" Title="File Class" Url="html/T_Telegram_Bot_Types_File.htm">
       <HelpTOCNode Title="File Constructor " Url="html/M_Telegram_Bot_Types_File__ctor.htm" />
-      <HelpTOCNode Id="bc2a2224-d01e-4663-b123-6afe7a86509f" Title="File Properties" Url="html/Properties_T_Telegram_Bot_Types_File.htm">
+      <HelpTOCNode Id="d49a6886-7939-4dcd-ab91-7a7a60f8fe5a" Title="File Properties" Url="html/Properties_T_Telegram_Bot_Types_File.htm">
         <HelpTOCNode Title="FileId Property " Url="html/P_Telegram_Bot_Types_File_FileId.htm" />
         <HelpTOCNode Title="FilePath Property " Url="html/P_Telegram_Bot_Types_File_FilePath.htm" />
         <HelpTOCNode Title="FileSize Property " Url="html/P_Telegram_Bot_Types_File_FileSize.htm" />
@@ -625,17 +505,17 @@
       </HelpTOCNode>
       <HelpTOCNode Title="File Methods" Url="html/Methods_T_Telegram_Bot_Types_File.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="de66cb62-b2d8-4074-bc59-d88ec6f0f088" Title="FileToSend Structure" Url="html/T_Telegram_Bot_Types_FileToSend.htm">
+    <HelpTOCNode Id="4f9257d6-3376-4aaf-ba74-4a9f070976d2" Title="FileToSend Structure" Url="html/T_Telegram_Bot_Types_FileToSend.htm">
       <HelpTOCNode Title="FileToSend Constructor " Url="html/M_Telegram_Bot_Types_FileToSend__ctor.htm" />
-      <HelpTOCNode Id="842137e9-bb90-48a4-a713-df715f74685e" Title="FileToSend Properties" Url="html/Properties_T_Telegram_Bot_Types_FileToSend.htm">
+      <HelpTOCNode Id="b17cf047-5744-4fc3-87ab-9300f3167454" Title="FileToSend Properties" Url="html/Properties_T_Telegram_Bot_Types_FileToSend.htm">
         <HelpTOCNode Title="Content Property " Url="html/P_Telegram_Bot_Types_FileToSend_Content.htm" />
         <HelpTOCNode Title="Filename Property " Url="html/P_Telegram_Bot_Types_FileToSend_Filename.htm" />
       </HelpTOCNode>
       <HelpTOCNode Title="FileToSend Methods" Url="html/Methods_T_Telegram_Bot_Types_FileToSend.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="c282aa96-6879-4b03-9f3e-4ff0a43f7c2b" Title="Game Class" Url="html/T_Telegram_Bot_Types_Game.htm">
+    <HelpTOCNode Id="44628eb2-c8a8-495c-9d17-cf739718714a" Title="Game Class" Url="html/T_Telegram_Bot_Types_Game.htm">
       <HelpTOCNode Title="Game Constructor " Url="html/M_Telegram_Bot_Types_Game__ctor.htm" />
-      <HelpTOCNode Id="08474739-c2f4-48e9-b6ef-ef7f57789729" Title="Game Properties" Url="html/Properties_T_Telegram_Bot_Types_Game.htm">
+      <HelpTOCNode Id="a63da249-3348-42f4-a705-78432d5c0462" Title="Game Properties" Url="html/Properties_T_Telegram_Bot_Types_Game.htm">
         <HelpTOCNode Title="Animation Property " Url="html/P_Telegram_Bot_Types_Game_Animation.htm" />
         <HelpTOCNode Title="Description Property " Url="html/P_Telegram_Bot_Types_Game_Description.htm" />
         <HelpTOCNode Title="Photo Property " Url="html/P_Telegram_Bot_Types_Game_Photo.htm" />
@@ -645,21 +525,21 @@
       </HelpTOCNode>
       <HelpTOCNode Title="Game Methods" Url="html/Methods_T_Telegram_Bot_Types_Game.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="08d32acb-9688-48fa-a1ef-d1db5f0d947d" Title="GameHighScore Class" Url="html/T_Telegram_Bot_Types_GameHighScore.htm">
+    <HelpTOCNode Id="b413a562-5c0f-4c52-b5dc-ed3b4f97c11d" Title="GameHighScore Class" Url="html/T_Telegram_Bot_Types_GameHighScore.htm">
       <HelpTOCNode Title="GameHighScore Constructor " Url="html/M_Telegram_Bot_Types_GameHighScore__ctor.htm" />
-      <HelpTOCNode Id="f20f55e8-ea0e-44ea-b84b-6f93b6ddf782" Title="GameHighScore Properties" Url="html/Properties_T_Telegram_Bot_Types_GameHighScore.htm">
+      <HelpTOCNode Id="838279f3-912e-4ca1-8612-de7928ed2538" Title="GameHighScore Properties" Url="html/Properties_T_Telegram_Bot_Types_GameHighScore.htm">
         <HelpTOCNode Title="Position Property " Url="html/P_Telegram_Bot_Types_GameHighScore_Position.htm" />
         <HelpTOCNode Title="Score Property " Url="html/P_Telegram_Bot_Types_GameHighScore_Score.htm" />
         <HelpTOCNode Title="User Property " Url="html/P_Telegram_Bot_Types_GameHighScore_User.htm" />
       </HelpTOCNode>
       <HelpTOCNode Title="GameHighScore Methods" Url="html/Methods_T_Telegram_Bot_Types_GameHighScore.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="27402a94-7b45-4546-bc35-02342e7de7bb" Title="InlineKeyboardButton Class" Url="html/T_Telegram_Bot_Types_InlineKeyboardButton.htm">
-      <HelpTOCNode Id="15bd1e04-23e7-4873-801d-cca1ae9f7dc6" Title="InlineKeyboardButton Constructor " Url="html/Overload_Telegram_Bot_Types_InlineKeyboardButton__ctor.htm">
+    <HelpTOCNode Id="5d666250-ca32-42a7-96c3-3c8cbae919ba" Title="InlineKeyboardButton Class" Url="html/T_Telegram_Bot_Types_InlineKeyboardButton.htm">
+      <HelpTOCNode Id="d5b940e7-49fd-4276-bc11-e220abab31fd" Title="InlineKeyboardButton Constructor " Url="html/Overload_Telegram_Bot_Types_InlineKeyboardButton__ctor.htm">
         <HelpTOCNode Title="InlineKeyboardButton Constructor " Url="html/M_Telegram_Bot_Types_InlineKeyboardButton__ctor.htm" />
         <HelpTOCNode Title="InlineKeyboardButton Constructor (String, String)" Url="html/M_Telegram_Bot_Types_InlineKeyboardButton__ctor_1.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="1bc9ca21-29ad-4c05-ab19-12a98e3a5bd2" Title="InlineKeyboardButton Properties" Url="html/Properties_T_Telegram_Bot_Types_InlineKeyboardButton.htm">
+      <HelpTOCNode Id="aaf02cef-be35-433b-ad7a-0960f925a39e" Title="InlineKeyboardButton Properties" Url="html/Properties_T_Telegram_Bot_Types_InlineKeyboardButton.htm">
         <HelpTOCNode Title="CallbackData Property " Url="html/P_Telegram_Bot_Types_InlineKeyboardButton_CallbackData.htm" />
         <HelpTOCNode Title="CallbackGame Property " Url="html/P_Telegram_Bot_Types_InlineKeyboardButton_CallbackGame.htm" />
         <HelpTOCNode Title="SwitchInlineQuery Property " Url="html/P_Telegram_Bot_Types_InlineKeyboardButton_SwitchInlineQuery.htm" />
@@ -667,16 +547,16 @@
         <HelpTOCNode Title="Url Property " Url="html/P_Telegram_Bot_Types_InlineKeyboardButton_Url.htm" />
       </HelpTOCNode>
       <HelpTOCNode Title="InlineKeyboardButton Methods" Url="html/Methods_T_Telegram_Bot_Types_InlineKeyboardButton.htm" />
-      <HelpTOCNode Id="46430722-5a97-4652-a68b-bb9a4415e273" Title="InlineKeyboardButton Type Conversions" Url="html/Operators_T_Telegram_Bot_Types_InlineKeyboardButton.htm">
-        <HelpTOCNode Id="b2881b92-bb9d-4478-8b4e-95cd9d8503b0" Title="Implicit Conversion Operators" Url="html/Overload_Telegram_Bot_Types_InlineKeyboardButton_op_Implicit.htm">
+      <HelpTOCNode Id="5e54d1b2-0e67-4f14-96df-bb952309fc31" Title="InlineKeyboardButton Type Conversions" Url="html/Operators_T_Telegram_Bot_Types_InlineKeyboardButton.htm">
+        <HelpTOCNode Id="7fed658c-4b35-4b9c-8b9a-bfd1ea887f17" Title="Implicit Conversion Operators" Url="html/Overload_Telegram_Bot_Types_InlineKeyboardButton_op_Implicit.htm">
           <HelpTOCNode Title="Implicit Conversion (String to InlineKeyboardButton)" Url="html/M_Telegram_Bot_Types_InlineKeyboardButton_op_Implicit.htm" />
           <HelpTOCNode Title="Implicit Conversion (KeyboardButton to InlineKeyboardButton)" Url="html/M_Telegram_Bot_Types_InlineKeyboardButton_op_Implicit_1.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="07c3cdcd-8c07-406b-b2d8-5b22e0b5168d" Title="InlineQuery Class" Url="html/T_Telegram_Bot_Types_InlineQuery.htm">
+    <HelpTOCNode Id="c7ecd305-f349-4100-a165-16ba0856c138" Title="InlineQuery Class" Url="html/T_Telegram_Bot_Types_InlineQuery.htm">
       <HelpTOCNode Title="InlineQuery Constructor " Url="html/M_Telegram_Bot_Types_InlineQuery__ctor.htm" />
-      <HelpTOCNode Id="a259b6b0-1177-4f46-8563-4f4ccc78af18" Title="InlineQuery Properties" Url="html/Properties_T_Telegram_Bot_Types_InlineQuery.htm">
+      <HelpTOCNode Id="a29d891d-4b05-485d-8f21-328f6bb40bc7" Title="InlineQuery Properties" Url="html/Properties_T_Telegram_Bot_Types_InlineQuery.htm">
         <HelpTOCNode Title="From Property " Url="html/P_Telegram_Bot_Types_InlineQuery_From.htm" />
         <HelpTOCNode Title="Id Property " Url="html/P_Telegram_Bot_Types_InlineQuery_Id.htm" />
         <HelpTOCNode Title="Location Property " Url="html/P_Telegram_Bot_Types_InlineQuery_Location.htm" />
@@ -685,35 +565,35 @@
       </HelpTOCNode>
       <HelpTOCNode Title="InlineQuery Methods" Url="html/Methods_T_Telegram_Bot_Types_InlineQuery.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="8dedfe7b-ad80-45d8-930e-a21d6cb45c7f" Title="KeyboardButton Class" Url="html/T_Telegram_Bot_Types_KeyboardButton.htm">
-      <HelpTOCNode Id="8c5aa15d-245a-4994-a4ee-60498d76c13a" Title="KeyboardButton Constructor " Url="html/Overload_Telegram_Bot_Types_KeyboardButton__ctor.htm">
+    <HelpTOCNode Id="fb4ac31c-5317-45b3-888e-1162d801295a" Title="KeyboardButton Class" Url="html/T_Telegram_Bot_Types_KeyboardButton.htm">
+      <HelpTOCNode Id="28fbb8f1-b8b2-4343-869a-4e67bdd43bad" Title="KeyboardButton Constructor " Url="html/Overload_Telegram_Bot_Types_KeyboardButton__ctor.htm">
         <HelpTOCNode Title="KeyboardButton Constructor " Url="html/M_Telegram_Bot_Types_KeyboardButton__ctor.htm" />
         <HelpTOCNode Title="KeyboardButton Constructor (String)" Url="html/M_Telegram_Bot_Types_KeyboardButton__ctor_1.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="fb30b72b-5261-47db-8ade-022a7ace017f" Title="KeyboardButton Properties" Url="html/Properties_T_Telegram_Bot_Types_KeyboardButton.htm">
+      <HelpTOCNode Id="779c0dda-185e-46c2-9731-64026f7e09a3" Title="KeyboardButton Properties" Url="html/Properties_T_Telegram_Bot_Types_KeyboardButton.htm">
         <HelpTOCNode Title="RequestContact Property " Url="html/P_Telegram_Bot_Types_KeyboardButton_RequestContact.htm" />
         <HelpTOCNode Title="RequestLocation Property " Url="html/P_Telegram_Bot_Types_KeyboardButton_RequestLocation.htm" />
         <HelpTOCNode Title="Text Property " Url="html/P_Telegram_Bot_Types_KeyboardButton_Text.htm" />
       </HelpTOCNode>
       <HelpTOCNode Title="KeyboardButton Methods" Url="html/Methods_T_Telegram_Bot_Types_KeyboardButton.htm" />
-      <HelpTOCNode Id="a5df6adb-652e-4f67-a201-c31bea1f99b2" Title="KeyboardButton Type Conversions" Url="html/Operators_T_Telegram_Bot_Types_KeyboardButton.htm">
-        <HelpTOCNode Id="d9e7a3d8-8f68-439a-95fd-b88a43b36e2c" Title="Implicit Conversion Operators" Url="html/Overload_Telegram_Bot_Types_KeyboardButton_op_Implicit.htm">
+      <HelpTOCNode Id="a3fc7031-e24f-4db3-a6e1-c2966fd63f62" Title="KeyboardButton Type Conversions" Url="html/Operators_T_Telegram_Bot_Types_KeyboardButton.htm">
+        <HelpTOCNode Id="6813b570-1322-4f6f-b4cb-416c3f6e047b" Title="Implicit Conversion Operators" Url="html/Overload_Telegram_Bot_Types_KeyboardButton_op_Implicit.htm">
           <HelpTOCNode Title="Implicit Conversion (String to KeyboardButton)" Url="html/M_Telegram_Bot_Types_KeyboardButton_op_Implicit.htm" />
           <HelpTOCNode Title="Implicit Conversion (InlineKeyboardButton to KeyboardButton)" Url="html/M_Telegram_Bot_Types_KeyboardButton_op_Implicit_1.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="c771b1cf-6082-4bc8-b6ae-555f2cb33463" Title="Location Class" Url="html/T_Telegram_Bot_Types_Location.htm">
+    <HelpTOCNode Id="84fc264a-558b-42b5-80cb-68ee494c648e" Title="Location Class" Url="html/T_Telegram_Bot_Types_Location.htm">
       <HelpTOCNode Title="Location Constructor " Url="html/M_Telegram_Bot_Types_Location__ctor.htm" />
-      <HelpTOCNode Id="4a8de9ed-fe97-4975-8cf5-a9987dce626d" Title="Location Properties" Url="html/Properties_T_Telegram_Bot_Types_Location.htm">
+      <HelpTOCNode Id="05c4a736-2bbb-450d-8a8f-4963e8eed343" Title="Location Properties" Url="html/Properties_T_Telegram_Bot_Types_Location.htm">
         <HelpTOCNode Title="Latitude Property " Url="html/P_Telegram_Bot_Types_Location_Latitude.htm" />
         <HelpTOCNode Title="Longitude Property " Url="html/P_Telegram_Bot_Types_Location_Longitude.htm" />
       </HelpTOCNode>
       <HelpTOCNode Title="Location Methods" Url="html/Methods_T_Telegram_Bot_Types_Location.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="6f380641-ca36-4c06-b381-f31ca867e46e" Title="Message Class" Url="html/T_Telegram_Bot_Types_Message.htm">
+    <HelpTOCNode Id="3fd2f49e-8b26-4472-9710-c0df17f0063b" Title="Message Class" Url="html/T_Telegram_Bot_Types_Message.htm">
       <HelpTOCNode Title="Message Constructor " Url="html/M_Telegram_Bot_Types_Message__ctor.htm" />
-      <HelpTOCNode Id="a0cd876b-39a1-4e21-a097-07fa32850c53" Title="Message Properties" Url="html/Properties_T_Telegram_Bot_Types_Message.htm">
+      <HelpTOCNode Id="e2f5af58-d641-4152-a1d3-39ee73a5ba70" Title="Message Properties" Url="html/Properties_T_Telegram_Bot_Types_Message.htm">
         <HelpTOCNode Title="Audio Property " Url="html/P_Telegram_Bot_Types_Message_Audio.htm" />
         <HelpTOCNode Title="Caption Property " Url="html/P_Telegram_Bot_Types_Message_Caption.htm" />
         <HelpTOCNode Title="ChannelChatCreated Property " Url="html/P_Telegram_Bot_Types_Message_ChannelChatCreated.htm" />
@@ -752,9 +632,9 @@
       </HelpTOCNode>
       <HelpTOCNode Title="Message Methods" Url="html/Methods_T_Telegram_Bot_Types_Message.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="b8f0de2e-8d83-4f13-99f5-736463776993" Title="MessageEntity Class" Url="html/T_Telegram_Bot_Types_MessageEntity.htm">
+    <HelpTOCNode Id="f0bd3310-3ce6-4f19-956e-78de37db9818" Title="MessageEntity Class" Url="html/T_Telegram_Bot_Types_MessageEntity.htm">
       <HelpTOCNode Title="MessageEntity Constructor " Url="html/M_Telegram_Bot_Types_MessageEntity__ctor.htm" />
-      <HelpTOCNode Id="33bc1236-b24c-452d-aa24-4c2c39b60d19" Title="MessageEntity Properties" Url="html/Properties_T_Telegram_Bot_Types_MessageEntity.htm">
+      <HelpTOCNode Id="f92e2b79-61e2-44f2-a7d1-028877af63d3" Title="MessageEntity Properties" Url="html/Properties_T_Telegram_Bot_Types_MessageEntity.htm">
         <HelpTOCNode Title="Length Property " Url="html/P_Telegram_Bot_Types_MessageEntity_Length.htm" />
         <HelpTOCNode Title="Offset Property " Url="html/P_Telegram_Bot_Types_MessageEntity_Offset.htm" />
         <HelpTOCNode Title="Type Property " Url="html/P_Telegram_Bot_Types_MessageEntity_Type.htm" />
@@ -763,17 +643,17 @@
       </HelpTOCNode>
       <HelpTOCNode Title="MessageEntity Methods" Url="html/Methods_T_Telegram_Bot_Types_MessageEntity.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="ec9b30de-1f9b-46b0-9cad-961b751b494c" Title="PhotoSize Class" Url="html/T_Telegram_Bot_Types_PhotoSize.htm">
+    <HelpTOCNode Id="b364d508-c5ac-4172-8b90-1ae0dcd00715" Title="PhotoSize Class" Url="html/T_Telegram_Bot_Types_PhotoSize.htm">
       <HelpTOCNode Title="PhotoSize Constructor " Url="html/M_Telegram_Bot_Types_PhotoSize__ctor.htm" />
-      <HelpTOCNode Id="a46bc18e-e86b-4ddf-9afb-ba20b525d453" Title="PhotoSize Properties" Url="html/Properties_T_Telegram_Bot_Types_PhotoSize.htm">
+      <HelpTOCNode Id="47b14827-7b10-43e8-9cb4-be02bc58b86a" Title="PhotoSize Properties" Url="html/Properties_T_Telegram_Bot_Types_PhotoSize.htm">
         <HelpTOCNode Title="Height Property " Url="html/P_Telegram_Bot_Types_PhotoSize_Height.htm" />
         <HelpTOCNode Title="Width Property " Url="html/P_Telegram_Bot_Types_PhotoSize_Width.htm" />
       </HelpTOCNode>
       <HelpTOCNode Title="PhotoSize Methods" Url="html/Methods_T_Telegram_Bot_Types_PhotoSize.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="4dcaea2f-afdc-4d0a-95c4-b859ceaa6c3e" Title="Sticker Class" Url="html/T_Telegram_Bot_Types_Sticker.htm">
+    <HelpTOCNode Id="5d4f018d-3f76-45df-834c-308134e79651" Title="Sticker Class" Url="html/T_Telegram_Bot_Types_Sticker.htm">
       <HelpTOCNode Title="Sticker Constructor " Url="html/M_Telegram_Bot_Types_Sticker__ctor.htm" />
-      <HelpTOCNode Id="f2bb22f3-eafb-4914-81a4-a703e96b7c4e" Title="Sticker Properties" Url="html/Properties_T_Telegram_Bot_Types_Sticker.htm">
+      <HelpTOCNode Id="9f7d5eb5-f292-4c0e-b0e3-b26be4e2ac6e" Title="Sticker Properties" Url="html/Properties_T_Telegram_Bot_Types_Sticker.htm">
         <HelpTOCNode Title="Emoji Property " Url="html/P_Telegram_Bot_Types_Sticker_Emoji.htm" />
         <HelpTOCNode Title="Height Property " Url="html/P_Telegram_Bot_Types_Sticker_Height.htm" />
         <HelpTOCNode Title="Thumb Property " Url="html/P_Telegram_Bot_Types_Sticker_Thumb.htm" />
@@ -781,9 +661,9 @@
       </HelpTOCNode>
       <HelpTOCNode Title="Sticker Methods" Url="html/Methods_T_Telegram_Bot_Types_Sticker.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="c7f249ce-5aef-4d5b-a35d-0dbaf2227568" Title="Update Class" Url="html/T_Telegram_Bot_Types_Update.htm">
+    <HelpTOCNode Id="7250161b-66fa-491a-9222-33e7c0868d68" Title="Update Class" Url="html/T_Telegram_Bot_Types_Update.htm">
       <HelpTOCNode Title="Update Constructor " Url="html/M_Telegram_Bot_Types_Update__ctor.htm" />
-      <HelpTOCNode Id="95a086a5-bfc7-4e87-8f94-250fc8c93c7b" Title="Update Properties" Url="html/Properties_T_Telegram_Bot_Types_Update.htm">
+      <HelpTOCNode Id="930042ba-066c-4a02-b711-49b7060e442c" Title="Update Properties" Url="html/Properties_T_Telegram_Bot_Types_Update.htm">
         <HelpTOCNode Title="CallbackQuery Property " Url="html/P_Telegram_Bot_Types_Update_CallbackQuery.htm" />
         <HelpTOCNode Title="ChosenInlineResult Property " Url="html/P_Telegram_Bot_Types_Update_ChosenInlineResult.htm" />
         <HelpTOCNode Title="EditedMessage Property " Url="html/P_Telegram_Bot_Types_Update_EditedMessage.htm" />
@@ -792,13 +672,13 @@
         <HelpTOCNode Title="Message Property " Url="html/P_Telegram_Bot_Types_Update_Message.htm" />
         <HelpTOCNode Title="Type Property " Url="html/P_Telegram_Bot_Types_Update_Type.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="cbcd738f-b3ab-40b1-bbee-24ad6b2cb46b" Title="Update Methods" Url="html/Methods_T_Telegram_Bot_Types_Update.htm">
+      <HelpTOCNode Id="010ab9cb-1400-41df-bc58-72d97c4d311d" Title="Update Methods" Url="html/Methods_T_Telegram_Bot_Types_Update.htm">
         <HelpTOCNode Title="FromString Method " Url="html/M_Telegram_Bot_Types_Update_FromString.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="283f9f48-d4af-4092-b9e8-b1006b0cef31" Title="User Class" Url="html/T_Telegram_Bot_Types_User.htm">
+    <HelpTOCNode Id="50972bd9-813a-4b82-b247-8c32f661f607" Title="User Class" Url="html/T_Telegram_Bot_Types_User.htm">
       <HelpTOCNode Title="User Constructor " Url="html/M_Telegram_Bot_Types_User__ctor.htm" />
-      <HelpTOCNode Id="6b45fd0f-90a7-4a0a-aa0d-4d11c03d5190" Title="User Properties" Url="html/Properties_T_Telegram_Bot_Types_User.htm">
+      <HelpTOCNode Id="cb5ada5f-1da9-4890-bcdb-5ba0cacfedbc" Title="User Properties" Url="html/Properties_T_Telegram_Bot_Types_User.htm">
         <HelpTOCNode Title="FirstName Property " Url="html/P_Telegram_Bot_Types_User_FirstName.htm" />
         <HelpTOCNode Title="Id Property " Url="html/P_Telegram_Bot_Types_User_Id.htm" />
         <HelpTOCNode Title="LastName Property " Url="html/P_Telegram_Bot_Types_User_LastName.htm" />
@@ -806,17 +686,17 @@
       </HelpTOCNode>
       <HelpTOCNode Title="User Methods" Url="html/Methods_T_Telegram_Bot_Types_User.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="c01d2d65-8ce4-4496-b171-a9fd5be0664a" Title="UserProfilePhotos Class" Url="html/T_Telegram_Bot_Types_UserProfilePhotos.htm">
+    <HelpTOCNode Id="61974478-04f7-434a-b36d-d4d21c4d3b88" Title="UserProfilePhotos Class" Url="html/T_Telegram_Bot_Types_UserProfilePhotos.htm">
       <HelpTOCNode Title="UserProfilePhotos Constructor " Url="html/M_Telegram_Bot_Types_UserProfilePhotos__ctor.htm" />
-      <HelpTOCNode Id="1ef97c2f-4425-442e-b01a-4a5d99773c06" Title="UserProfilePhotos Properties" Url="html/Properties_T_Telegram_Bot_Types_UserProfilePhotos.htm">
+      <HelpTOCNode Id="c4566e28-f6ad-4fdb-94f3-0e8b879dddf2" Title="UserProfilePhotos Properties" Url="html/Properties_T_Telegram_Bot_Types_UserProfilePhotos.htm">
         <HelpTOCNode Title="Photos Property " Url="html/P_Telegram_Bot_Types_UserProfilePhotos_Photos.htm" />
         <HelpTOCNode Title="TotalCount Property " Url="html/P_Telegram_Bot_Types_UserProfilePhotos_TotalCount.htm" />
       </HelpTOCNode>
       <HelpTOCNode Title="UserProfilePhotos Methods" Url="html/Methods_T_Telegram_Bot_Types_UserProfilePhotos.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="9c2bb58f-f374-4417-a0cb-530f970d393c" Title="Venue Class" Url="html/T_Telegram_Bot_Types_Venue.htm">
+    <HelpTOCNode Id="897d6e71-d2d8-4cac-a32f-90ec76ee7a27" Title="Venue Class" Url="html/T_Telegram_Bot_Types_Venue.htm">
       <HelpTOCNode Title="Venue Constructor " Url="html/M_Telegram_Bot_Types_Venue__ctor.htm" />
-      <HelpTOCNode Id="1b1c127d-6197-430b-a3d7-82554dc622d8" Title="Venue Properties" Url="html/Properties_T_Telegram_Bot_Types_Venue.htm">
+      <HelpTOCNode Id="b6c34fbf-99da-4b60-84a8-fe10ca579afc" Title="Venue Properties" Url="html/Properties_T_Telegram_Bot_Types_Venue.htm">
         <HelpTOCNode Title="Address Property " Url="html/P_Telegram_Bot_Types_Venue_Address.htm" />
         <HelpTOCNode Title="FoursquareId Property " Url="html/P_Telegram_Bot_Types_Venue_FoursquareId.htm" />
         <HelpTOCNode Title="Location Property " Url="html/P_Telegram_Bot_Types_Venue_Location.htm" />
@@ -824,9 +704,9 @@
       </HelpTOCNode>
       <HelpTOCNode Title="Venue Methods" Url="html/Methods_T_Telegram_Bot_Types_Venue.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="91da173d-e974-4d75-90bf-a661a510399e" Title="Video Class" Url="html/T_Telegram_Bot_Types_Video.htm">
+    <HelpTOCNode Id="ffb31dfd-f35d-4d13-a853-c7ca050cf089" Title="Video Class" Url="html/T_Telegram_Bot_Types_Video.htm">
       <HelpTOCNode Title="Video Constructor " Url="html/M_Telegram_Bot_Types_Video__ctor.htm" />
-      <HelpTOCNode Id="538e0d10-f090-44bd-bf3e-735e6d4a6053" Title="Video Properties" Url="html/Properties_T_Telegram_Bot_Types_Video.htm">
+      <HelpTOCNode Id="39a2af19-a363-4eca-8694-cba5f2cf934c" Title="Video Properties" Url="html/Properties_T_Telegram_Bot_Types_Video.htm">
         <HelpTOCNode Title="Duration Property " Url="html/P_Telegram_Bot_Types_Video_Duration.htm" />
         <HelpTOCNode Title="Height Property " Url="html/P_Telegram_Bot_Types_Video_Height.htm" />
         <HelpTOCNode Title="MimeType Property " Url="html/P_Telegram_Bot_Types_Video_MimeType.htm" />
@@ -835,17 +715,17 @@
       </HelpTOCNode>
       <HelpTOCNode Title="Video Methods" Url="html/Methods_T_Telegram_Bot_Types_Video.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="85b553f9-29fc-474f-b900-f168c6145f45" Title="Voice Class" Url="html/T_Telegram_Bot_Types_Voice.htm">
+    <HelpTOCNode Id="b213c110-ff30-4789-98ba-962e1ccd2ec1" Title="Voice Class" Url="html/T_Telegram_Bot_Types_Voice.htm">
       <HelpTOCNode Title="Voice Constructor " Url="html/M_Telegram_Bot_Types_Voice__ctor.htm" />
-      <HelpTOCNode Id="73fd57d5-e5c0-405a-bba1-4a531f70269a" Title="Voice Properties" Url="html/Properties_T_Telegram_Bot_Types_Voice.htm">
+      <HelpTOCNode Id="f0aa492b-854b-4ccc-acf1-89576236ade2" Title="Voice Properties" Url="html/Properties_T_Telegram_Bot_Types_Voice.htm">
         <HelpTOCNode Title="Duration Property " Url="html/P_Telegram_Bot_Types_Voice_Duration.htm" />
         <HelpTOCNode Title="MimeType Property " Url="html/P_Telegram_Bot_Types_Voice_MimeType.htm" />
       </HelpTOCNode>
       <HelpTOCNode Title="Voice Methods" Url="html/Methods_T_Telegram_Bot_Types_Voice.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="2c44dfcd-68ac-4fa1-9fb7-bf34f82ba53d" Title="WebhookInfo Class" Url="html/T_Telegram_Bot_Types_WebhookInfo.htm">
+    <HelpTOCNode Id="268f6a84-afd4-48bd-8461-700856db1f0e" Title="WebhookInfo Class" Url="html/T_Telegram_Bot_Types_WebhookInfo.htm">
       <HelpTOCNode Title="WebhookInfo Constructor " Url="html/M_Telegram_Bot_Types_WebhookInfo__ctor.htm" />
-      <HelpTOCNode Id="76b24e1a-a57f-4458-ae44-7ed831017fa0" Title="WebhookInfo Properties" Url="html/Properties_T_Telegram_Bot_Types_WebhookInfo.htm">
+      <HelpTOCNode Id="e72bcef2-1bed-4b33-b8b6-02372ad0fd5e" Title="WebhookInfo Properties" Url="html/Properties_T_Telegram_Bot_Types_WebhookInfo.htm">
         <HelpTOCNode Title="HasCustomCertificate Property " Url="html/P_Telegram_Bot_Types_WebhookInfo_HasCustomCertificate.htm" />
         <HelpTOCNode Title="LastErrorDate Property " Url="html/P_Telegram_Bot_Types_WebhookInfo_LastErrorDate.htm" />
         <HelpTOCNode Title="LastErrorMessage Property " Url="html/P_Telegram_Bot_Types_WebhookInfo_LastErrorMessage.htm" />
@@ -855,7 +735,7 @@
       <HelpTOCNode Title="WebhookInfo Methods" Url="html/Methods_T_Telegram_Bot_Types_WebhookInfo.htm" />
     </HelpTOCNode>
   </HelpTOCNode>
-  <HelpTOCNode Id="4a7b26b4-6b9b-4333-977a-bba5b35047f3" Title="Telegram.Bot.Types.Enums" Url="html/N_Telegram_Bot_Types_Enums.htm">
+  <HelpTOCNode Id="77d6615a-2e56-4ded-b09d-c36b395830a8" Title="Telegram.Bot.Types.Enums" Url="html/N_Telegram_Bot_Types_Enums.htm">
     <HelpTOCNode Title="ChatAction Enumeration" Url="html/T_Telegram_Bot_Types_Enums_ChatAction.htm" />
     <HelpTOCNode Title="ChatMemberStatus Enumeration" Url="html/T_Telegram_Bot_Types_Enums_ChatMemberStatus.htm" />
     <HelpTOCNode Title="ChatType Enumeration" Url="html/T_Telegram_Bot_Types_Enums_ChatType.htm" />
@@ -864,10 +744,10 @@
     <HelpTOCNode Title="ParseMode Enumeration" Url="html/T_Telegram_Bot_Types_Enums_ParseMode.htm" />
     <HelpTOCNode Title="UpdateType Enumeration" Url="html/T_Telegram_Bot_Types_Enums_UpdateType.htm" />
   </HelpTOCNode>
-  <HelpTOCNode Id="f912b359-9d59-4245-afb3-ecff004be484" Title="Telegram.Bot.Types.InlineQueryResults" Url="html/N_Telegram_Bot_Types_InlineQueryResults.htm">
-    <HelpTOCNode Id="95fb73af-6dbb-41f5-b3bb-b0f10c476f8e" Title="InlineQueryResult Class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResult.htm">
+  <HelpTOCNode Id="c1b4e9b8-47d5-43b2-afef-186c4d50bdeb" Title="Telegram.Bot.Types.InlineQueryResults" Url="html/N_Telegram_Bot_Types_InlineQueryResults.htm">
+    <HelpTOCNode Id="0eacfdc2-1d74-4a09-8479-5cf95f01055e" Title="InlineQueryResult Class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResult.htm">
       <HelpTOCNode Title="InlineQueryResult Constructor " Url="html/M_Telegram_Bot_Types_InlineQueryResults_InlineQueryResult__ctor.htm" />
-      <HelpTOCNode Id="88907edb-d09c-47b4-a909-3c53ed0a8512" Title="InlineQueryResult Properties" Url="html/Properties_T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResult.htm">
+      <HelpTOCNode Id="5989fb17-44cd-40f0-8be9-e2e65e345cb1" Title="InlineQueryResult Properties" Url="html/Properties_T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResult.htm">
         <HelpTOCNode Title="Id Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResult_Id.htm" />
         <HelpTOCNode Title="InputMessageContent Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResult_InputMessageContent.htm" />
         <HelpTOCNode Title="ReplyMarkup Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResult_ReplyMarkup.htm" />
@@ -876,18 +756,18 @@
       </HelpTOCNode>
       <HelpTOCNode Title="InlineQueryResult Methods" Url="html/Methods_T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResult.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="577079c3-16a0-4811-96fc-1a07ac329b6d" Title="InlineQueryResultArticle Class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultArticle.htm">
+    <HelpTOCNode Id="af96d8fd-06b1-486e-89ad-f34df380c460" Title="InlineQueryResultArticle Class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultArticle.htm">
       <HelpTOCNode Title="InlineQueryResultArticle Constructor " Url="html/M_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultArticle__ctor.htm" />
-      <HelpTOCNode Id="276685ca-f5c5-4b0f-a76e-41919f0d89c1" Title="InlineQueryResultArticle Properties" Url="html/Properties_T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultArticle.htm">
+      <HelpTOCNode Id="3e5acd54-142f-493f-9aa2-4ad0caa7019f" Title="InlineQueryResultArticle Properties" Url="html/Properties_T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultArticle.htm">
         <HelpTOCNode Title="Description Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultArticle_Description.htm" />
         <HelpTOCNode Title="HideUrl Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultArticle_HideUrl.htm" />
         <HelpTOCNode Title="Url Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultArticle_Url.htm" />
       </HelpTOCNode>
       <HelpTOCNode Title="InlineQueryResultArticle Methods" Url="html/Methods_T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultArticle.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="1b53c04a-c660-4145-8445-5e6e4bf01c6f" Title="InlineQueryResultAudio Class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultAudio.htm">
+    <HelpTOCNode Id="f6811389-39aa-43c6-b6d8-00212d05776e" Title="InlineQueryResultAudio Class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultAudio.htm">
       <HelpTOCNode Title="InlineQueryResultAudio Constructor " Url="html/M_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultAudio__ctor.htm" />
-      <HelpTOCNode Id="104b8d1a-264f-46f0-a2e1-506d0fa598b0" Title="InlineQueryResultAudio Properties" Url="html/Properties_T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultAudio.htm">
+      <HelpTOCNode Id="02ef4b5b-9290-462a-a1d8-1860d7b3bf25" Title="InlineQueryResultAudio Properties" Url="html/Properties_T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultAudio.htm">
         <HelpTOCNode Title="Duration Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultAudio_Duration.htm" />
         <HelpTOCNode Title="FileId Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultAudio_FileId.htm" />
         <HelpTOCNode Title="Performer Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultAudio_Performer.htm" />
@@ -898,80 +778,80 @@
       </HelpTOCNode>
       <HelpTOCNode Title="InlineQueryResultAudio Methods" Url="html/Methods_T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultAudio.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="ad1b2a17-ac60-46ee-8d3b-1c5de3e6a139" Title="InlineQueryResultCached Class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCached.htm">
+    <HelpTOCNode Id="d9b26aec-ceaf-42d2-b476-d3afadaf20fa" Title="InlineQueryResultCached Class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCached.htm">
       <HelpTOCNode Title="InlineQueryResultCached Constructor " Url="html/M_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCached__ctor.htm" />
-      <HelpTOCNode Id="e8166893-46db-45cd-bd9e-2acb9f68a47b" Title="InlineQueryResultCached Properties" Url="html/Properties_T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCached.htm">
+      <HelpTOCNode Id="8d3ab07a-f6cb-479d-bf11-910c45c16587" Title="InlineQueryResultCached Properties" Url="html/Properties_T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCached.htm">
         <HelpTOCNode Title="Caption Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCached_Caption.htm" />
       </HelpTOCNode>
       <HelpTOCNode Title="InlineQueryResultCached Methods" Url="html/Methods_T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCached.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="2ce5f739-117b-414b-9975-16b547268ffd" Title="InlineQueryResultCachedAudio Class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedAudio.htm">
+    <HelpTOCNode Id="570ba5c9-b36d-4437-946b-5b2065c0f997" Title="InlineQueryResultCachedAudio Class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedAudio.htm">
       <HelpTOCNode Title="InlineQueryResultCachedAudio Constructor " Url="html/M_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedAudio__ctor.htm" />
-      <HelpTOCNode Id="fef312a7-eff5-4b8a-8c1e-bb4929e5f527" Title="InlineQueryResultCachedAudio Properties" Url="html/Properties_T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedAudio.htm">
+      <HelpTOCNode Id="32f5cef4-8ba6-46d7-b78a-967c60a220e1" Title="InlineQueryResultCachedAudio Properties" Url="html/Properties_T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedAudio.htm">
         <HelpTOCNode Title="Caption Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedAudio_Caption.htm" />
         <HelpTOCNode Title="FileId Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedAudio_FileId.htm" />
         <HelpTOCNode Title="Title Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedAudio_Title.htm" />
       </HelpTOCNode>
       <HelpTOCNode Title="InlineQueryResultCachedAudio Methods" Url="html/Methods_T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedAudio.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="69b23e5a-268f-4b5f-b518-7294e94f4727" Title="InlineQueryResultCachedDocument Class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedDocument.htm">
+    <HelpTOCNode Id="83a66fe4-178b-430a-878e-52648452d554" Title="InlineQueryResultCachedDocument Class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedDocument.htm">
       <HelpTOCNode Title="InlineQueryResultCachedDocument Constructor " Url="html/M_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedDocument__ctor.htm" />
-      <HelpTOCNode Id="7a5d1871-f3d8-4662-93cb-d10ad7408cee" Title="InlineQueryResultCachedDocument Properties" Url="html/Properties_T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedDocument.htm">
+      <HelpTOCNode Id="70692f33-0989-4a7f-9b28-bc2dc6ea42fa" Title="InlineQueryResultCachedDocument Properties" Url="html/Properties_T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedDocument.htm">
         <HelpTOCNode Title="Description Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedDocument_Description.htm" />
         <HelpTOCNode Title="FileId Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedDocument_FileId.htm" />
       </HelpTOCNode>
       <HelpTOCNode Title="InlineQueryResultCachedDocument Methods" Url="html/Methods_T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedDocument.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="1000b35c-1cd6-41be-a6fe-79bc434777b9" Title="InlineQueryResultCachedGif Class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedGif.htm">
+    <HelpTOCNode Id="78b5b3b2-a787-4645-8831-69928eb857fd" Title="InlineQueryResultCachedGif Class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedGif.htm">
       <HelpTOCNode Title="InlineQueryResultCachedGif Constructor " Url="html/M_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedGif__ctor.htm" />
-      <HelpTOCNode Id="f9902f5d-3bd1-465f-ace8-566a44296a48" Title="InlineQueryResultCachedGif Properties" Url="html/Properties_T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedGif.htm">
+      <HelpTOCNode Id="5986ee0a-4acd-4433-be3e-a03fe9160927" Title="InlineQueryResultCachedGif Properties" Url="html/Properties_T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedGif.htm">
         <HelpTOCNode Title="FileId Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedGif_FileId.htm" />
       </HelpTOCNode>
       <HelpTOCNode Title="InlineQueryResultCachedGif Methods" Url="html/Methods_T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedGif.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="52bd5dad-64ae-4b7b-b895-b2a2b2d3df06" Title="InlineQueryResultCachedMpeg4Gif Class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedMpeg4Gif.htm">
+    <HelpTOCNode Id="b491cf9e-4a39-4661-b5c5-8b7fec588263" Title="InlineQueryResultCachedMpeg4Gif Class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedMpeg4Gif.htm">
       <HelpTOCNode Title="InlineQueryResultCachedMpeg4Gif Constructor " Url="html/M_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedMpeg4Gif__ctor.htm" />
-      <HelpTOCNode Id="e4d097c0-8c48-4bc5-aae5-3d5ccd3451c9" Title="InlineQueryResultCachedMpeg4Gif Properties" Url="html/Properties_T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedMpeg4Gif.htm">
+      <HelpTOCNode Id="783ea39c-bd04-4059-9003-d92293c40296" Title="InlineQueryResultCachedMpeg4Gif Properties" Url="html/Properties_T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedMpeg4Gif.htm">
         <HelpTOCNode Title="FileId Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedMpeg4Gif_FileId.htm" />
       </HelpTOCNode>
       <HelpTOCNode Title="InlineQueryResultCachedMpeg4Gif Methods" Url="html/Methods_T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedMpeg4Gif.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="8aa93115-1417-4563-8a06-32fede7bfeb2" Title="InlineQueryResultCachedPhoto Class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedPhoto.htm">
+    <HelpTOCNode Id="6f1c183b-54b1-4da9-9781-9012ae42ce6d" Title="InlineQueryResultCachedPhoto Class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedPhoto.htm">
       <HelpTOCNode Title="InlineQueryResultCachedPhoto Constructor " Url="html/M_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedPhoto__ctor.htm" />
-      <HelpTOCNode Id="a0b27d5e-843c-40ae-be45-5ca7558e37e1" Title="InlineQueryResultCachedPhoto Properties" Url="html/Properties_T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedPhoto.htm">
+      <HelpTOCNode Id="06cfaa82-a9f0-468e-b2ea-722d1c5d7545" Title="InlineQueryResultCachedPhoto Properties" Url="html/Properties_T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedPhoto.htm">
         <HelpTOCNode Title="Description Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedPhoto_Description.htm" />
         <HelpTOCNode Title="FileId Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedPhoto_FileId.htm" />
       </HelpTOCNode>
       <HelpTOCNode Title="InlineQueryResultCachedPhoto Methods" Url="html/Methods_T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedPhoto.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="60ab7cc2-02de-4d44-9fd2-8bdf5c4d035a" Title="InlineQueryResultCachedSticker Class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedSticker.htm">
+    <HelpTOCNode Id="126df62d-8d75-4f8b-ac92-b565f3f14766" Title="InlineQueryResultCachedSticker Class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedSticker.htm">
       <HelpTOCNode Title="InlineQueryResultCachedSticker Constructor " Url="html/M_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedSticker__ctor.htm" />
-      <HelpTOCNode Id="35fe074f-9947-4d1d-899d-5f09a0c71c3c" Title="InlineQueryResultCachedSticker Properties" Url="html/Properties_T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedSticker.htm">
+      <HelpTOCNode Id="1eb6cbed-4a9c-46d8-b631-59f016b6df6e" Title="InlineQueryResultCachedSticker Properties" Url="html/Properties_T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedSticker.htm">
         <HelpTOCNode Title="Caption Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedSticker_Caption.htm" />
         <HelpTOCNode Title="FileId Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedSticker_FileId.htm" />
         <HelpTOCNode Title="Title Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedSticker_Title.htm" />
       </HelpTOCNode>
       <HelpTOCNode Title="InlineQueryResultCachedSticker Methods" Url="html/Methods_T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedSticker.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="d8c5d64f-a602-4af2-a243-e3113bfd5211" Title="InlineQueryResultCachedVideo Class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedVideo.htm">
+    <HelpTOCNode Id="25d1ff8c-8aaa-46af-a6a3-25edbc06f0b8" Title="InlineQueryResultCachedVideo Class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedVideo.htm">
       <HelpTOCNode Title="InlineQueryResultCachedVideo Constructor " Url="html/M_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedVideo__ctor.htm" />
-      <HelpTOCNode Id="f42c405b-e106-4950-ae1b-b11d4d3b1772" Title="InlineQueryResultCachedVideo Properties" Url="html/Properties_T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedVideo.htm">
+      <HelpTOCNode Id="bfcbb302-c680-488d-82b4-f71fe9129717" Title="InlineQueryResultCachedVideo Properties" Url="html/Properties_T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedVideo.htm">
         <HelpTOCNode Title="Description Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedVideo_Description.htm" />
         <HelpTOCNode Title="FileId Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedVideo_FileId.htm" />
       </HelpTOCNode>
       <HelpTOCNode Title="InlineQueryResultCachedVideo Methods" Url="html/Methods_T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedVideo.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="f40991a4-858b-4cc4-987d-5bbbcd018653" Title="InlineQueryResultCachedVoice Class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedVoice.htm">
+    <HelpTOCNode Id="07a68aad-552a-4ef0-adef-43933d9b6d7e" Title="InlineQueryResultCachedVoice Class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedVoice.htm">
       <HelpTOCNode Title="InlineQueryResultCachedVoice Constructor " Url="html/M_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedVoice__ctor.htm" />
-      <HelpTOCNode Id="dd1785ba-5254-4aa9-ad4c-ea99992f769b" Title="InlineQueryResultCachedVoice Properties" Url="html/Properties_T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedVoice.htm">
+      <HelpTOCNode Id="014dd377-8d1e-45fc-97f2-17f9bc4b2611" Title="InlineQueryResultCachedVoice Properties" Url="html/Properties_T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedVoice.htm">
         <HelpTOCNode Title="Caption Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedVoice_Caption.htm" />
         <HelpTOCNode Title="FileId Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedVoice_FileId.htm" />
       </HelpTOCNode>
       <HelpTOCNode Title="InlineQueryResultCachedVoice Methods" Url="html/Methods_T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedVoice.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="4b47c35a-be36-4d55-bf69-e48a918a63e5" Title="InlineQueryResultContact Class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultContact.htm">
+    <HelpTOCNode Id="cb4a136e-ed16-4229-92ac-f1d78cae7973" Title="InlineQueryResultContact Class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultContact.htm">
       <HelpTOCNode Title="InlineQueryResultContact Constructor " Url="html/M_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultContact__ctor.htm" />
-      <HelpTOCNode Id="d805aa0d-f4d8-4b61-89ff-eab9d83ef65c" Title="InlineQueryResultContact Properties" Url="html/Properties_T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultContact.htm">
+      <HelpTOCNode Id="b76432dc-da96-499b-a18a-984dfe380d39" Title="InlineQueryResultContact Properties" Url="html/Properties_T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultContact.htm">
         <HelpTOCNode Title="FirstName Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultContact_FirstName.htm" />
         <HelpTOCNode Title="LastName Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultContact_LastName.htm" />
         <HelpTOCNode Title="PhoneNumber Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultContact_PhoneNumber.htm" />
@@ -979,9 +859,9 @@
       </HelpTOCNode>
       <HelpTOCNode Title="InlineQueryResultContact Methods" Url="html/Methods_T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultContact.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="e312a379-1f71-4dee-87bb-ee77298611ef" Title="InlineQueryResultDocument Class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultDocument.htm">
+    <HelpTOCNode Id="13e05538-1e64-4205-8c72-edf27d60da37" Title="InlineQueryResultDocument Class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultDocument.htm">
       <HelpTOCNode Title="InlineQueryResultDocument Constructor " Url="html/M_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultDocument__ctor.htm" />
-      <HelpTOCNode Id="476b0e99-393f-4388-84dc-1926ae13b56b" Title="InlineQueryResultDocument Properties" Url="html/Properties_T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultDocument.htm">
+      <HelpTOCNode Id="72662bd5-f51e-4fe8-bb92-92f2b5cb6d03" Title="InlineQueryResultDocument Properties" Url="html/Properties_T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultDocument.htm">
         <HelpTOCNode Title="Caption Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultDocument_Caption.htm" />
         <HelpTOCNode Title="Description Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultDocument_Description.htm" />
         <HelpTOCNode Title="MimeType Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultDocument_MimeType.htm" />
@@ -989,9 +869,9 @@
       </HelpTOCNode>
       <HelpTOCNode Title="InlineQueryResultDocument Methods" Url="html/Methods_T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultDocument.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="fed09043-fe02-4fd8-83df-a37f8228ad09" Title="InlineQueryResultGame Class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultGame.htm">
+    <HelpTOCNode Id="324a06a6-fb2a-4562-b1cf-5cb20371d2dd" Title="InlineQueryResultGame Class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultGame.htm">
       <HelpTOCNode Title="InlineQueryResultGame Constructor " Url="html/M_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultGame__ctor.htm" />
-      <HelpTOCNode Id="9a4f0296-31ae-4b5f-a821-49fae828527f" Title="InlineQueryResultGame Properties" Url="html/Properties_T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultGame.htm">
+      <HelpTOCNode Id="8a859c7c-5f1a-4b18-9663-799b6c48cbdf" Title="InlineQueryResultGame Properties" Url="html/Properties_T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultGame.htm">
         <HelpTOCNode Title="GameShortName Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultGame_GameShortName.htm" />
         <HelpTOCNode Title="InputMessageContent Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultGame_InputMessageContent.htm" />
         <HelpTOCNode Title="ThumbHeight Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultGame_ThumbHeight.htm" />
@@ -1001,9 +881,9 @@
       </HelpTOCNode>
       <HelpTOCNode Title="InlineQueryResultGame Methods" Url="html/Methods_T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultGame.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="d2afb890-fa82-4229-bad1-e5ef0718a2ef" Title="InlineQueryResultGif Class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultGif.htm">
+    <HelpTOCNode Id="aca51ea4-8dcf-4db0-ad1f-e26b958438f5" Title="InlineQueryResultGif Class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultGif.htm">
       <HelpTOCNode Title="InlineQueryResultGif Constructor " Url="html/M_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultGif__ctor.htm" />
-      <HelpTOCNode Id="83753231-ca9d-41a4-8865-c16917c47259" Title="InlineQueryResultGif Properties" Url="html/Properties_T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultGif.htm">
+      <HelpTOCNode Id="14e5dd2b-ca75-4e4d-b9b1-511749a27e7d" Title="InlineQueryResultGif Properties" Url="html/Properties_T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultGif.htm">
         <HelpTOCNode Title="Caption Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultGif_Caption.htm" />
         <HelpTOCNode Title="Height Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultGif_Height.htm" />
         <HelpTOCNode Title="ThumbHeight Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultGif_ThumbHeight.htm" />
@@ -1014,17 +894,17 @@
       </HelpTOCNode>
       <HelpTOCNode Title="InlineQueryResultGif Methods" Url="html/Methods_T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultGif.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="57436dd4-5dd7-49b9-9ad4-82c8d7c73b56" Title="InlineQueryResultLocation Class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultLocation.htm">
+    <HelpTOCNode Id="9fca66a0-f56a-44a0-a316-840f974bba93" Title="InlineQueryResultLocation Class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultLocation.htm">
       <HelpTOCNode Title="InlineQueryResultLocation Constructor " Url="html/M_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultLocation__ctor.htm" />
-      <HelpTOCNode Id="01553de3-f8b1-4542-8e10-684570a7f76d" Title="InlineQueryResultLocation Properties" Url="html/Properties_T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultLocation.htm">
+      <HelpTOCNode Id="9ea40ecc-c63f-42b0-8fa3-87c9377d2a9f" Title="InlineQueryResultLocation Properties" Url="html/Properties_T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultLocation.htm">
         <HelpTOCNode Title="Latitude Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultLocation_Latitude.htm" />
         <HelpTOCNode Title="Longitude Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultLocation_Longitude.htm" />
       </HelpTOCNode>
       <HelpTOCNode Title="InlineQueryResultLocation Methods" Url="html/Methods_T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultLocation.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="75cc69e8-a474-4064-8df3-ac5ffb0119b8" Title="InlineQueryResultMpeg4Gif Class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultMpeg4Gif.htm">
+    <HelpTOCNode Id="488b26d9-3a5c-46bb-a1ae-d2b4dc89e32e" Title="InlineQueryResultMpeg4Gif Class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultMpeg4Gif.htm">
       <HelpTOCNode Title="InlineQueryResultMpeg4Gif Constructor " Url="html/M_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultMpeg4Gif__ctor.htm" />
-      <HelpTOCNode Id="0f9cdb8d-91b6-4e39-a393-03dc3039c084" Title="InlineQueryResultMpeg4Gif Properties" Url="html/Properties_T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultMpeg4Gif.htm">
+      <HelpTOCNode Id="af061763-06d3-4383-868b-0d386696e160" Title="InlineQueryResultMpeg4Gif Properties" Url="html/Properties_T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultMpeg4Gif.htm">
         <HelpTOCNode Title="Caption Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultMpeg4Gif_Caption.htm" />
         <HelpTOCNode Title="Height Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultMpeg4Gif_Height.htm" />
         <HelpTOCNode Title="ThumbHeight Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultMpeg4Gif_ThumbHeight.htm" />
@@ -1034,18 +914,18 @@
       </HelpTOCNode>
       <HelpTOCNode Title="InlineQueryResultMpeg4Gif Methods" Url="html/Methods_T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultMpeg4Gif.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="04124344-525b-46e4-b89b-a41f42320fb3" Title="InlineQueryResultNew Class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultNew.htm">
+    <HelpTOCNode Id="1bfceca2-febe-4717-a988-fa04133aa720" Title="InlineQueryResultNew Class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultNew.htm">
       <HelpTOCNode Title="InlineQueryResultNew Constructor " Url="html/M_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultNew__ctor.htm" />
-      <HelpTOCNode Id="3f9937b0-2bc9-46e2-bdf6-fd83ce2a3e75" Title="InlineQueryResultNew Properties" Url="html/Properties_T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultNew.htm">
+      <HelpTOCNode Id="06873f93-ee8d-4fd8-8c3c-0ae6041eacaa" Title="InlineQueryResultNew Properties" Url="html/Properties_T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultNew.htm">
         <HelpTOCNode Title="ThumbHeight Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultNew_ThumbHeight.htm" />
         <HelpTOCNode Title="ThumbUrl Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultNew_ThumbUrl.htm" />
         <HelpTOCNode Title="ThumbWidth Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultNew_ThumbWidth.htm" />
       </HelpTOCNode>
       <HelpTOCNode Title="InlineQueryResultNew Methods" Url="html/Methods_T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultNew.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="20241256-844e-4f6a-a47c-f3fb7e6ff60c" Title="InlineQueryResultPhoto Class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultPhoto.htm">
+    <HelpTOCNode Id="c2abbac3-df71-4b33-b1f3-91a5594e9e54" Title="InlineQueryResultPhoto Class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultPhoto.htm">
       <HelpTOCNode Title="InlineQueryResultPhoto Constructor " Url="html/M_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultPhoto__ctor.htm" />
-      <HelpTOCNode Id="919e1e05-0857-4dc0-bcc3-110779cf402a" Title="InlineQueryResultPhoto Properties" Url="html/Properties_T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultPhoto.htm">
+      <HelpTOCNode Id="1898ca6f-aa47-4198-99f0-0dd2bcf50764" Title="InlineQueryResultPhoto Properties" Url="html/Properties_T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultPhoto.htm">
         <HelpTOCNode Title="Caption Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultPhoto_Caption.htm" />
         <HelpTOCNode Title="Description Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultPhoto_Description.htm" />
         <HelpTOCNode Title="Height Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultPhoto_Height.htm" />
@@ -1057,9 +937,9 @@
       <HelpTOCNode Title="InlineQueryResultPhoto Methods" Url="html/Methods_T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultPhoto.htm" />
     </HelpTOCNode>
     <HelpTOCNode Title="InlineQueryResultType Enumeration" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultType.htm" />
-    <HelpTOCNode Id="1e95e0f2-f961-4634-a985-b316fbe6c90e" Title="InlineQueryResultVenue Class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultVenue.htm">
+    <HelpTOCNode Id="9da393d0-2e9e-4f30-b924-504f56a8a6a4" Title="InlineQueryResultVenue Class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultVenue.htm">
       <HelpTOCNode Title="InlineQueryResultVenue Constructor " Url="html/M_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultVenue__ctor.htm" />
-      <HelpTOCNode Id="30070c4d-15f2-45aa-9c0d-97613e651c88" Title="InlineQueryResultVenue Properties" Url="html/Properties_T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultVenue.htm">
+      <HelpTOCNode Id="9d9e0eeb-038b-4458-9717-bc3895cae375" Title="InlineQueryResultVenue Properties" Url="html/Properties_T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultVenue.htm">
         <HelpTOCNode Title="Address Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultVenue_Address.htm" />
         <HelpTOCNode Title="FoursquareId Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultVenue_FoursquareId.htm" />
         <HelpTOCNode Title="Latitude Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultVenue_Latitude.htm" />
@@ -1067,9 +947,9 @@
       </HelpTOCNode>
       <HelpTOCNode Title="InlineQueryResultVenue Methods" Url="html/Methods_T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultVenue.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="a183042f-d310-45d2-bb6d-03a6e5667990" Title="InlineQueryResultVideo Class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultVideo.htm">
+    <HelpTOCNode Id="9cd813f2-3817-4b15-8d79-095fa7793fb2" Title="InlineQueryResultVideo Class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultVideo.htm">
       <HelpTOCNode Title="InlineQueryResultVideo Constructor " Url="html/M_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultVideo__ctor.htm" />
-      <HelpTOCNode Id="de8f18d8-8156-4081-b753-7a8cc4320ec8" Title="InlineQueryResultVideo Properties" Url="html/Properties_T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultVideo.htm">
+      <HelpTOCNode Id="728f25c0-9fa0-487c-9f58-095b162b1c96" Title="InlineQueryResultVideo Properties" Url="html/Properties_T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultVideo.htm">
         <HelpTOCNode Title="Caption Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultVideo_Caption.htm" />
         <HelpTOCNode Title="Description Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultVideo_Description.htm" />
         <HelpTOCNode Title="Duration Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultVideo_Duration.htm" />
@@ -1080,9 +960,9 @@
       </HelpTOCNode>
       <HelpTOCNode Title="InlineQueryResultVideo Methods" Url="html/Methods_T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultVideo.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="d03e9ff4-c08d-4345-bdb0-58cf3893de4e" Title="InlineQueryResultVoice Class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultVoice.htm">
+    <HelpTOCNode Id="c39cda46-8a5c-4a6c-bff1-6142075743ff" Title="InlineQueryResultVoice Class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultVoice.htm">
       <HelpTOCNode Title="InlineQueryResultVoice Constructor " Url="html/M_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultVoice__ctor.htm" />
-      <HelpTOCNode Id="71a68f4c-aece-4d62-892d-b6aa6bc3cb36" Title="InlineQueryResultVoice Properties" Url="html/Properties_T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultVoice.htm">
+      <HelpTOCNode Id="1915cdb1-af6e-4bac-98bd-4f3664772663" Title="InlineQueryResultVoice Properties" Url="html/Properties_T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultVoice.htm">
         <HelpTOCNode Title="Duration Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultVoice_Duration.htm" />
         <HelpTOCNode Title="ThumbHeight Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultVoice_ThumbHeight.htm" />
         <HelpTOCNode Title="ThumbUrl Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultVoice_ThumbUrl.htm" />
@@ -1092,40 +972,40 @@
       <HelpTOCNode Title="InlineQueryResultVoice Methods" Url="html/Methods_T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultVoice.htm" />
     </HelpTOCNode>
   </HelpTOCNode>
-  <HelpTOCNode Id="4c16d48a-c722-4672-a6af-bc8526ac8f05" Title="Telegram.Bot.Types.InputMessageContents" Url="html/N_Telegram_Bot_Types_InputMessageContents.htm">
-    <HelpTOCNode Id="545b9753-5ad5-4416-818c-7b52c4d6663d" Title="InputContactMessageContent Class" Url="html/T_Telegram_Bot_Types_InputMessageContents_InputContactMessageContent.htm">
+  <HelpTOCNode Id="393e9b53-c1f6-4158-89f7-1b0cdd4de426" Title="Telegram.Bot.Types.InputMessageContents" Url="html/N_Telegram_Bot_Types_InputMessageContents.htm">
+    <HelpTOCNode Id="a47b0dd0-b01d-4d77-a735-5da6867cf5f2" Title="InputContactMessageContent Class" Url="html/T_Telegram_Bot_Types_InputMessageContents_InputContactMessageContent.htm">
       <HelpTOCNode Title="InputContactMessageContent Constructor " Url="html/M_Telegram_Bot_Types_InputMessageContents_InputContactMessageContent__ctor.htm" />
-      <HelpTOCNode Id="76c662e9-d35a-479a-86f2-44656ad37451" Title="InputContactMessageContent Properties" Url="html/Properties_T_Telegram_Bot_Types_InputMessageContents_InputContactMessageContent.htm">
+      <HelpTOCNode Id="ca4b7de5-3290-49d1-afe2-b703886803bf" Title="InputContactMessageContent Properties" Url="html/Properties_T_Telegram_Bot_Types_InputMessageContents_InputContactMessageContent.htm">
         <HelpTOCNode Title="FirstName Property " Url="html/P_Telegram_Bot_Types_InputMessageContents_InputContactMessageContent_FirstName.htm" />
         <HelpTOCNode Title="LastName Property " Url="html/P_Telegram_Bot_Types_InputMessageContents_InputContactMessageContent_LastName.htm" />
         <HelpTOCNode Title="PhoneNumber Property " Url="html/P_Telegram_Bot_Types_InputMessageContents_InputContactMessageContent_PhoneNumber.htm" />
       </HelpTOCNode>
       <HelpTOCNode Title="InputContactMessageContent Methods" Url="html/Methods_T_Telegram_Bot_Types_InputMessageContents_InputContactMessageContent.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="84a5bb2e-e436-48ce-bcba-ddfaac7b2629" Title="InputLocationMessageContent Class" Url="html/T_Telegram_Bot_Types_InputMessageContents_InputLocationMessageContent.htm">
+    <HelpTOCNode Id="bb441659-953d-44c1-8cda-23328067e842" Title="InputLocationMessageContent Class" Url="html/T_Telegram_Bot_Types_InputMessageContents_InputLocationMessageContent.htm">
       <HelpTOCNode Title="InputLocationMessageContent Constructor " Url="html/M_Telegram_Bot_Types_InputMessageContents_InputLocationMessageContent__ctor.htm" />
-      <HelpTOCNode Id="88098a15-212b-4c2e-82e5-ae2c0729e46a" Title="InputLocationMessageContent Properties" Url="html/Properties_T_Telegram_Bot_Types_InputMessageContents_InputLocationMessageContent.htm">
+      <HelpTOCNode Id="7984b878-934d-4848-8216-5fb3a7797078" Title="InputLocationMessageContent Properties" Url="html/Properties_T_Telegram_Bot_Types_InputMessageContents_InputLocationMessageContent.htm">
         <HelpTOCNode Title="Latitude Property " Url="html/P_Telegram_Bot_Types_InputMessageContents_InputLocationMessageContent_Latitude.htm" />
         <HelpTOCNode Title="Longitude Property " Url="html/P_Telegram_Bot_Types_InputMessageContents_InputLocationMessageContent_Longitude.htm" />
       </HelpTOCNode>
       <HelpTOCNode Title="InputLocationMessageContent Methods" Url="html/Methods_T_Telegram_Bot_Types_InputMessageContents_InputLocationMessageContent.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="4c960840-1a87-41b4-bb43-8b4f9c3a1fa9" Title="InputMessageContent Class" Url="html/T_Telegram_Bot_Types_InputMessageContents_InputMessageContent.htm">
+    <HelpTOCNode Id="aac4fdf8-aec9-4beb-83c7-43b73343a872" Title="InputMessageContent Class" Url="html/T_Telegram_Bot_Types_InputMessageContents_InputMessageContent.htm">
       <HelpTOCNode Title="InputMessageContent Constructor " Url="html/M_Telegram_Bot_Types_InputMessageContents_InputMessageContent__ctor.htm" />
       <HelpTOCNode Title="InputMessageContent Methods" Url="html/Methods_T_Telegram_Bot_Types_InputMessageContents_InputMessageContent.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="c48edc8e-98c7-417a-84a0-85ee66552010" Title="InputTextMessageContent Class" Url="html/T_Telegram_Bot_Types_InputMessageContents_InputTextMessageContent.htm">
+    <HelpTOCNode Id="aec02b31-bd27-4ec2-8544-00d2e42a1182" Title="InputTextMessageContent Class" Url="html/T_Telegram_Bot_Types_InputMessageContents_InputTextMessageContent.htm">
       <HelpTOCNode Title="InputTextMessageContent Constructor " Url="html/M_Telegram_Bot_Types_InputMessageContents_InputTextMessageContent__ctor.htm" />
-      <HelpTOCNode Id="b9764b5e-8313-45f4-b604-6acf5d91ddce" Title="InputTextMessageContent Properties" Url="html/Properties_T_Telegram_Bot_Types_InputMessageContents_InputTextMessageContent.htm">
+      <HelpTOCNode Id="191c6993-f03b-4542-ae99-96f159b22f9e" Title="InputTextMessageContent Properties" Url="html/Properties_T_Telegram_Bot_Types_InputMessageContents_InputTextMessageContent.htm">
         <HelpTOCNode Title="DisableWebPagePreview Property " Url="html/P_Telegram_Bot_Types_InputMessageContents_InputTextMessageContent_DisableWebPagePreview.htm" />
         <HelpTOCNode Title="MessageText Property " Url="html/P_Telegram_Bot_Types_InputMessageContents_InputTextMessageContent_MessageText.htm" />
         <HelpTOCNode Title="ParseMode Property " Url="html/P_Telegram_Bot_Types_InputMessageContents_InputTextMessageContent_ParseMode.htm" />
       </HelpTOCNode>
       <HelpTOCNode Title="InputTextMessageContent Methods" Url="html/Methods_T_Telegram_Bot_Types_InputMessageContents_InputTextMessageContent.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="3f1cbe02-c9df-4bdb-a037-db1f1146aada" Title="InputVenueMessageContent Class" Url="html/T_Telegram_Bot_Types_InputMessageContents_InputVenueMessageContent.htm">
+    <HelpTOCNode Id="a5d24a69-bd6a-4bbc-9555-dde00fbccae8" Title="InputVenueMessageContent Class" Url="html/T_Telegram_Bot_Types_InputMessageContents_InputVenueMessageContent.htm">
       <HelpTOCNode Title="InputVenueMessageContent Constructor " Url="html/M_Telegram_Bot_Types_InputMessageContents_InputVenueMessageContent__ctor.htm" />
-      <HelpTOCNode Id="906da65a-7646-4a28-888b-e98778d013f9" Title="InputVenueMessageContent Properties" Url="html/Properties_T_Telegram_Bot_Types_InputMessageContents_InputVenueMessageContent.htm">
+      <HelpTOCNode Id="a686e926-a573-4101-94b6-b480be2a5c5c" Title="InputVenueMessageContent Properties" Url="html/Properties_T_Telegram_Bot_Types_InputMessageContents_InputVenueMessageContent.htm">
         <HelpTOCNode Title="Address Property " Url="html/P_Telegram_Bot_Types_InputMessageContents_InputVenueMessageContent_Address.htm" />
         <HelpTOCNode Title="FoursquareId Property " Url="html/P_Telegram_Bot_Types_InputMessageContents_InputVenueMessageContent_FoursquareId.htm" />
         <HelpTOCNode Title="Latitude Property " Url="html/P_Telegram_Bot_Types_InputMessageContents_InputVenueMessageContent_Latitude.htm" />
@@ -1135,49 +1015,49 @@
       <HelpTOCNode Title="InputVenueMessageContent Methods" Url="html/Methods_T_Telegram_Bot_Types_InputMessageContents_InputVenueMessageContent.htm" />
     </HelpTOCNode>
   </HelpTOCNode>
-  <HelpTOCNode Id="ebdc0ba4-a002-4ee8-bdd3-a9c194537000" Title="Telegram.Bot.Types.ReplyMarkups" Url="html/N_Telegram_Bot_Types_ReplyMarkups.htm">
-    <HelpTOCNode Id="04a73ef1-8600-40de-a5bb-301028d4191f" Title="ForceReply Class" Url="html/T_Telegram_Bot_Types_ReplyMarkups_ForceReply.htm">
+  <HelpTOCNode Id="7ff72861-6130-47e8-999e-b186e84054aa" Title="Telegram.Bot.Types.ReplyMarkups" Url="html/N_Telegram_Bot_Types_ReplyMarkups.htm">
+    <HelpTOCNode Id="e0aa1242-a352-4981-958f-e77fbd657492" Title="ForceReply Class" Url="html/T_Telegram_Bot_Types_ReplyMarkups_ForceReply.htm">
       <HelpTOCNode Title="ForceReply Constructor " Url="html/M_Telegram_Bot_Types_ReplyMarkups_ForceReply__ctor.htm" />
-      <HelpTOCNode Id="08e44519-4d72-49b2-88cf-e0d4f3d1fad7" Title="ForceReply Properties" Url="html/Properties_T_Telegram_Bot_Types_ReplyMarkups_ForceReply.htm">
+      <HelpTOCNode Id="0811b0b7-20cf-4eb2-964e-5d006f37e1be" Title="ForceReply Properties" Url="html/Properties_T_Telegram_Bot_Types_ReplyMarkups_ForceReply.htm">
         <HelpTOCNode Title="Force Property " Url="html/P_Telegram_Bot_Types_ReplyMarkups_ForceReply_Force.htm" />
       </HelpTOCNode>
       <HelpTOCNode Title="ForceReply Methods" Url="html/Methods_T_Telegram_Bot_Types_ReplyMarkups_ForceReply.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="95aed662-3932-4d44-aad8-dbf752e561fe" Title="InlineKeyboardMarkup Class" Url="html/T_Telegram_Bot_Types_ReplyMarkups_InlineKeyboardMarkup.htm">
-      <HelpTOCNode Id="e32cce9e-f362-4076-8167-13fcb9d0f4c7" Title="InlineKeyboardMarkup Constructor " Url="html/Overload_Telegram_Bot_Types_ReplyMarkups_InlineKeyboardMarkup__ctor.htm">
+    <HelpTOCNode Id="96f810e9-ef91-4ddc-842b-b9b09b5bffe4" Title="InlineKeyboardMarkup Class" Url="html/T_Telegram_Bot_Types_ReplyMarkups_InlineKeyboardMarkup.htm">
+      <HelpTOCNode Id="0ac32e65-d2fb-4bf9-9d45-e638f948f9f0" Title="InlineKeyboardMarkup Constructor " Url="html/Overload_Telegram_Bot_Types_ReplyMarkups_InlineKeyboardMarkup__ctor.htm">
         <HelpTOCNode Title="InlineKeyboardMarkup Constructor " Url="html/M_Telegram_Bot_Types_ReplyMarkups_InlineKeyboardMarkup__ctor.htm" />
         <HelpTOCNode Title="InlineKeyboardMarkup Constructor (InlineKeyboardButton[])" Url="html/M_Telegram_Bot_Types_ReplyMarkups_InlineKeyboardMarkup__ctor_1.htm" />
         <HelpTOCNode Title="InlineKeyboardMarkup Constructor (InlineKeyboardButton[][])" Url="html/M_Telegram_Bot_Types_ReplyMarkups_InlineKeyboardMarkup__ctor_2.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="5bd4f1b5-a772-405d-8c03-8a2a3c5f501f" Title="InlineKeyboardMarkup Properties" Url="html/Properties_T_Telegram_Bot_Types_ReplyMarkups_InlineKeyboardMarkup.htm">
+      <HelpTOCNode Id="2de65cfe-9a88-471c-8db2-b9e205991bba" Title="InlineKeyboardMarkup Properties" Url="html/Properties_T_Telegram_Bot_Types_ReplyMarkups_InlineKeyboardMarkup.htm">
         <HelpTOCNode Title="InlineKeyboard Property " Url="html/P_Telegram_Bot_Types_ReplyMarkups_InlineKeyboardMarkup_InlineKeyboard.htm" />
       </HelpTOCNode>
       <HelpTOCNode Title="InlineKeyboardMarkup Methods" Url="html/Methods_T_Telegram_Bot_Types_ReplyMarkups_InlineKeyboardMarkup.htm" />
     </HelpTOCNode>
     <HelpTOCNode Title="IReplyMarkup Interface" Url="html/T_Telegram_Bot_Types_ReplyMarkups_IReplyMarkup.htm" />
-    <HelpTOCNode Id="40b4a6e6-a8aa-4bf0-9514-170903c07ff8" Title="ReplyKeyboardHide Class" Url="html/T_Telegram_Bot_Types_ReplyMarkups_ReplyKeyboardHide.htm">
+    <HelpTOCNode Id="15e09bd7-f537-48ef-9025-65ec24eb28bb" Title="ReplyKeyboardHide Class" Url="html/T_Telegram_Bot_Types_ReplyMarkups_ReplyKeyboardHide.htm">
       <HelpTOCNode Title="ReplyKeyboardHide Constructor " Url="html/M_Telegram_Bot_Types_ReplyMarkups_ReplyKeyboardHide__ctor.htm" />
-      <HelpTOCNode Id="152746a7-1dab-472e-bc17-3fb2ec32195e" Title="ReplyKeyboardHide Properties" Url="html/Properties_T_Telegram_Bot_Types_ReplyMarkups_ReplyKeyboardHide.htm">
+      <HelpTOCNode Id="9ef9aa65-3573-4910-a79e-8d885af3932e" Title="ReplyKeyboardHide Properties" Url="html/Properties_T_Telegram_Bot_Types_ReplyMarkups_ReplyKeyboardHide.htm">
         <HelpTOCNode Title="HideKeyboard Property " Url="html/P_Telegram_Bot_Types_ReplyMarkups_ReplyKeyboardHide_HideKeyboard.htm" />
       </HelpTOCNode>
       <HelpTOCNode Title="ReplyKeyboardHide Methods" Url="html/Methods_T_Telegram_Bot_Types_ReplyMarkups_ReplyKeyboardHide.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="c85c1c34-0a94-4161-bbf5-ea4118d17ab2" Title="ReplyKeyboardMarkup Class" Url="html/T_Telegram_Bot_Types_ReplyMarkups_ReplyKeyboardMarkup.htm">
-      <HelpTOCNode Id="a9a2effc-86ec-43d7-9402-d5a12485fdf1" Title="ReplyKeyboardMarkup Constructor " Url="html/Overload_Telegram_Bot_Types_ReplyMarkups_ReplyKeyboardMarkup__ctor.htm">
+    <HelpTOCNode Id="af734079-6042-4df0-a7eb-ab355cb20d60" Title="ReplyKeyboardMarkup Class" Url="html/T_Telegram_Bot_Types_ReplyMarkups_ReplyKeyboardMarkup.htm">
+      <HelpTOCNode Id="7971ec78-bc46-4486-ae89-ec40fe67cd9a" Title="ReplyKeyboardMarkup Constructor " Url="html/Overload_Telegram_Bot_Types_ReplyMarkups_ReplyKeyboardMarkup__ctor.htm">
         <HelpTOCNode Title="ReplyKeyboardMarkup Constructor " Url="html/M_Telegram_Bot_Types_ReplyMarkups_ReplyKeyboardMarkup__ctor.htm" />
         <HelpTOCNode Title="ReplyKeyboardMarkup Constructor (KeyboardButton[], Boolean, Boolean)" Url="html/M_Telegram_Bot_Types_ReplyMarkups_ReplyKeyboardMarkup__ctor_1.htm" />
         <HelpTOCNode Title="ReplyKeyboardMarkup Constructor (KeyboardButton[][], Boolean, Boolean)" Url="html/M_Telegram_Bot_Types_ReplyMarkups_ReplyKeyboardMarkup__ctor_2.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="97ab51d5-ba03-4f48-b72d-68117a5ef904" Title="ReplyKeyboardMarkup Properties" Url="html/Properties_T_Telegram_Bot_Types_ReplyMarkups_ReplyKeyboardMarkup.htm">
+      <HelpTOCNode Id="0a5ff927-5eea-4f60-8365-5b698b2cdd65" Title="ReplyKeyboardMarkup Properties" Url="html/Properties_T_Telegram_Bot_Types_ReplyMarkups_ReplyKeyboardMarkup.htm">
         <HelpTOCNode Title="Keyboard Property " Url="html/P_Telegram_Bot_Types_ReplyMarkups_ReplyKeyboardMarkup_Keyboard.htm" />
         <HelpTOCNode Title="OneTimeKeyboard Property " Url="html/P_Telegram_Bot_Types_ReplyMarkups_ReplyKeyboardMarkup_OneTimeKeyboard.htm" />
         <HelpTOCNode Title="ResizeKeyboard Property " Url="html/P_Telegram_Bot_Types_ReplyMarkups_ReplyKeyboardMarkup_ResizeKeyboard.htm" />
       </HelpTOCNode>
       <HelpTOCNode Title="ReplyKeyboardMarkup Methods" Url="html/Methods_T_Telegram_Bot_Types_ReplyMarkups_ReplyKeyboardMarkup.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="cc6e2e44-c73d-498e-a005-6965961efa33" Title="ReplyMarkup Class" Url="html/T_Telegram_Bot_Types_ReplyMarkups_ReplyMarkup.htm">
+    <HelpTOCNode Id="f657dc8d-47c5-4a4d-a57e-eef1fb80754b" Title="ReplyMarkup Class" Url="html/T_Telegram_Bot_Types_ReplyMarkups_ReplyMarkup.htm">
       <HelpTOCNode Title="ReplyMarkup Constructor " Url="html/M_Telegram_Bot_Types_ReplyMarkups_ReplyMarkup__ctor.htm" />
-      <HelpTOCNode Id="8383e71d-f889-4b96-a03e-4a1fa0023a72" Title="ReplyMarkup Properties" Url="html/Properties_T_Telegram_Bot_Types_ReplyMarkups_ReplyMarkup.htm">
+      <HelpTOCNode Id="37dc1dde-1927-4078-ac66-d7f1eb81ed4c" Title="ReplyMarkup Properties" Url="html/Properties_T_Telegram_Bot_Types_ReplyMarkups_ReplyMarkup.htm">
         <HelpTOCNode Title="Selective Property " Url="html/P_Telegram_Bot_Types_ReplyMarkups_ReplyMarkup_Selective.htm" />
       </HelpTOCNode>
       <HelpTOCNode Title="ReplyMarkup Methods" Url="html/Methods_T_Telegram_Bot_Types_ReplyMarkups_ReplyMarkup.htm" />

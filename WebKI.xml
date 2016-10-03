@@ -20,12 +20,10 @@
   <HelpKINode Title="Animation.FileSize property" Url="html/P_Telegram_Bot_Types_Animation_FileSize.htm" />
   <HelpKINode Title="Animation.MimeType property" Url="html/P_Telegram_Bot_Types_Animation_MimeType.htm" />
   <HelpKINode Title="Animation.Thumb property" Url="html/P_Telegram_Bot_Types_Animation_Thumb.htm" />
-  <HelpKINode Title="AnswerCallbackQuery method" Url="html/M_Telegram_Bot_TelegramBotClient_AnswerCallbackQuery.htm" />
   <HelpKINode Title="AnswerCallbackQueryAsync method">
     <HelpKINode Title="ITelegramBotClient.AnswerCallbackQueryAsync Method " Url="html/M_Telegram_Bot_ITelegramBotClient_AnswerCallbackQueryAsync.htm" />
     <HelpKINode Title="TelegramBotClient.AnswerCallbackQueryAsync Method " Url="html/M_Telegram_Bot_TelegramBotClient_AnswerCallbackQueryAsync.htm" />
   </HelpKINode>
-  <HelpKINode Title="AnswerInlineQuery method" Url="html/M_Telegram_Bot_TelegramBotClient_AnswerInlineQuery.htm" />
   <HelpKINode Title="AnswerInlineQueryAsync method">
     <HelpKINode Title="ITelegramBotClient.AnswerInlineQueryAsync Method " Url="html/M_Telegram_Bot_ITelegramBotClient_AnswerInlineQueryAsync.htm" />
     <HelpKINode Title="TelegramBotClient.AnswerInlineQueryAsync Method " Url="html/M_Telegram_Bot_TelegramBotClient_AnswerInlineQueryAsync.htm" />
@@ -137,7 +135,6 @@
     <HelpKINode Title="type conversions" Url="html/Operators_T_Telegram_Bot_Args_CallbackQueryEventArgs.htm" />
   </HelpKINode>
   <HelpKINode Title="CallbackQueryEventArgs.CallbackQuery property" Url="html/P_Telegram_Bot_Args_CallbackQueryEventArgs_CallbackQuery.htm" />
-  <HelpKINode Title="CallbackQueryReceived event" Url="html/E_Telegram_Bot_TelegramBotClient_CallbackQueryReceived.htm" />
   <HelpKINode Title="CallbackQueryUpdate enumeration member" Url="html/T_Telegram_Bot_Types_Enums_UpdateType.htm" />
   <HelpKINode Title="Caption property">
     <HelpKINode Title="InlineQueryResultCached.Caption Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCached_Caption.htm" />
@@ -207,7 +204,6 @@
     <HelpKINode Title="type conversions" Url="html/Operators_T_Telegram_Bot_Args_ChosenInlineResultEventArgs.htm" />
   </HelpKINode>
   <HelpKINode Title="ChosenInlineResultEventArgs.ChosenInlineResult property" Url="html/P_Telegram_Bot_Args_ChosenInlineResultEventArgs_ChosenInlineResult.htm" />
-  <HelpKINode Title="ChosenInlineResultReceived event" Url="html/E_Telegram_Bot_TelegramBotClient_ChosenInlineResultReceived.htm" />
   <HelpKINode Title="ChosenInlineResultUpdate enumeration member" Url="html/T_Telegram_Bot_Types_Enums_UpdateType.htm" />
   <HelpKINode Title="Code enumeration member" Url="html/T_Telegram_Bot_Types_Enums_MessageEntityType.htm" />
   <HelpKINode Title="Code property" Url="html/P_Telegram_Bot_Types_ApiResponse_1_Code.htm" />
@@ -268,32 +264,26 @@
   <HelpKINode Title="EditDate property" Url="html/P_Telegram_Bot_Types_Message_EditDate.htm" />
   <HelpKINode Title="EditedMessage enumeration member" Url="html/T_Telegram_Bot_Types_Enums_UpdateType.htm" />
   <HelpKINode Title="EditedMessage property" Url="html/P_Telegram_Bot_Types_Update_EditedMessage.htm" />
-  <HelpKINode Title="EditInlineMessageCaption method" Url="html/M_Telegram_Bot_TelegramBotClient_EditInlineMessageCaption.htm" />
   <HelpKINode Title="EditInlineMessageCaptionAsync method">
     <HelpKINode Title="ITelegramBotClient.EditInlineMessageCaptionAsync Method " Url="html/M_Telegram_Bot_ITelegramBotClient_EditInlineMessageCaptionAsync.htm" />
     <HelpKINode Title="TelegramBotClient.EditInlineMessageCaptionAsync Method " Url="html/M_Telegram_Bot_TelegramBotClient_EditInlineMessageCaptionAsync.htm" />
   </HelpKINode>
-  <HelpKINode Title="EditInlineMessageReplyMarkup method" Url="html/M_Telegram_Bot_TelegramBotClient_EditInlineMessageReplyMarkup.htm" />
   <HelpKINode Title="EditInlineMessageReplyMarkupAsync method">
     <HelpKINode Title="ITelegramBotClient.EditInlineMessageReplyMarkupAsync Method " Url="html/M_Telegram_Bot_ITelegramBotClient_EditInlineMessageReplyMarkupAsync.htm" />
     <HelpKINode Title="TelegramBotClient.EditInlineMessageReplyMarkupAsync Method " Url="html/M_Telegram_Bot_TelegramBotClient_EditInlineMessageReplyMarkupAsync.htm" />
   </HelpKINode>
-  <HelpKINode Title="EditInlineMessageText method" Url="html/M_Telegram_Bot_TelegramBotClient_EditInlineMessageText.htm" />
   <HelpKINode Title="EditInlineMessageTextAsync method">
     <HelpKINode Title="ITelegramBotClient.EditInlineMessageTextAsync Method " Url="html/M_Telegram_Bot_ITelegramBotClient_EditInlineMessageTextAsync.htm" />
     <HelpKINode Title="TelegramBotClient.EditInlineMessageTextAsync Method " Url="html/M_Telegram_Bot_TelegramBotClient_EditInlineMessageTextAsync.htm" />
   </HelpKINode>
-  <HelpKINode Title="EditMessageCaption method" Url="html/Overload_Telegram_Bot_TelegramBotClient_EditMessageCaption.htm" />
   <HelpKINode Title="EditMessageCaptionAsync method">
     <HelpKINode Title="ITelegramBotClient.EditMessageCaptionAsync Method " Url="html/Overload_Telegram_Bot_ITelegramBotClient_EditMessageCaptionAsync.htm" />
     <HelpKINode Title="TelegramBotClient.EditMessageCaptionAsync Method " Url="html/Overload_Telegram_Bot_TelegramBotClient_EditMessageCaptionAsync.htm" />
   </HelpKINode>
-  <HelpKINode Title="EditMessageReplyMarkup method" Url="html/Overload_Telegram_Bot_TelegramBotClient_EditMessageReplyMarkup.htm" />
   <HelpKINode Title="EditMessageReplyMarkupAsync method">
     <HelpKINode Title="ITelegramBotClient.EditMessageReplyMarkupAsync Method " Url="html/Overload_Telegram_Bot_ITelegramBotClient_EditMessageReplyMarkupAsync.htm" />
     <HelpKINode Title="TelegramBotClient.EditMessageReplyMarkupAsync Method " Url="html/Overload_Telegram_Bot_TelegramBotClient_EditMessageReplyMarkupAsync.htm" />
   </HelpKINode>
-  <HelpKINode Title="EditMessageText method" Url="html/Overload_Telegram_Bot_TelegramBotClient_EditMessageText.htm" />
   <HelpKINode Title="EditMessageTextAsync method">
     <HelpKINode Title="ITelegramBotClient.EditMessageTextAsync Method " Url="html/Overload_Telegram_Bot_ITelegramBotClient_EditMessageTextAsync.htm" />
     <HelpKINode Title="TelegramBotClient.EditMessageTextAsync Method " Url="html/Overload_Telegram_Bot_TelegramBotClient_EditMessageTextAsync.htm" />
@@ -330,11 +320,11 @@
     <HelpKINode Title="InlineQueryResultCachedVideo.FileId Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedVideo_FileId.htm" />
     <HelpKINode Title="InlineQueryResultCachedVoice.FileId Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultCachedVoice_FileId.htm" />
   </HelpKINode>
-  <HelpKINode Title="FileName property">
-    <HelpKINode Title="Document.FileName Property " Url="html/P_Telegram_Bot_Types_Document_FileName.htm" />
-    <HelpKINode Title="Animation.FileName Property " Url="html/P_Telegram_Bot_Types_Animation_FileName.htm" />
-  </HelpKINode>
   <HelpKINode Title="Filename property" Url="html/P_Telegram_Bot_Types_FileToSend_Filename.htm" />
+  <HelpKINode Title="FileName property">
+    <HelpKINode Title="Animation.FileName Property " Url="html/P_Telegram_Bot_Types_Animation_FileName.htm" />
+    <HelpKINode Title="Document.FileName Property " Url="html/P_Telegram_Bot_Types_Document_FileName.htm" />
+  </HelpKINode>
   <HelpKINode Title="FilePath property" Url="html/P_Telegram_Bot_Types_File_FilePath.htm" />
   <HelpKINode Title="FileSize property">
     <HelpKINode Title="Animation.FileSize Property " Url="html/P_Telegram_Bot_Types_Animation_FileSize.htm" />
@@ -372,7 +362,6 @@
   <HelpKINode Title="ForwardDate property" Url="html/P_Telegram_Bot_Types_Message_ForwardDate.htm" />
   <HelpKINode Title="ForwardFrom property" Url="html/P_Telegram_Bot_Types_Message_ForwardFrom.htm" />
   <HelpKINode Title="ForwardFromChat property" Url="html/P_Telegram_Bot_Types_Message_ForwardFromChat.htm" />
-  <HelpKINode Title="ForwardMessage method" Url="html/Overload_Telegram_Bot_TelegramBotClient_ForwardMessage.htm" />
   <HelpKINode Title="ForwardMessageAsync method">
     <HelpKINode Title="ITelegramBotClient.ForwardMessageAsync Method " Url="html/Overload_Telegram_Bot_ITelegramBotClient_ForwardMessageAsync.htm" />
     <HelpKINode Title="TelegramBotClient.ForwardMessageAsync Method " Url="html/Overload_Telegram_Bot_TelegramBotClient_ForwardMessageAsync.htm" />
@@ -421,8 +410,6 @@
     <HelpKINode Title="CallbackQuery.GameShortName Property " Url="html/P_Telegram_Bot_Types_CallbackQuery_GameShortName.htm" />
     <HelpKINode Title="InlineQueryResultGame.GameShortName Property " Url="html/P_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultGame_GameShortName.htm" />
   </HelpKINode>
-  <HelpKINode Title="GetChat method" Url="html/Overload_Telegram_Bot_TelegramBotClient_GetChat.htm" />
-  <HelpKINode Title="GetChatAdministrators method" Url="html/Overload_Telegram_Bot_TelegramBotClient_GetChatAdministrators.htm" />
   <HelpKINode Title="GetChatAdministratorsAsync method">
     <HelpKINode Title="ITelegramBotClient.GetChatAdministratorsAsync Method " Url="html/Overload_Telegram_Bot_ITelegramBotClient_GetChatAdministratorsAsync.htm" />
     <HelpKINode Title="TelegramBotClient.GetChatAdministratorsAsync Method " Url="html/Overload_Telegram_Bot_TelegramBotClient_GetChatAdministratorsAsync.htm" />
@@ -431,43 +418,37 @@
     <HelpKINode Title="ITelegramBotClient.GetChatAsync Method " Url="html/Overload_Telegram_Bot_ITelegramBotClient_GetChatAsync.htm" />
     <HelpKINode Title="TelegramBotClient.GetChatAsync Method " Url="html/Overload_Telegram_Bot_TelegramBotClient_GetChatAsync.htm" />
   </HelpKINode>
-  <HelpKINode Title="GetChatMember method" Url="html/Overload_Telegram_Bot_TelegramBotClient_GetChatMember.htm" />
   <HelpKINode Title="GetChatMemberAsync method">
     <HelpKINode Title="ITelegramBotClient.GetChatMemberAsync Method " Url="html/Overload_Telegram_Bot_ITelegramBotClient_GetChatMemberAsync.htm" />
     <HelpKINode Title="TelegramBotClient.GetChatMemberAsync Method " Url="html/Overload_Telegram_Bot_TelegramBotClient_GetChatMemberAsync.htm" />
   </HelpKINode>
-  <HelpKINode Title="GetChatMembersCount method" Url="html/Overload_Telegram_Bot_TelegramBotClient_GetChatMembersCount.htm" />
   <HelpKINode Title="GetChatMembersCountAsync method">
     <HelpKINode Title="ITelegramBotClient.GetChatMembersCountAsync Method " Url="html/Overload_Telegram_Bot_ITelegramBotClient_GetChatMembersCountAsync.htm" />
     <HelpKINode Title="TelegramBotClient.GetChatMembersCountAsync Method " Url="html/Overload_Telegram_Bot_TelegramBotClient_GetChatMembersCountAsync.htm" />
   </HelpKINode>
-  <HelpKINode Title="GetFile method" Url="html/M_Telegram_Bot_TelegramBotClient_GetFile.htm" />
   <HelpKINode Title="GetFileAsync method">
     <HelpKINode Title="ITelegramBotClient.GetFileAsync Method " Url="html/M_Telegram_Bot_ITelegramBotClient_GetFileAsync.htm" />
     <HelpKINode Title="TelegramBotClient.GetFileAsync Method " Url="html/M_Telegram_Bot_TelegramBotClient_GetFileAsync.htm" />
   </HelpKINode>
-  <HelpKINode Title="GetGameHighScores method">
-    <HelpKINode Title="ITelegramBotClient.GetGameHighScores Method " Url="html/Overload_Telegram_Bot_ITelegramBotClient_GetGameHighScores.htm" />
-    <HelpKINode Title="TelegramBotClient.GetGameHighScores Method " Url="html/Overload_Telegram_Bot_TelegramBotClient_GetGameHighScores.htm" />
+  <HelpKINode Title="GetGameHighScoresAsync method">
+    <HelpKINode Title="ITelegramBotClient.GetGameHighScoresAsync Method " Url="html/Overload_Telegram_Bot_ITelegramBotClient_GetGameHighScoresAsync.htm" />
+    <HelpKINode Title="TelegramBotClient.GetGameHighScoresAsync Method " Url="html/Overload_Telegram_Bot_TelegramBotClient_GetGameHighScoresAsync.htm" />
   </HelpKINode>
-  <HelpKINode Title="GetMe method" Url="html/M_Telegram_Bot_TelegramBotClient_GetMe.htm" />
   <HelpKINode Title="GetMeAsync method">
     <HelpKINode Title="ITelegramBotClient.GetMeAsync Method " Url="html/M_Telegram_Bot_ITelegramBotClient_GetMeAsync.htm" />
     <HelpKINode Title="TelegramBotClient.GetMeAsync Method " Url="html/M_Telegram_Bot_TelegramBotClient_GetMeAsync.htm" />
   </HelpKINode>
-  <HelpKINode Title="GetUpdates method" Url="html/M_Telegram_Bot_TelegramBotClient_GetUpdates.htm" />
   <HelpKINode Title="GetUpdatesAsync method">
     <HelpKINode Title="ITelegramBotClient.GetUpdatesAsync Method " Url="html/M_Telegram_Bot_ITelegramBotClient_GetUpdatesAsync.htm" />
     <HelpKINode Title="TelegramBotClient.GetUpdatesAsync Method " Url="html/M_Telegram_Bot_TelegramBotClient_GetUpdatesAsync.htm" />
   </HelpKINode>
-  <HelpKINode Title="GetUserProfilePhotos method" Url="html/M_Telegram_Bot_TelegramBotClient_GetUserProfilePhotos.htm" />
   <HelpKINode Title="GetUserProfilePhotosAsync method">
     <HelpKINode Title="ITelegramBotClient.GetUserProfilePhotosAsync Method " Url="html/M_Telegram_Bot_ITelegramBotClient_GetUserProfilePhotosAsync.htm" />
     <HelpKINode Title="TelegramBotClient.GetUserProfilePhotosAsync Method " Url="html/M_Telegram_Bot_TelegramBotClient_GetUserProfilePhotosAsync.htm" />
   </HelpKINode>
-  <HelpKINode Title="GetWebhookInfo method">
-    <HelpKINode Title="ITelegramBotClient.GetWebhookInfo Method " Url="html/M_Telegram_Bot_ITelegramBotClient_GetWebhookInfo.htm" />
-    <HelpKINode Title="TelegramBotClient.GetWebhookInfo Method " Url="html/M_Telegram_Bot_TelegramBotClient_GetWebhookInfo.htm" />
+  <HelpKINode Title="GetWebhookInfoAsync method">
+    <HelpKINode Title="ITelegramBotClient.GetWebhookInfoAsync Method " Url="html/M_Telegram_Bot_ITelegramBotClient_GetWebhookInfoAsync.htm" />
+    <HelpKINode Title="TelegramBotClient.GetWebhookInfoAsync Method " Url="html/M_Telegram_Bot_TelegramBotClient_GetWebhookInfoAsync.htm" />
   </HelpKINode>
   <HelpKINode Title="Gif enumeration member" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResultType.htm" />
   <HelpKINode Title="Group enumeration member" Url="html/T_Telegram_Bot_Types_Enums_ChatType.htm" />
@@ -548,7 +529,6 @@
     <HelpKINode Title="type conversions" Url="html/Operators_T_Telegram_Bot_Args_InlineQueryEventArgs.htm" />
   </HelpKINode>
   <HelpKINode Title="InlineQueryEventArgs.InlineQuery property" Url="html/P_Telegram_Bot_Args_InlineQueryEventArgs_InlineQuery.htm" />
-  <HelpKINode Title="InlineQueryReceived event" Url="html/E_Telegram_Bot_TelegramBotClient_InlineQueryReceived.htm" />
   <HelpKINode Title="InlineQueryResult class">
     <HelpKINode Title="InlineQueryResult Class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResult.htm" />
     <HelpKINode Title="about InlineQueryResult class" Url="html/T_Telegram_Bot_Types_InlineQueryResults_InlineQueryResult.htm" />
@@ -908,11 +888,11 @@
   <HelpKINode Title="ITelegramBotClient.GetChatMemberAsync method" Url="html/Overload_Telegram_Bot_ITelegramBotClient_GetChatMemberAsync.htm" />
   <HelpKINode Title="ITelegramBotClient.GetChatMembersCountAsync method" Url="html/Overload_Telegram_Bot_ITelegramBotClient_GetChatMembersCountAsync.htm" />
   <HelpKINode Title="ITelegramBotClient.GetFileAsync method" Url="html/M_Telegram_Bot_ITelegramBotClient_GetFileAsync.htm" />
-  <HelpKINode Title="ITelegramBotClient.GetGameHighScores method" Url="html/Overload_Telegram_Bot_ITelegramBotClient_GetGameHighScores.htm" />
+  <HelpKINode Title="ITelegramBotClient.GetGameHighScoresAsync method" Url="html/Overload_Telegram_Bot_ITelegramBotClient_GetGameHighScoresAsync.htm" />
   <HelpKINode Title="ITelegramBotClient.GetMeAsync method" Url="html/M_Telegram_Bot_ITelegramBotClient_GetMeAsync.htm" />
   <HelpKINode Title="ITelegramBotClient.GetUpdatesAsync method" Url="html/M_Telegram_Bot_ITelegramBotClient_GetUpdatesAsync.htm" />
   <HelpKINode Title="ITelegramBotClient.GetUserProfilePhotosAsync method" Url="html/M_Telegram_Bot_ITelegramBotClient_GetUserProfilePhotosAsync.htm" />
-  <HelpKINode Title="ITelegramBotClient.GetWebhookInfo method" Url="html/M_Telegram_Bot_ITelegramBotClient_GetWebhookInfo.htm" />
+  <HelpKINode Title="ITelegramBotClient.GetWebhookInfoAsync method" Url="html/M_Telegram_Bot_ITelegramBotClient_GetWebhookInfoAsync.htm" />
   <HelpKINode Title="ITelegramBotClient.IsReceiving property" Url="html/P_Telegram_Bot_ITelegramBotClient_IsReceiving.htm" />
   <HelpKINode Title="ITelegramBotClient.KickChatMemberAsync method" Url="html/Overload_Telegram_Bot_ITelegramBotClient_KickChatMemberAsync.htm" />
   <HelpKINode Title="ITelegramBotClient.LeaveChatAsync method" Url="html/Overload_Telegram_Bot_ITelegramBotClient_LeaveChatAsync.htm" />
@@ -930,7 +910,7 @@
   <HelpKINode Title="ITelegramBotClient.SendChatActionAsync method" Url="html/Overload_Telegram_Bot_ITelegramBotClient_SendChatActionAsync.htm" />
   <HelpKINode Title="ITelegramBotClient.SendContactAsync method" Url="html/Overload_Telegram_Bot_ITelegramBotClient_SendContactAsync.htm" />
   <HelpKINode Title="ITelegramBotClient.SendDocumentAsync method" Url="html/Overload_Telegram_Bot_ITelegramBotClient_SendDocumentAsync.htm" />
-  <HelpKINode Title="ITelegramBotClient.SendGame method" Url="html/Overload_Telegram_Bot_ITelegramBotClient_SendGame.htm" />
+  <HelpKINode Title="ITelegramBotClient.SendGameAsync method" Url="html/Overload_Telegram_Bot_ITelegramBotClient_SendGameAsync.htm" />
   <HelpKINode Title="ITelegramBotClient.SendLocationAsync method" Url="html/Overload_Telegram_Bot_ITelegramBotClient_SendLocationAsync.htm" />
   <HelpKINode Title="ITelegramBotClient.SendPhotoAsync method" Url="html/Overload_Telegram_Bot_ITelegramBotClient_SendPhotoAsync.htm" />
   <HelpKINode Title="ITelegramBotClient.SendStickerAsync method" Url="html/Overload_Telegram_Bot_ITelegramBotClient_SendStickerAsync.htm" />
@@ -938,7 +918,7 @@
   <HelpKINode Title="ITelegramBotClient.SendVenueAsync method" Url="html/Overload_Telegram_Bot_ITelegramBotClient_SendVenueAsync.htm" />
   <HelpKINode Title="ITelegramBotClient.SendVideoAsync method" Url="html/Overload_Telegram_Bot_ITelegramBotClient_SendVideoAsync.htm" />
   <HelpKINode Title="ITelegramBotClient.SendVoiceAsync method" Url="html/Overload_Telegram_Bot_ITelegramBotClient_SendVoiceAsync.htm" />
-  <HelpKINode Title="ITelegramBotClient.SetGameScore method" Url="html/Overload_Telegram_Bot_ITelegramBotClient_SetGameScore.htm" />
+  <HelpKINode Title="ITelegramBotClient.SetGameScoreAsync method" Url="html/Overload_Telegram_Bot_ITelegramBotClient_SetGameScoreAsync.htm" />
   <HelpKINode Title="ITelegramBotClient.SetWebhookAsync method" Url="html/M_Telegram_Bot_ITelegramBotClient_SetWebhookAsync.htm" />
   <HelpKINode Title="ITelegramBotClient.StartReceiving method" Url="html/Overload_Telegram_Bot_ITelegramBotClient_StartReceiving.htm" />
   <HelpKINode Title="ITelegramBotClient.StopReceiving method" Url="html/M_Telegram_Bot_ITelegramBotClient_StopReceiving.htm" />
@@ -960,7 +940,6 @@
   <HelpKINode Title="KeyboardButton.RequestContact property" Url="html/P_Telegram_Bot_Types_KeyboardButton_RequestContact.htm" />
   <HelpKINode Title="KeyboardButton.RequestLocation property" Url="html/P_Telegram_Bot_Types_KeyboardButton_RequestLocation.htm" />
   <HelpKINode Title="KeyboardButton.Text property" Url="html/P_Telegram_Bot_Types_KeyboardButton_Text.htm" />
-  <HelpKINode Title="KickChatMember method" Url="html/Overload_Telegram_Bot_TelegramBotClient_KickChatMember.htm" />
   <HelpKINode Title="KickChatMemberAsync method">
     <HelpKINode Title="ITelegramBotClient.KickChatMemberAsync Method " Url="html/Overload_Telegram_Bot_ITelegramBotClient_KickChatMemberAsync.htm" />
     <HelpKINode Title="TelegramBotClient.KickChatMemberAsync Method " Url="html/Overload_Telegram_Bot_TelegramBotClient_KickChatMemberAsync.htm" />
@@ -982,7 +961,6 @@
     <HelpKINode Title="InputVenueMessageContent.Latitude Property " Url="html/P_Telegram_Bot_Types_InputMessageContents_InputVenueMessageContent_Latitude.htm" />
     <HelpKINode Title="Location.Latitude Property " Url="html/P_Telegram_Bot_Types_Location_Latitude.htm" />
   </HelpKINode>
-  <HelpKINode Title="LeaveChat method" Url="html/Overload_Telegram_Bot_TelegramBotClient_LeaveChat.htm" />
   <HelpKINode Title="LeaveChatAsync method">
     <HelpKINode Title="ITelegramBotClient.LeaveChatAsync Method " Url="html/Overload_Telegram_Bot_ITelegramBotClient_LeaveChatAsync.htm" />
     <HelpKINode Title="TelegramBotClient.LeaveChatAsync Method " Url="html/Overload_Telegram_Bot_TelegramBotClient_LeaveChatAsync.htm" />
@@ -1067,7 +1045,6 @@
   <HelpKINode Title="Message.Venue property" Url="html/P_Telegram_Bot_Types_Message_Venue.htm" />
   <HelpKINode Title="Message.Video property" Url="html/P_Telegram_Bot_Types_Message_Video.htm" />
   <HelpKINode Title="Message.Voice property" Url="html/P_Telegram_Bot_Types_Message_Voice.htm" />
-  <HelpKINode Title="MessageEdited event" Url="html/E_Telegram_Bot_TelegramBotClient_MessageEdited.htm" />
   <HelpKINode Title="MessageEntity class">
     <HelpKINode Title="MessageEntity Class" Url="html/T_Telegram_Bot_Types_MessageEntity.htm" />
     <HelpKINode Title="about MessageEntity class" Url="html/T_Telegram_Bot_Types_MessageEntity.htm" />
@@ -1095,7 +1072,6 @@
     <HelpKINode Title="ITelegramBotClient.MessageOffset Property " Url="html/P_Telegram_Bot_ITelegramBotClient_MessageOffset.htm" />
     <HelpKINode Title="TelegramBotClient.MessageOffset Property " Url="html/P_Telegram_Bot_TelegramBotClient_MessageOffset.htm" />
   </HelpKINode>
-  <HelpKINode Title="MessageReceived event" Url="html/E_Telegram_Bot_TelegramBotClient_MessageReceived.htm" />
   <HelpKINode Title="MessageText property" Url="html/P_Telegram_Bot_Types_InputMessageContents_InputTextMessageContent_MessageText.htm" />
   <HelpKINode Title="MessageType enumeration" Url="html/T_Telegram_Bot_Types_Enums_MessageType.htm" />
   <HelpKINode Title="MessageUpdate enumeration member" Url="html/T_Telegram_Bot_Types_Enums_UpdateType.htm" />
@@ -1195,7 +1171,6 @@
     <HelpKINode Title="ChosenInlineResult.Query Property " Url="html/P_Telegram_Bot_Types_ChosenInlineResult_Query.htm" />
     <HelpKINode Title="InlineQuery.Query Property " Url="html/P_Telegram_Bot_Types_InlineQuery_Query.htm" />
   </HelpKINode>
-  <HelpKINode Title="ReceiveError event" Url="html/E_Telegram_Bot_TelegramBotClient_ReceiveError.htm" />
   <HelpKINode Title="ReceiveErrorEventArgs class">
     <HelpKINode Title="ReceiveErrorEventArgs Class" Url="html/T_Telegram_Bot_Args_ReceiveErrorEventArgs.htm" />
     <HelpKINode Title="about ReceiveErrorEventArgs class" Url="html/T_Telegram_Bot_Args_ReceiveErrorEventArgs.htm" />
@@ -1252,71 +1227,59 @@
   <HelpKINode Title="ResultObject property" Url="html/P_Telegram_Bot_Types_ApiResponse_1_ResultObject.htm" />
   <HelpKINode Title="Score property" Url="html/P_Telegram_Bot_Types_GameHighScore_Score.htm" />
   <HelpKINode Title="Selective property" Url="html/P_Telegram_Bot_Types_ReplyMarkups_ReplyMarkup_Selective.htm" />
-  <HelpKINode Title="SendAudio method" Url="html/Overload_Telegram_Bot_TelegramBotClient_SendAudio.htm" />
   <HelpKINode Title="SendAudioAsync method">
     <HelpKINode Title="ITelegramBotClient.SendAudioAsync Method " Url="html/Overload_Telegram_Bot_ITelegramBotClient_SendAudioAsync.htm" />
     <HelpKINode Title="TelegramBotClient.SendAudioAsync Method " Url="html/Overload_Telegram_Bot_TelegramBotClient_SendAudioAsync.htm" />
   </HelpKINode>
-  <HelpKINode Title="SendChatAction method" Url="html/Overload_Telegram_Bot_TelegramBotClient_SendChatAction.htm" />
   <HelpKINode Title="SendChatActionAsync method">
     <HelpKINode Title="ITelegramBotClient.SendChatActionAsync Method " Url="html/Overload_Telegram_Bot_ITelegramBotClient_SendChatActionAsync.htm" />
     <HelpKINode Title="TelegramBotClient.SendChatActionAsync Method " Url="html/Overload_Telegram_Bot_TelegramBotClient_SendChatActionAsync.htm" />
   </HelpKINode>
-  <HelpKINode Title="SendContact method" Url="html/Overload_Telegram_Bot_TelegramBotClient_SendContact.htm" />
   <HelpKINode Title="SendContactAsync method">
     <HelpKINode Title="ITelegramBotClient.SendContactAsync Method " Url="html/Overload_Telegram_Bot_ITelegramBotClient_SendContactAsync.htm" />
     <HelpKINode Title="TelegramBotClient.SendContactAsync Method " Url="html/Overload_Telegram_Bot_TelegramBotClient_SendContactAsync.htm" />
   </HelpKINode>
-  <HelpKINode Title="SendDocument method" Url="html/Overload_Telegram_Bot_TelegramBotClient_SendDocument.htm" />
   <HelpKINode Title="SendDocumentAsync method">
     <HelpKINode Title="ITelegramBotClient.SendDocumentAsync Method " Url="html/Overload_Telegram_Bot_ITelegramBotClient_SendDocumentAsync.htm" />
     <HelpKINode Title="TelegramBotClient.SendDocumentAsync Method " Url="html/Overload_Telegram_Bot_TelegramBotClient_SendDocumentAsync.htm" />
   </HelpKINode>
-  <HelpKINode Title="SendGame method">
-    <HelpKINode Title="ITelegramBotClient.SendGame Method " Url="html/Overload_Telegram_Bot_ITelegramBotClient_SendGame.htm" />
-    <HelpKINode Title="TelegramBotClient.SendGame Method " Url="html/Overload_Telegram_Bot_TelegramBotClient_SendGame.htm" />
+  <HelpKINode Title="SendGameAsync method">
+    <HelpKINode Title="ITelegramBotClient.SendGameAsync Method " Url="html/Overload_Telegram_Bot_ITelegramBotClient_SendGameAsync.htm" />
+    <HelpKINode Title="TelegramBotClient.SendGameAsync Method " Url="html/Overload_Telegram_Bot_TelegramBotClient_SendGameAsync.htm" />
   </HelpKINode>
-  <HelpKINode Title="SendLocation method" Url="html/Overload_Telegram_Bot_TelegramBotClient_SendLocation.htm" />
   <HelpKINode Title="SendLocationAsync method">
     <HelpKINode Title="ITelegramBotClient.SendLocationAsync Method " Url="html/Overload_Telegram_Bot_ITelegramBotClient_SendLocationAsync.htm" />
     <HelpKINode Title="TelegramBotClient.SendLocationAsync Method " Url="html/Overload_Telegram_Bot_TelegramBotClient_SendLocationAsync.htm" />
   </HelpKINode>
-  <HelpKINode Title="SendPhoto method" Url="html/Overload_Telegram_Bot_TelegramBotClient_SendPhoto.htm" />
   <HelpKINode Title="SendPhotoAsync method">
     <HelpKINode Title="ITelegramBotClient.SendPhotoAsync Method " Url="html/Overload_Telegram_Bot_ITelegramBotClient_SendPhotoAsync.htm" />
     <HelpKINode Title="TelegramBotClient.SendPhotoAsync Method " Url="html/Overload_Telegram_Bot_TelegramBotClient_SendPhotoAsync.htm" />
   </HelpKINode>
-  <HelpKINode Title="SendSticker method" Url="html/Overload_Telegram_Bot_TelegramBotClient_SendSticker.htm" />
   <HelpKINode Title="SendStickerAsync method">
     <HelpKINode Title="ITelegramBotClient.SendStickerAsync Method " Url="html/Overload_Telegram_Bot_ITelegramBotClient_SendStickerAsync.htm" />
     <HelpKINode Title="TelegramBotClient.SendStickerAsync Method " Url="html/Overload_Telegram_Bot_TelegramBotClient_SendStickerAsync.htm" />
   </HelpKINode>
-  <HelpKINode Title="SendTextMessage method" Url="html/Overload_Telegram_Bot_TelegramBotClient_SendTextMessage.htm" />
   <HelpKINode Title="SendTextMessageAsync method">
     <HelpKINode Title="ITelegramBotClient.SendTextMessageAsync Method " Url="html/Overload_Telegram_Bot_ITelegramBotClient_SendTextMessageAsync.htm" />
     <HelpKINode Title="TelegramBotClient.SendTextMessageAsync Method " Url="html/Overload_Telegram_Bot_TelegramBotClient_SendTextMessageAsync.htm" />
   </HelpKINode>
-  <HelpKINode Title="SendVenue method" Url="html/Overload_Telegram_Bot_TelegramBotClient_SendVenue.htm" />
   <HelpKINode Title="SendVenueAsync method">
     <HelpKINode Title="ITelegramBotClient.SendVenueAsync Method " Url="html/Overload_Telegram_Bot_ITelegramBotClient_SendVenueAsync.htm" />
     <HelpKINode Title="TelegramBotClient.SendVenueAsync Method " Url="html/Overload_Telegram_Bot_TelegramBotClient_SendVenueAsync.htm" />
   </HelpKINode>
-  <HelpKINode Title="SendVideo method" Url="html/Overload_Telegram_Bot_TelegramBotClient_SendVideo.htm" />
   <HelpKINode Title="SendVideoAsync method">
     <HelpKINode Title="ITelegramBotClient.SendVideoAsync Method " Url="html/Overload_Telegram_Bot_ITelegramBotClient_SendVideoAsync.htm" />
     <HelpKINode Title="TelegramBotClient.SendVideoAsync Method " Url="html/Overload_Telegram_Bot_TelegramBotClient_SendVideoAsync.htm" />
   </HelpKINode>
-  <HelpKINode Title="SendVoice method" Url="html/Overload_Telegram_Bot_TelegramBotClient_SendVoice.htm" />
   <HelpKINode Title="SendVoiceAsync method">
     <HelpKINode Title="ITelegramBotClient.SendVoiceAsync Method " Url="html/Overload_Telegram_Bot_ITelegramBotClient_SendVoiceAsync.htm" />
     <HelpKINode Title="TelegramBotClient.SendVoiceAsync Method " Url="html/Overload_Telegram_Bot_TelegramBotClient_SendVoiceAsync.htm" />
   </HelpKINode>
   <HelpKINode Title="ServiceMessage enumeration member" Url="html/T_Telegram_Bot_Types_Enums_MessageType.htm" />
-  <HelpKINode Title="SetGameScore method">
-    <HelpKINode Title="ITelegramBotClient.SetGameScore Method " Url="html/Overload_Telegram_Bot_ITelegramBotClient_SetGameScore.htm" />
-    <HelpKINode Title="TelegramBotClient.SetGameScore Method " Url="html/Overload_Telegram_Bot_TelegramBotClient_SetGameScore.htm" />
+  <HelpKINode Title="SetGameScoreAsync method">
+    <HelpKINode Title="ITelegramBotClient.SetGameScoreAsync Method " Url="html/Overload_Telegram_Bot_ITelegramBotClient_SetGameScoreAsync.htm" />
+    <HelpKINode Title="TelegramBotClient.SetGameScoreAsync Method " Url="html/Overload_Telegram_Bot_TelegramBotClient_SetGameScoreAsync.htm" />
   </HelpKINode>
-  <HelpKINode Title="SetWebhook method" Url="html/M_Telegram_Bot_TelegramBotClient_SetWebhook.htm" />
   <HelpKINode Title="SetWebhookAsync method">
     <HelpKINode Title="ITelegramBotClient.SetWebhookAsync Method " Url="html/M_Telegram_Bot_ITelegramBotClient_SetWebhookAsync.htm" />
     <HelpKINode Title="TelegramBotClient.SetWebhookAsync Method " Url="html/M_Telegram_Bot_TelegramBotClient_SetWebhookAsync.htm" />
@@ -1448,53 +1411,29 @@
     <HelpKINode Title="methods" Url="html/Methods_T_Telegram_Bot_TelegramBotClient.htm" />
     <HelpKINode Title="properties" Url="html/Properties_T_Telegram_Bot_TelegramBotClient.htm" />
   </HelpKINode>
-  <HelpKINode Title="TelegramBotClient.AnswerCallbackQuery method" Url="html/M_Telegram_Bot_TelegramBotClient_AnswerCallbackQuery.htm" />
   <HelpKINode Title="TelegramBotClient.AnswerCallbackQueryAsync method" Url="html/M_Telegram_Bot_TelegramBotClient_AnswerCallbackQueryAsync.htm" />
-  <HelpKINode Title="TelegramBotClient.AnswerInlineQuery method" Url="html/M_Telegram_Bot_TelegramBotClient_AnswerInlineQuery.htm" />
   <HelpKINode Title="TelegramBotClient.AnswerInlineQueryAsync method" Url="html/M_Telegram_Bot_TelegramBotClient_AnswerInlineQueryAsync.htm" />
-  <HelpKINode Title="TelegramBotClient.CallbackQueryReceived event" Url="html/E_Telegram_Bot_TelegramBotClient_CallbackQueryReceived.htm" />
-  <HelpKINode Title="TelegramBotClient.ChosenInlineResultReceived event" Url="html/E_Telegram_Bot_TelegramBotClient_ChosenInlineResultReceived.htm" />
-  <HelpKINode Title="TelegramBotClient.EditInlineMessageCaption method" Url="html/M_Telegram_Bot_TelegramBotClient_EditInlineMessageCaption.htm" />
   <HelpKINode Title="TelegramBotClient.EditInlineMessageCaptionAsync method" Url="html/M_Telegram_Bot_TelegramBotClient_EditInlineMessageCaptionAsync.htm" />
-  <HelpKINode Title="TelegramBotClient.EditInlineMessageReplyMarkup method" Url="html/M_Telegram_Bot_TelegramBotClient_EditInlineMessageReplyMarkup.htm" />
   <HelpKINode Title="TelegramBotClient.EditInlineMessageReplyMarkupAsync method" Url="html/M_Telegram_Bot_TelegramBotClient_EditInlineMessageReplyMarkupAsync.htm" />
-  <HelpKINode Title="TelegramBotClient.EditInlineMessageText method" Url="html/M_Telegram_Bot_TelegramBotClient_EditInlineMessageText.htm" />
   <HelpKINode Title="TelegramBotClient.EditInlineMessageTextAsync method" Url="html/M_Telegram_Bot_TelegramBotClient_EditInlineMessageTextAsync.htm" />
-  <HelpKINode Title="TelegramBotClient.EditMessageCaption method" Url="html/Overload_Telegram_Bot_TelegramBotClient_EditMessageCaption.htm" />
   <HelpKINode Title="TelegramBotClient.EditMessageCaptionAsync method" Url="html/Overload_Telegram_Bot_TelegramBotClient_EditMessageCaptionAsync.htm" />
-  <HelpKINode Title="TelegramBotClient.EditMessageReplyMarkup method" Url="html/Overload_Telegram_Bot_TelegramBotClient_EditMessageReplyMarkup.htm" />
   <HelpKINode Title="TelegramBotClient.EditMessageReplyMarkupAsync method" Url="html/Overload_Telegram_Bot_TelegramBotClient_EditMessageReplyMarkupAsync.htm" />
-  <HelpKINode Title="TelegramBotClient.EditMessageText method" Url="html/Overload_Telegram_Bot_TelegramBotClient_EditMessageText.htm" />
   <HelpKINode Title="TelegramBotClient.EditMessageTextAsync method" Url="html/Overload_Telegram_Bot_TelegramBotClient_EditMessageTextAsync.htm" />
-  <HelpKINode Title="TelegramBotClient.ForwardMessage method" Url="html/Overload_Telegram_Bot_TelegramBotClient_ForwardMessage.htm" />
   <HelpKINode Title="TelegramBotClient.ForwardMessageAsync method" Url="html/Overload_Telegram_Bot_TelegramBotClient_ForwardMessageAsync.htm" />
-  <HelpKINode Title="TelegramBotClient.GetChat method" Url="html/Overload_Telegram_Bot_TelegramBotClient_GetChat.htm" />
-  <HelpKINode Title="TelegramBotClient.GetChatAdministrators method" Url="html/Overload_Telegram_Bot_TelegramBotClient_GetChatAdministrators.htm" />
   <HelpKINode Title="TelegramBotClient.GetChatAdministratorsAsync method" Url="html/Overload_Telegram_Bot_TelegramBotClient_GetChatAdministratorsAsync.htm" />
   <HelpKINode Title="TelegramBotClient.GetChatAsync method" Url="html/Overload_Telegram_Bot_TelegramBotClient_GetChatAsync.htm" />
-  <HelpKINode Title="TelegramBotClient.GetChatMember method" Url="html/Overload_Telegram_Bot_TelegramBotClient_GetChatMember.htm" />
   <HelpKINode Title="TelegramBotClient.GetChatMemberAsync method" Url="html/Overload_Telegram_Bot_TelegramBotClient_GetChatMemberAsync.htm" />
-  <HelpKINode Title="TelegramBotClient.GetChatMembersCount method" Url="html/Overload_Telegram_Bot_TelegramBotClient_GetChatMembersCount.htm" />
   <HelpKINode Title="TelegramBotClient.GetChatMembersCountAsync method" Url="html/Overload_Telegram_Bot_TelegramBotClient_GetChatMembersCountAsync.htm" />
-  <HelpKINode Title="TelegramBotClient.GetFile method" Url="html/M_Telegram_Bot_TelegramBotClient_GetFile.htm" />
   <HelpKINode Title="TelegramBotClient.GetFileAsync method" Url="html/M_Telegram_Bot_TelegramBotClient_GetFileAsync.htm" />
-  <HelpKINode Title="TelegramBotClient.GetGameHighScores method" Url="html/Overload_Telegram_Bot_TelegramBotClient_GetGameHighScores.htm" />
-  <HelpKINode Title="TelegramBotClient.GetMe method" Url="html/M_Telegram_Bot_TelegramBotClient_GetMe.htm" />
+  <HelpKINode Title="TelegramBotClient.GetGameHighScoresAsync method" Url="html/Overload_Telegram_Bot_TelegramBotClient_GetGameHighScoresAsync.htm" />
   <HelpKINode Title="TelegramBotClient.GetMeAsync method" Url="html/M_Telegram_Bot_TelegramBotClient_GetMeAsync.htm" />
-  <HelpKINode Title="TelegramBotClient.GetUpdates method" Url="html/M_Telegram_Bot_TelegramBotClient_GetUpdates.htm" />
   <HelpKINode Title="TelegramBotClient.GetUpdatesAsync method" Url="html/M_Telegram_Bot_TelegramBotClient_GetUpdatesAsync.htm" />
-  <HelpKINode Title="TelegramBotClient.GetUserProfilePhotos method" Url="html/M_Telegram_Bot_TelegramBotClient_GetUserProfilePhotos.htm" />
   <HelpKINode Title="TelegramBotClient.GetUserProfilePhotosAsync method" Url="html/M_Telegram_Bot_TelegramBotClient_GetUserProfilePhotosAsync.htm" />
-  <HelpKINode Title="TelegramBotClient.GetWebhookInfo method" Url="html/M_Telegram_Bot_TelegramBotClient_GetWebhookInfo.htm" />
-  <HelpKINode Title="TelegramBotClient.InlineQueryReceived event" Url="html/E_Telegram_Bot_TelegramBotClient_InlineQueryReceived.htm" />
+  <HelpKINode Title="TelegramBotClient.GetWebhookInfoAsync method" Url="html/M_Telegram_Bot_TelegramBotClient_GetWebhookInfoAsync.htm" />
   <HelpKINode Title="TelegramBotClient.IsReceiving property" Url="html/P_Telegram_Bot_TelegramBotClient_IsReceiving.htm" />
-  <HelpKINode Title="TelegramBotClient.KickChatMember method" Url="html/Overload_Telegram_Bot_TelegramBotClient_KickChatMember.htm" />
   <HelpKINode Title="TelegramBotClient.KickChatMemberAsync method" Url="html/Overload_Telegram_Bot_TelegramBotClient_KickChatMemberAsync.htm" />
-  <HelpKINode Title="TelegramBotClient.LeaveChat method" Url="html/Overload_Telegram_Bot_TelegramBotClient_LeaveChat.htm" />
   <HelpKINode Title="TelegramBotClient.LeaveChatAsync method" Url="html/Overload_Telegram_Bot_TelegramBotClient_LeaveChatAsync.htm" />
-  <HelpKINode Title="TelegramBotClient.MessageEdited event" Url="html/E_Telegram_Bot_TelegramBotClient_MessageEdited.htm" />
   <HelpKINode Title="TelegramBotClient.MessageOffset property" Url="html/P_Telegram_Bot_TelegramBotClient_MessageOffset.htm" />
-  <HelpKINode Title="TelegramBotClient.MessageReceived event" Url="html/E_Telegram_Bot_TelegramBotClient_MessageReceived.htm" />
   <HelpKINode Title="TelegramBotClient.OnCallbackQuery event" Url="html/E_Telegram_Bot_TelegramBotClient_OnCallbackQuery.htm" />
   <HelpKINode Title="TelegramBotClient.OnInlineQuery event" Url="html/E_Telegram_Bot_TelegramBotClient_OnInlineQuery.htm" />
   <HelpKINode Title="TelegramBotClient.OnInlineResultChosen event" Url="html/E_Telegram_Bot_TelegramBotClient_OnInlineResultChosen.htm" />
@@ -1505,44 +1444,27 @@
   <HelpKINode Title="TelegramBotClient.OnUpdate event" Url="html/E_Telegram_Bot_TelegramBotClient_OnUpdate.htm" />
   <HelpKINode Title="TelegramBotClient.OnUpdateReceived method" Url="html/M_Telegram_Bot_TelegramBotClient_OnUpdateReceived.htm" />
   <HelpKINode Title="TelegramBotClient.PollingTimeout property" Url="html/P_Telegram_Bot_TelegramBotClient_PollingTimeout.htm" />
-  <HelpKINode Title="TelegramBotClient.ReceiveError event" Url="html/E_Telegram_Bot_TelegramBotClient_ReceiveError.htm" />
-  <HelpKINode Title="TelegramBotClient.SendAudio method" Url="html/Overload_Telegram_Bot_TelegramBotClient_SendAudio.htm" />
   <HelpKINode Title="TelegramBotClient.SendAudioAsync method" Url="html/Overload_Telegram_Bot_TelegramBotClient_SendAudioAsync.htm" />
-  <HelpKINode Title="TelegramBotClient.SendChatAction method" Url="html/Overload_Telegram_Bot_TelegramBotClient_SendChatAction.htm" />
   <HelpKINode Title="TelegramBotClient.SendChatActionAsync method" Url="html/Overload_Telegram_Bot_TelegramBotClient_SendChatActionAsync.htm" />
-  <HelpKINode Title="TelegramBotClient.SendContact method" Url="html/Overload_Telegram_Bot_TelegramBotClient_SendContact.htm" />
   <HelpKINode Title="TelegramBotClient.SendContactAsync method" Url="html/Overload_Telegram_Bot_TelegramBotClient_SendContactAsync.htm" />
-  <HelpKINode Title="TelegramBotClient.SendDocument method" Url="html/Overload_Telegram_Bot_TelegramBotClient_SendDocument.htm" />
   <HelpKINode Title="TelegramBotClient.SendDocumentAsync method" Url="html/Overload_Telegram_Bot_TelegramBotClient_SendDocumentAsync.htm" />
-  <HelpKINode Title="TelegramBotClient.SendGame method" Url="html/Overload_Telegram_Bot_TelegramBotClient_SendGame.htm" />
-  <HelpKINode Title="TelegramBotClient.SendLocation method" Url="html/Overload_Telegram_Bot_TelegramBotClient_SendLocation.htm" />
+  <HelpKINode Title="TelegramBotClient.SendGameAsync method" Url="html/Overload_Telegram_Bot_TelegramBotClient_SendGameAsync.htm" />
   <HelpKINode Title="TelegramBotClient.SendLocationAsync method" Url="html/Overload_Telegram_Bot_TelegramBotClient_SendLocationAsync.htm" />
-  <HelpKINode Title="TelegramBotClient.SendPhoto method" Url="html/Overload_Telegram_Bot_TelegramBotClient_SendPhoto.htm" />
   <HelpKINode Title="TelegramBotClient.SendPhotoAsync method" Url="html/Overload_Telegram_Bot_TelegramBotClient_SendPhotoAsync.htm" />
-  <HelpKINode Title="TelegramBotClient.SendSticker method" Url="html/Overload_Telegram_Bot_TelegramBotClient_SendSticker.htm" />
   <HelpKINode Title="TelegramBotClient.SendStickerAsync method" Url="html/Overload_Telegram_Bot_TelegramBotClient_SendStickerAsync.htm" />
-  <HelpKINode Title="TelegramBotClient.SendTextMessage method" Url="html/Overload_Telegram_Bot_TelegramBotClient_SendTextMessage.htm" />
   <HelpKINode Title="TelegramBotClient.SendTextMessageAsync method" Url="html/Overload_Telegram_Bot_TelegramBotClient_SendTextMessageAsync.htm" />
-  <HelpKINode Title="TelegramBotClient.SendVenue method" Url="html/Overload_Telegram_Bot_TelegramBotClient_SendVenue.htm" />
   <HelpKINode Title="TelegramBotClient.SendVenueAsync method" Url="html/Overload_Telegram_Bot_TelegramBotClient_SendVenueAsync.htm" />
-  <HelpKINode Title="TelegramBotClient.SendVideo method" Url="html/Overload_Telegram_Bot_TelegramBotClient_SendVideo.htm" />
   <HelpKINode Title="TelegramBotClient.SendVideoAsync method" Url="html/Overload_Telegram_Bot_TelegramBotClient_SendVideoAsync.htm" />
-  <HelpKINode Title="TelegramBotClient.SendVoice method" Url="html/Overload_Telegram_Bot_TelegramBotClient_SendVoice.htm" />
   <HelpKINode Title="TelegramBotClient.SendVoiceAsync method" Url="html/Overload_Telegram_Bot_TelegramBotClient_SendVoiceAsync.htm" />
-  <HelpKINode Title="TelegramBotClient.SetGameScore method" Url="html/Overload_Telegram_Bot_TelegramBotClient_SetGameScore.htm" />
-  <HelpKINode Title="TelegramBotClient.SetWebhook method" Url="html/M_Telegram_Bot_TelegramBotClient_SetWebhook.htm" />
+  <HelpKINode Title="TelegramBotClient.SetGameScoreAsync method" Url="html/Overload_Telegram_Bot_TelegramBotClient_SetGameScoreAsync.htm" />
   <HelpKINode Title="TelegramBotClient.SetWebhookAsync method" Url="html/M_Telegram_Bot_TelegramBotClient_SetWebhookAsync.htm" />
   <HelpKINode Title="TelegramBotClient.StartReceiving method" Url="html/Overload_Telegram_Bot_TelegramBotClient_StartReceiving.htm" />
   <HelpKINode Title="TelegramBotClient.StopReceiving method" Url="html/M_Telegram_Bot_TelegramBotClient_StopReceiving.htm" />
   <HelpKINode Title="TelegramBotClient.TelegramBotClient constructor" Url="html/M_Telegram_Bot_TelegramBotClient__ctor.htm" />
-  <HelpKINode Title="TelegramBotClient.TestApi method" Url="html/M_Telegram_Bot_TelegramBotClient_TestApi.htm" />
   <HelpKINode Title="TelegramBotClient.TestApiAsync method" Url="html/M_Telegram_Bot_TelegramBotClient_TestApiAsync.htm" />
-  <HelpKINode Title="TelegramBotClient.UnbanChatMember method" Url="html/Overload_Telegram_Bot_TelegramBotClient_UnbanChatMember.htm" />
   <HelpKINode Title="TelegramBotClient.UnbanChatMemberAsync method" Url="html/Overload_Telegram_Bot_TelegramBotClient_UnbanChatMemberAsync.htm" />
-  <HelpKINode Title="TelegramBotClient.UpdateReceived event" Url="html/E_Telegram_Bot_TelegramBotClient_UpdateReceived.htm" />
   <HelpKINode Title="TelegramBotClient.UploadTimeout property" Url="html/P_Telegram_Bot_TelegramBotClient_UploadTimeout.htm" />
   <HelpKINode Title="TelegramBotClient.WebProxy property" Url="html/P_Telegram_Bot_TelegramBotClient_WebProxy.htm" />
-  <HelpKINode Title="TestApi method" Url="html/M_Telegram_Bot_TelegramBotClient_TestApi.htm" />
   <HelpKINode Title="TestApiAsync method">
     <HelpKINode Title="ITelegramBotClient.TestApiAsync Method " Url="html/M_Telegram_Bot_ITelegramBotClient_TestApiAsync.htm" />
     <HelpKINode Title="TelegramBotClient.TestApiAsync Method " Url="html/M_Telegram_Bot_TelegramBotClient_TestApiAsync.htm" />
@@ -1608,7 +1530,6 @@
     <HelpKINode Title="Update.Type Property " Url="html/P_Telegram_Bot_Types_Update_Type.htm" />
   </HelpKINode>
   <HelpKINode Title="Typing enumeration member" Url="html/T_Telegram_Bot_Types_Enums_ChatAction.htm" />
-  <HelpKINode Title="UnbanChatMember method" Url="html/Overload_Telegram_Bot_TelegramBotClient_UnbanChatMember.htm" />
   <HelpKINode Title="UnbanChatMemberAsync method">
     <HelpKINode Title="ITelegramBotClient.UnbanChatMemberAsync Method " Url="html/Overload_Telegram_Bot_ITelegramBotClient_UnbanChatMemberAsync.htm" />
     <HelpKINode Title="TelegramBotClient.UnbanChatMemberAsync Method " Url="html/Overload_Telegram_Bot_TelegramBotClient_UnbanChatMemberAsync.htm" />
@@ -1644,7 +1565,6 @@
   <HelpKINode Title="UpdateEventArgs to InlineQueryEventArgs conversion" Url="html/M_Telegram_Bot_Args_InlineQueryEventArgs_op_Implicit.htm" />
   <HelpKINode Title="UpdateEventArgs to MessageEventArgs conversion" Url="html/M_Telegram_Bot_Args_MessageEventArgs_op_Implicit.htm" />
   <HelpKINode Title="UpdateEventArgs.Update property" Url="html/P_Telegram_Bot_Args_UpdateEventArgs_Update.htm" />
-  <HelpKINode Title="UpdateReceived event" Url="html/E_Telegram_Bot_TelegramBotClient_UpdateReceived.htm" />
   <HelpKINode Title="UpdateType enumeration" Url="html/T_Telegram_Bot_Types_Enums_UpdateType.htm" />
   <HelpKINode Title="UploadAudio enumeration member" Url="html/T_Telegram_Bot_Types_Enums_ChatAction.htm" />
   <HelpKINode Title="UploadDocument enumeration member" Url="html/T_Telegram_Bot_Types_Enums_ChatAction.htm" />
