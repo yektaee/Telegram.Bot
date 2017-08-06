@@ -206,3 +206,6 @@ FakesAssemblies/
 
 # Settings for different environments
 appsettings.*.json
+
+# Generated Help files
+src/Telegram.Bot.Documentation/Help/
