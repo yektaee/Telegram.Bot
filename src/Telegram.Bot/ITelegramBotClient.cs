@@ -20,27 +20,6 @@ namespace Telegram.Bot
     /// </summary>
     public interface ITelegramBotClient
     {
-        #region Config Properties
-
-        /// <summary>
-        /// Timeout for requests
-        /// </summary>
-        TimeSpan Timeout { get; set; }
-
-        /// <summary>
-        /// Indicates if receiving updates
-        /// </summary>
-        bool IsReceiving { get; }
-
-        /// <summary>
-        /// The current message offset
-        /// </summary>
-        int MessageOffset { get; set; }
-
-        #endregion  Config Properties
-
-        #region Events
-
         /// <summary>
         /// Occurs before sending a request to API
         /// </summary>
@@ -51,49 +30,23 @@ namespace Telegram.Bot
         /// </summary>
         event EventHandler<ApiResponseEventArgs> ApiResponseReceived;
 
-        /// <summary>
-        /// Occurs when an <see cref="Update"/> is received.
-        /// </summary>
-        event EventHandler<UpdateEventArgs> OnUpdate;
+        #region Config Properties
 
         /// <summary>
-        /// Occurs when a <see cref="Message"/> is received.
+        /// Timeout for requests
         /// </summary>
-        event EventHandler<MessageEventArgs> OnMessage;
+        TimeSpan Timeout { get; set; }
 
-        /// <summary>
-        /// Occurs when <see cref="Message"/> was edited.
-        /// </summary>
-        event EventHandler<MessageEventArgs> OnMessageEdited;
-
-        /// <summary>
-        /// Occurs when an <see cref="InlineQuery"/> is received.
-        /// </summary>
-        event EventHandler<InlineQueryEventArgs> OnInlineQuery;
-
-        /// <summary>
-        /// Occurs when a <see cref="ChosenInlineResult"/> is received.
-        /// </summary>
-        event EventHandler<ChosenInlineResultEventArgs> OnInlineResultChosen;
-
-        /// <summary>
-        /// Occurs when an <see cref="CallbackQuery"/> is received
-        /// </summary>
-        event EventHandler<CallbackQueryEventArgs> OnCallbackQuery;
-
-        /// <summary>
-        /// Occurs when an error occurs during the background update pooling.
-        /// </summary>
-        event EventHandler<ReceiveErrorEventArgs> OnReceiveError;
-
-        /// <summary>
-        /// Occurs when an error occurs during the background update pooling.
-        /// </summary>
-        event EventHandler<ReceiveGeneralErrorEventArgs> OnReceiveGeneralError;
-
-        #endregion Events
+        #endregion  Config Properties
 
         #region Helpers
+
+        /// <summary>
+        /// Test the API token
+        /// </summary>
+        /// <param name="cancellationToken"></param>
+        /// <returns><c>true</c> if token is valid</returns>
+        Task<bool> TestApiAsync(CancellationToken cancellationToken = default);
 
         /// <summary>
         /// Send a request to Bot API
@@ -105,27 +58,6 @@ namespace Telegram.Bot
         Task<TResponse> MakeRequestAsync<TResponse>(
             IRequest<TResponse> request,
             CancellationToken cancellationToken = default);
-
-        /// <summary>
-        /// Test the API token
-        /// </summary>
-        /// <param name="cancellationToken"></param>
-        /// <returns><c>true</c> if token is valid</returns>
-        Task<bool> TestApiAsync(CancellationToken cancellationToken = default);
-
-        /// <summary>
-        /// Start update receiving
-        /// </summary>
-        /// <param name="allowedUpdates">List the types of updates you want your bot to receive.</param>
-        /// <param name="cancellationToken">A cancellation token that can be used by other objects or threads to receive notice of cancellation.</param>
-        /// <exception cref="Exceptions.ApiRequestException"> Thrown if token is invalid</exception>
-        void StartReceiving(UpdateType[] allowedUpdates = null,
-            CancellationToken cancellationToken = default);
-
-        /// <summary>
-        /// Stop update receiving
-        /// </summary>
-        void StopReceiving();
 
         #endregion Helpers
 
@@ -789,7 +721,7 @@ namespace Telegram.Bot
             bool disableWebPagePreview = default,
             InlineKeyboardMarkup replyMarkup = default,
             CancellationToken cancellationToken = default);
-        
+
         /// <summary>
         /// Use this method to stop updating a live location message sent by the bot before live_period expires.
         /// </summary>
@@ -877,7 +809,7 @@ namespace Telegram.Bot
             string inlineMessageId,
             InlineKeyboardMarkup replyMarkup = default,
             CancellationToken cancellationToken = default);
-        
+
         /// <summary>
         /// Use this method to edit live location messages sent by the bot.
         /// </summary>

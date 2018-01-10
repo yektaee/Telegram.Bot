@@ -1,7 +1,7 @@
 ﻿using System;
 using Telegram.Bot.Types;
 
-namespace Telegram.Bot.Args
+namespace Telegram.Bot.Console.Args
 {
     /// <summary>
     /// <see cref="EventArgs"/> containing an <see cref="Types.Update"/>
@@ -25,5 +25,14 @@ namespace Telegram.Bot.Args
         {
             Update = update;
         }
+
+        /// <summary>
+        /// Performs an implicit conversion from <see cref="Exceptions.ApiRequestException"/> to <see cref="ReceiveErrorEventArgs"/>.
+        /// </summary>
+        /// <param name="e">The <see cref="Exceptions.ApiRequestException"/></param>
+        /// <returns>
+        /// The result of the conversion.
+        /// </returns>
+        public static implicit operator UpdateEventArgs(Update u) => new UpdateEventArgs(u);
     }
 }

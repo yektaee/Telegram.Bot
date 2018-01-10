@@ -1,6 +1,6 @@
 using System;
 
-namespace Telegram.Bot.Args
+namespace Telegram.Bot.Console.Args
 {
     /// <summary>
     /// <see cref="EventArgs"/> containing a general <see cref="Exception"/>

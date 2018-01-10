@@ -2,7 +2,7 @@ using System;
 using Telegram.Bot.Types;
 using Telegram.Bot.Types.Enums;
 
-namespace Telegram.Bot.Args
+namespace Telegram.Bot.Console.Args
 {
     /// <summary>
     /// <see cref="EventArgs"/> containing a <see cref="Types.Message"/>
