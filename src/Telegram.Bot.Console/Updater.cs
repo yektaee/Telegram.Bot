@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Net.Http;
 using System.Threading;
 using System.Threading.Tasks;
 using Telegram.Bot.Console.Args;
@@ -9,18 +8,18 @@ using Telegram.Bot.Types.Enums;
 
 namespace Telegram.Bot.Console
 {
-    /// <summary>
-    /// A console application to use the Telegram Bot API
-    /// </summary>
-    public class TelegramBotConsoleApplication : ITelegramBotConsoleApplication
+    public class Updater : IUpdater
     {
         private CancellationTokenSource _receivingCancellationTokenSource;
+        private Task _receivingTask;
 
         /// <inheritdoc />
         public bool IsReceiving { get; private set; }
 
         /// <inheritdoc />
         public int MessageOffset { get; private set; }
+
+        public IUpdateDispatcher UpdateDispatcher { get; }
 
         public TimeSpan Timeout
         {
@@ -32,56 +31,6 @@ namespace Telegram.Bot.Console
 
         #region Events
 
-        /// <summary>
-        /// Raises the <see cref="OnUpdate" />, <see cref="OnMessage"/>, <see cref="OnInlineQuery"/>, <see cref="OnInlineResultChosen"/> and <see cref="OnCallbackQuery"/> events.
-        /// </summary>
-        /// <param name="e">The <see cref="UpdateEventArgs"/> instance containing the event data.</param>
-        protected virtual void OnUpdateReceived(UpdateEventArgs e)
-        {
-            OnUpdate?.Invoke(this, e);
-
-            switch (e.Update.Type)
-            {
-                case UpdateType.Message:
-                    OnMessage?.Invoke(this, e);
-                    break;
-
-                case UpdateType.InlineQuery:
-                    OnInlineQuery?.Invoke(this, e);
-                    break;
-
-                case UpdateType.ChosenInlineResult:
-                    OnInlineResultChosen?.Invoke(this, e);
-                    break;
-
-                case UpdateType.CallbackQuery:
-                    OnCallbackQuery?.Invoke(this, e);
-                    break;
-
-                case UpdateType.EditedMessage:
-                    OnMessageEdited?.Invoke(this, e);
-                    break;
-            }
-        }
-
-        /// <inheritdoc />
-        public event EventHandler<UpdateEventArgs> OnUpdate;
-
-        /// <inheritdoc />
-        public event EventHandler<MessageEventArgs> OnMessage;
-
-        /// <inheritdoc />
-        public event EventHandler<MessageEventArgs> OnMessageEdited;
-
-        /// <inheritdoc />
-        public event EventHandler<InlineQueryEventArgs> OnInlineQuery;
-
-        /// <inheritdoc />
-        public event EventHandler<ChosenInlineResultEventArgs> OnInlineResultChosen;
-
-        /// <inheritdoc />
-        public event EventHandler<CallbackQueryEventArgs> OnCallbackQuery;
-
         /// <inheritdoc />
         public event EventHandler<ReceiveErrorEventArgs> OnReceiveError;
 
@@ -91,26 +40,18 @@ namespace Telegram.Bot.Console
         #endregion
 
         /// <summary>
-        /// Create a new <see cref="TelegramBotConsoleApplication"/> instance.
-        /// </summary>
-        /// <param name="token">API token</param>
-        /// <param name="httpClient">A custom <see cref="HttpClient"/></param>
-        /// <exception cref="ArgumentException">Thrown if <paramref name="token"/> format is invalid</exception>
-        public TelegramBotConsoleApplication(string token, HttpClient httpClient = default)
-            : this(new TelegramBotClient(token, httpClient))
-        { }
-
-        /// <summary>
-        /// Create a new <see cref="TelegramBotConsoleApplication"/> instance.
+        /// Create a new <see cref="Updater"/> instance.
         /// </summary>
         /// <param name="client"><see cref="ITelegramBotClient"/> instance</param>
-        public TelegramBotConsoleApplication(ITelegramBotClient client)
+        /// <param name="updateDispatcher"></param>
+        public Updater(ITelegramBotClient client, IUpdateDispatcher updateDispatcher)
         {
             Client = client;
+            UpdateDispatcher = updateDispatcher;
         }
 
         /// <inheritdoc />
-        public void StartReceiving(
+        public void Start(
             int offset = default,
             int limit = default,
             IEnumerable<UpdateType> allowedUpdates = default,
@@ -119,13 +60,11 @@ namespace Telegram.Bot.Console
             _receivingCancellationTokenSource = new CancellationTokenSource();
             cancellationToken.Register(() => _receivingCancellationTokenSource.Cancel());
 
-#pragma warning disable 4014
-            ReceiveAsync(
+            _receivingTask = ReceiveAsync(
                 offset: offset,
                 limit: limit,
                 allowedUpdates: allowedUpdates,
                 cancellationToken:_receivingCancellationTokenSource.Token);
-#pragma warning restore 4014
         }
 
         private async Task ReceiveAsync(
@@ -143,7 +82,7 @@ namespace Telegram.Bot.Console
 
             while (!cancellationToken.IsCancellationRequested)
             {
-                var timeout = Convert.ToInt32(Client.Timeout);
+                var timeout = Convert.ToInt32(Client.Timeout.TotalSeconds);
 
                 try
                 {
@@ -159,7 +98,7 @@ namespace Telegram.Bot.Console
                     foreach (var update in updates)
                     {
                         MessageOffset = update.Id + 1;
-                        OnUpdateReceived(update);
+                        UpdateDispatcher.Enqueue(update);
                     }
                 }
                 catch (OperationCanceledException)
@@ -179,7 +118,7 @@ namespace Telegram.Bot.Console
         }
 
         /// <inheritdoc />
-        public void StopReceiving()
+        public void Stop()
         {
             _receivingCancellationTokenSource.Cancel();
         }
