@@ -6,6 +6,7 @@ using Xunit.Abstractions;
 
 namespace Telegram.Bot.Tests.Integ.Framework
 {
+    // ReSharper disable once UnusedMember.Global
     public class TestCollectionOrderer : ITestCollectionOrderer
     {
         private readonly string[] _orderedCollections =
