@@ -31,9 +31,9 @@ namespace Telegram.Bot
 
         private static readonly Update[] EmptyUpdates = { };
 
-        private const string BaseUrl = "https://api.telegram.org/bot";
+        private const string BaseUrl = "https://tapi.bale.ai/bot";
 
-        private const string BaseFileUrl = "https://api.telegram.org/file/bot";
+        private const string BaseFileUrl = "https://tapi.bale.ai/file/bot";
 
         private readonly string _baseRequestUrl;
 
